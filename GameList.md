@@ -344,7 +344,7 @@
 
 ### <a href="https://store.steampowered.com/app/3744480"><img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/3744480/7049348972ef20f46cffa64a903e222cd5d3f0b0.ico" width="32" height="32"></a> [Arabian Gulf](https://store.steampowered.com/app/3744480)
 
-<a href="https://store.steampowered.com/app/3744480"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/3744480/header.jpg" width="460"></a>
+<a href="https://store.steampowered.com/app/3744480"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3744480/efb96c296ba8c4832eb4a39b26f108527e92fae5/header.jpg" width="460"></a>
 
 **Dev:** IVDev &nbsp;·&nbsp; **Released:** May 30, 2025 &nbsp;·&nbsp; **Price:** $0.99
 
@@ -1180,7 +1180,7 @@
 
 ### <a href="https://store.steampowered.com/app/3636440"><img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/3636440/db469bb4738f169a2b370f8ffc2c76a999ccb8fe.ico" width="32" height="32"></a> [Click To Continue](https://store.steampowered.com/app/3636440)
 
-<a href="https://store.steampowered.com/app/3636440"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/3636440/header.jpg" width="460"></a>
+<a href="https://store.steampowered.com/app/3636440"><img src="[https://cdn.cloudflare.steamstatic.com/steam/apps/3636440/header.jpg](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3636440/0321ac8776031abea483e333dab884f6c23671e0/header.jpg)" width="460"></a>
 
 **Dev:** Basolute &nbsp;·&nbsp; **Released:** May 15, 2025 &nbsp;·&nbsp; **Price:** $4.99
 
@@ -1400,7 +1400,7 @@
 
 ### <a href="https://store.steampowered.com/app/1370120"><img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/1370120/76f64d8398b4fe28c6d790ecb402c8eaad07dcf1.ico" width="32" height="32"></a> [Construction Simulator 3 - Pocket Edition](https://store.steampowered.com/app/1370120)
 
-<a href="https://store.steampowered.com/app/1370120"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1370120/header.jpg" width="460"></a>
+<a href="https://store.steampowered.com/app/1370120"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1370120/42465c70c11e03da3d3d4c0d8ba221ca29ea6c1f/header.jpg" width="460"></a>
 
 **Dev:** weltenbauer. Software Entwicklung GmbH &nbsp;·&nbsp; **Released:** Nov 13, 2025 &nbsp;·&nbsp; **Price:** $14.99
 
@@ -2862,7 +2862,7 @@
 
 ### <a href="https://store.steampowered.com/app/3599690"><img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/3599690/3e12720610dcccdfcf9fe4360d0b8176d2c65b59.ico" width="32" height="32"></a> [Funi Raccoon Game](https://store.steampowered.com/app/3599690)
 
-<a href="https://store.steampowered.com/app/3599690"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/3599690/header.jpg" width="460"></a>
+<a href="https://store.steampowered.com/app/3599690"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3599690/301825c1ffd5d3b39aeac4b920077bfe9c102bfa/header.jpg" width="460"></a>
 
 **Dev:** Crayon, Kit  &nbsp;·&nbsp; **Released:** Mar 13, 2026 &nbsp;·&nbsp; **Price:** $11.99
 
@@ -2874,7 +2874,7 @@
 
 ### <a href="https://store.steampowered.com/app/3618390"><img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/3618390/7fbe7fcc798ebcb7a19519e0a0b93b73813fd9dd.ico" width="32" height="32"></a> [Gamblers Table](https://store.steampowered.com/app/3618390)
 
-<a href="https://store.steampowered.com/app/3618390"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/3618390/header.jpg" width="460"></a>
+<a href="https://store.steampowered.com/app/3618390"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3618390/26ef429a9baa440a27796329e6f1cbef56247471/header_alt_assets_2.jpg" width="460"></a>
 
 **Dev:** greenpixels, Bossforge &nbsp;·&nbsp; **Released:** Jan 11, 2026 &nbsp;·&nbsp; **Price:** $6.99
 
@@ -3288,7 +3288,7 @@
 
 ### <a href="https://store.steampowered.com/app/3619040"><img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/3619040/d991f95d96e1c76d2acb944bb09447628cd96caa.ico" width="32" height="32"></a> [Half-Life Legacy](https://store.steampowered.com/app/3619040)
 
-<a href="https://store.steampowered.com/app/3619040"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/3619040/header.jpg" width="460"></a>
+<a href="https://store.steampowered.com/app/3619040"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3619040/517e9c574ed41d8f729e7334119e7bf0a3025bb9/header.jpg?t=1768511459" width="460"></a>
 
 **Dev:** The Phoenix Project Software SVG &nbsp;·&nbsp; **Released:** Dec 12, 2025 &nbsp;·&nbsp; **Price:** Free
 
@@ -4540,7 +4540,7 @@
 
 ### <a href="https://store.steampowered.com/app/1538550"><img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/1538550/32609351a74393a06523eb84b5b8295534e63101.ico" width="32" height="32"></a> [LEGO® Voyagers](https://store.steampowered.com/app/1538550)
 
-<a href="https://store.steampowered.com/app/1538550"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1538550/header.jpg" width="460"></a>
+<a href="https://store.steampowered.com/app/1538550"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1538550/db718ae2be60558df2ef9fcd65302ad87a6045d4/header.jpg?t=1765323947" width="460"></a>
 
 **Dev:** Light Brick Studio &nbsp;·&nbsp; **Released:** Sep 15, 2025 &nbsp;·&nbsp; **Price:** $24.99
 
@@ -4768,7 +4768,7 @@
 
 ### <a href="https://store.steampowered.com/app/3716600"><img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/3716600/633c8d991044d60d36b3eaf9f864e219423a9d20.ico" width="32" height="32"></a> [Mage Arena](https://store.steampowered.com/app/3716600)
 
-<a href="https://store.steampowered.com/app/3716600"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/3716600/header.jpg" width="460"></a>
+<a href="https://store.steampowered.com/app/3716600"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3716600/e09e178465c67642c1214736e29d64846d966e52/header.jpg" width="460"></a>
 
 **Dev:** jrsjams &nbsp;·&nbsp; **Released:** Jul 24, 2025 &nbsp;·&nbsp; **Price:** $2.99
 
@@ -5782,7 +5782,7 @@
 
 ### <a href="https://store.steampowered.com/app/3527290"><img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/3527290/06c1b9495e8b97739b9dc2f9fc8407fe3bf83b53.ico" width="32" height="32"></a> [PEAK](https://store.steampowered.com/app/3527290)
 
-<a href="https://store.steampowered.com/app/3527290"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/3527290/header.jpg" width="460"></a>
+<a href="https://store.steampowered.com/app/3527290"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg" width="460"></a>
 
 **Dev:** Team PEAK &nbsp;·&nbsp; **Released:** Jun 16, 2025 &nbsp;·&nbsp; **Price:** $4.95
 
@@ -6632,7 +6632,7 @@
 
 ### <a href="https://store.steampowered.com/app/2427430"><img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/2427430/883b5733befc6b802950ceb03b3d5049d7221ed9.ico" width="32" height="32"></a> [S.T.A.L.K.E.R.: Call of Prypiat - Enhanced Edition](https://store.steampowered.com/app/2427430)
 
-<a href="https://store.steampowered.com/app/2427430"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/2427430/header.jpg" width="460"></a>
+<a href="https://store.steampowered.com/app/2427430"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2427430/24ab390192735d4e56efc64f9135353457ac981c/header.jpg" width="460"></a>
 
 **Dev:** GSC Game World &nbsp;·&nbsp; **Released:** May 20, 2025 &nbsp;·&nbsp; **Price:** $19.99
 
@@ -6662,7 +6662,7 @@
 
 ### <a href="https://store.steampowered.com/app/2427420"><img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/2427420/bc30a5702d68bf45fcd389dd39b86f9a99a34427.ico" width="32" height="32"></a> [S.T.A.L.K.E.R.: Clear Sky - Enhanced Edition](https://store.steampowered.com/app/2427420)
 
-<a href="https://store.steampowered.com/app/2427420"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/2427420/header.jpg" width="460"></a>
+<a href="https://store.steampowered.com/app/2427420"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2427420/cc29f2e9bdc14922b5e43f5b34058e0f902bb4a9/header.jpg" width="460"></a>
 
 **Dev:** GSC Game World &nbsp;·&nbsp; **Released:** May 20, 2025 &nbsp;·&nbsp; **Price:** $19.99
 
@@ -6692,7 +6692,7 @@
 
 ### <a href="https://store.steampowered.com/app/2427410"><img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/2427410/1acb02bbd14846f64765d1ff701c89e833e431b0.ico" width="32" height="32"></a> [S.T.A.L.K.E.R.: Shadow of Chornobyl - Enhanced Edition](https://store.steampowered.com/app/2427410)
 
-<a href="https://store.steampowered.com/app/2427410"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/2427410/header.jpg" width="460"></a>
+<a href="https://store.steampowered.com/app/2427410"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2427410/cbfdace69b303cb01148406c4bea37bb2c5d6cef/header.jpg" width="460"></a>
 
 **Dev:** GSC Game World &nbsp;·&nbsp; **Released:** May 20, 2025 &nbsp;·&nbsp; **Price:** $19.99
 
@@ -6870,7 +6870,7 @@
 
 ### <a href="https://store.steampowered.com/app/3948120"><img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/3948120/5261fb5b4af7f64b640019359ff4ce1fbe826d26.ico" width="32" height="32"></a> [Scritchy Scratchy](https://store.steampowered.com/app/3948120)
 
-<a href="https://store.steampowered.com/app/3948120"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/3948120/header.jpg" width="460"></a>
+<a href="https://store.steampowered.com/app/3948120"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3948120/3ebd05427181e24a1d791531d0572e596bf31e55/header.jpg" width="460"></a>
 
 **Dev:** Lunch Money Games &nbsp;·&nbsp; **Released:** Mar 18, 2026 &nbsp;·&nbsp; **Price:** $6.99
 
