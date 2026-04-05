@@ -1,6 +1,6 @@
 # Froggy's Steam Library
 
-**619 games** — enriched with Steam API data
+**619 games**
 
 [#](#0-9) &nbsp; [A](#a) &nbsp; [B](#b) &nbsp; [C](#c) &nbsp; [D](#d) &nbsp; [E](#e) &nbsp; [F](#f) &nbsp; [G](#g) &nbsp; [H](#h) &nbsp; [I](#i) &nbsp; [J](#j) &nbsp; [K](#k) &nbsp; [L](#l) &nbsp; [M](#m) &nbsp; [N](#n) &nbsp; [O](#o) &nbsp; [P](#p) &nbsp; [R](#r) &nbsp; [S](#s) &nbsp; [T](#t) &nbsp; [U](#u) &nbsp; [V](#v) &nbsp; [W](#w) &nbsp; [X](#x) &nbsp; [Y](#y) &nbsp; [Z](#z)
 
