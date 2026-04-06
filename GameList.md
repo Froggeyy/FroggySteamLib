@@ -1180,7 +1180,7 @@
 
 ### <a href="https://store.steampowered.com/app/3636440"><img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/3636440/db469bb4738f169a2b370f8ffc2c76a999ccb8fe.ico" width="32" height="32"></a> [Click To Continue](https://store.steampowered.com/app/3636440)
 
-<a href="https://store.steampowered.com/app/3636440"><img src="[https://cdn.cloudflare.steamstatic.com/steam/apps/3636440/header.jpg](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3636440/0321ac8776031abea483e333dab884f6c23671e0/header.jpg)" width="460"></a>
+<a href="https://store.steampowered.com/app/3636440"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3636440/0321ac8776031abea483e333dab884f6c23671e0/header.jpg" width="460"></a>
 
 **Dev:** Basolute &nbsp;·&nbsp; **Released:** May 15, 2025 &nbsp;·&nbsp; **Price:** $4.99
 
