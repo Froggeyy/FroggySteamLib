@@ -1,4 +1,4 @@
-# Froggys Steam Library
+# Froggy's Library
 
 **722 games**
 
@@ -18,7 +18,7 @@
 
 `Racing`  `Driving`  `Arcade`  `Sports`  `Automobile Sim`  `Action`
 
-🟡 **Mostly Positive** (78% of 452 reviews &nbsp;·&nbsp; 👍 354 / 👎 98)
+🟡 **Mostly Positive** (80% of 792 reviews &nbsp;·&nbsp; 👍 633 / 👎 159)
 
 ---
 
@@ -32,7 +32,7 @@
 
 `Anime`  `Board Game`  `Cute`  `Multiplayer`  `Strategy`  `Card Game`
 
-🟢 **Very Positive** (92% of 28,236 reviews &nbsp;·&nbsp; 👍 25,886 / 👎 2,350)
+🟢 **Very Positive** (91% of 30,105 reviews &nbsp;·&nbsp; 👍 27,409 / 👎 2,696)
 
 ---
 
@@ -46,7 +46,7 @@
 
 `Chess`  `Time Travel`  `Time Manipulation`  `Board Game`  `Difficult`  `Puzzle`
 
-🟢 **Overwhelmingly Positive** (97% of 8,199 reviews &nbsp;·&nbsp; 👍 7,934 / 👎 265)
+🟢 **Overwhelmingly Positive** (97% of 8,931 reviews &nbsp;·&nbsp; 👍 8,625 / 👎 306)
 
 ---
 
@@ -60,7 +60,7 @@
 
 `Psychological Horror`  `Hidden Object`  `Horror`  `Logic`  `Mystery`  `Singleplayer`
 
-🟢 **Positive** (82% of 85 reviews &nbsp;·&nbsp; 👍 70 / 👎 15)
+🟡 **Mixed** (57% of 2,214 reviews &nbsp;·&nbsp; 👍 1,254 / 👎 960)
 
 ---
 
@@ -74,7 +74,7 @@
 
 `Simulation`  `Strategy`  `Management`  `Singleplayer`  `Indie`  `Casual`
 
-🟢 **Very Positive** (89% of 16,435 reviews &nbsp;·&nbsp; 👍 14,616 / 👎 1,819)
+🟢 **Very Positive** (89% of 19,715 reviews &nbsp;·&nbsp; 👍 17,449 / 👎 2,266)
 
 🟡 **Metacritic:** [68](https://www.metacritic.com/game/pc/911-operator?ftag=MCD-06-10aaa1f)
 
@@ -92,7 +92,7 @@
 
 `Fighting`  `Martial Arts`  `Action`  `Multiplayer`  `PvP`  `Open World`
 
-🟡 **Mostly Positive** (72% of 14,536 reviews &nbsp;·&nbsp; 👍 10,497 / 👎 4,039)
+🟡 **Mostly Positive** (73% of 14,801 reviews &nbsp;·&nbsp; 👍 10,736 / 👎 4,065)
 
 🟢 **Metacritic:** [75](https://www.metacritic.com/game/pc/absolver?ftag=MCD-06-10aaa1f)
 
@@ -108,7 +108,7 @@
 
 `Hidden Object`  `Adventure`  `Casual`  `Point & Click`  `Puzzle`  `Female Protagonist`
 
-🟢 **Very Positive** (90% of 1,480 reviews &nbsp;·&nbsp; 👍 1,336 / 👎 144)
+🟢 **Very Positive** (90% of 1,533 reviews &nbsp;·&nbsp; 👍 1,382 / 👎 151)
 
 ---
 
@@ -122,7 +122,7 @@
 
 `Flight`  `Jet`  `Military`  `War`  `Shooter`  `Arcade`
 
-🟢 **Very Positive** (88% of 48,192 reviews &nbsp;·&nbsp; 👍 42,202 / 👎 5,990)
+🟢 **Very Positive** (88% of 56,323 reviews &nbsp;·&nbsp; 👍 49,498 / 👎 6,825)
 
 🟢 **Metacritic:** [78](https://www.metacritic.com/game/pc/ace-combat-7-skies-unknown?ftag=MCD-06-10aaa1f)
 
@@ -138,7 +138,7 @@
 
 `Casual`  `Clicker`  `Indie`  `Simulation`  `Strategy`  `Action`
 
-🟢 **Very Positive** (82% of 3,116 reviews &nbsp;·&nbsp; 👍 2,566 / 👎 550)
+🟢 **Very Positive** (82% of 3,414 reviews &nbsp;·&nbsp; 👍 2,814 / 👎 600)
 
 ---
 
@@ -152,6 +152,8 @@
 
 `Adventure`  `Historical`  `Alternate History`  `Interactive Fiction`  `Choose Your Own Adventure`  `2D`
 
+🔴 **Mostly Negative** (25% of 538 reviews &nbsp;·&nbsp; 👍 132 / 👎 406)
+
 ---
 
 ### <a href="https://store.steampowered.com/app/221380"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/221380/ab157f4ccec5803629762c1a42be8fd7372fb31a.ico" width="32" height="32"></a> [Age of Empires II (2013)](https://store.steampowered.com/app/221380)
@@ -164,7 +166,7 @@
 
 `Strategy`  `RTS`  `Medieval`  `Multiplayer`  `Classic`  `Historical`
 
-🟢 **Overwhelmingly Positive** (96% of 101,351 reviews &nbsp;·&nbsp; 👍 97,083 / 👎 4,268)
+🟢 **Overwhelmingly Positive** (96% of 102,743 reviews &nbsp;·&nbsp; 👍 98,464 / 👎 4,279)
 
 🟡 **Metacritic:** [68](https://www.metacritic.com/game/pc/age-of-empires-ii-hd-edition?ftag=MCD-06-10aaa1f)
 
@@ -180,7 +182,7 @@
 
 `Strategy`  `RTS`  `City Builder`  `Multiplayer`  `Base-Building`  `Historical`
 
-🟢 **Overwhelmingly Positive** (95% of 162,462 reviews &nbsp;·&nbsp; 👍 154,061 / 👎 8,401)
+🟢 **Very Positive** (95% of 181,160 reviews &nbsp;·&nbsp; 👍 171,962 / 👎 9,198)
 
 🟢 **Metacritic:** [84](https://www.metacritic.com/game/pc/age-of-empires-ii-definitive-edition?ftag=MCD-06-10aaa1f)
 
@@ -196,7 +198,7 @@
 
 `Strategy`  `Mythology`  `RTS`  `Classic`  `Multiplayer`  `Nostalgia`
 
-🟢 **Very Positive** (93% of 35,308 reviews &nbsp;·&nbsp; 👍 32,895 / 👎 2,413)
+🟢 **Very Positive** (93% of 36,202 reviews &nbsp;·&nbsp; 👍 33,755 / 👎 2,447)
 
 🟡 **Metacritic:** [66](https://www.metacritic.com/game/pc/age-of-mythology-extended-edition?ftag=MCD-06-10aaa1f)
 
@@ -212,7 +214,7 @@
 
 `Strategy`  `3D`  `RTS`  `Story Rich`  `Lore-Rich`  `Base-Building`
 
-🟢 **Very Positive** (90% of 16,708 reviews &nbsp;·&nbsp; 👍 15,043 / 👎 1,665)
+🟢 **Very Positive** (90% of 23,219 reviews &nbsp;·&nbsp; 👍 21,004 / 👎 2,215)
 
 🟢 **Metacritic:** [83](https://www.metacritic.com/game/pc/age-of-mythology-retold?ftag=MCD-06-10aaa1f)
 
@@ -228,7 +230,7 @@
 
 `Strategy`  `Turn-Based Strategy`  `Fantasy`  `RPG`  `4X`  `Turn-Based`
 
-🟢 **Very Positive** (80% of 12,578 reviews &nbsp;·&nbsp; 👍 10,093 / 👎 2,485)
+🟢 **Very Positive** (80% of 12,802 reviews &nbsp;·&nbsp; 👍 10,260 / 👎 2,542)
 
 🟢 **Metacritic:** [80](https://www.metacritic.com/game/pc/age-of-wonders-iii?ftag=MCD-06-10aaa1f)
 
@@ -244,7 +246,7 @@
 
 `Free to Play`  `FPS`  `Shooter`  `Simulation`  `First-Person`  `Singleplayer`
 
-🟢 **Very Positive** (94% of 84,332 reviews &nbsp;·&nbsp; 👍 79,517 / 👎 4,815)
+🟢 **Very Positive** (91% of 136,531 reviews &nbsp;·&nbsp; 👍 124,367 / 👎 12,164)
 
 ---
 
@@ -258,7 +260,7 @@
 
 `Flight`  `Resource Management`  `Moddable`  `Management`  `Simulation`  `Singleplayer`
 
-🟢 **Very Positive** (84% of 7,684 reviews &nbsp;·&nbsp; 👍 6,433 / 👎 1,251)
+🟢 **Very Positive** (83% of 8,308 reviews &nbsp;·&nbsp; 👍 6,907 / 👎 1,401)
 
 ---
 
@@ -272,7 +274,7 @@
 
 `Shoot 'Em Up`  `Exploration`  `Difficult`  `Casual`  `Platformer`  `2D`
 
-🟢 **Very Positive** (82% of 2,665 reviews &nbsp;·&nbsp; 👍 2,186 / 👎 479)
+🟢 **Very Positive** (82% of 2,655 reviews &nbsp;·&nbsp; 👍 2,180 / 👎 475)
 
 ---
 
@@ -286,7 +288,7 @@
 
 `RPG`  `Stealth`  `Choices Matter`  `Action`  `Multiple Endings`  `Third Person`
 
-🟢 **Very Positive** (81% of 4,911 reviews &nbsp;·&nbsp; 👍 3,988 / 👎 923)
+🟢 **Very Positive** (81% of 5,098 reviews &nbsp;·&nbsp; 👍 4,152 / 👎 946)
 
 🟡 **Metacritic:** [73](https://www.metacritic.com/game/pc/alpha-protocol?ftag=MCD-06-10aaa1f)
 
@@ -300,6 +302,8 @@
 
 *Amalgam is a Half-Life 2 singleplayer mod. Somewhere near the City 17, the rebels have been trying to destroy the combine communication towers known as relays. You as Gordon Freeman, must help the rebels sabotage the relays and a mysterious structure called the beacon.*
 
+🟢 **Very Positive** (93% of 1,959 reviews &nbsp;·&nbsp; 👍 1,815 / 👎 144)
+
 ---
 
 ### <a href="https://store.steampowered.com/app/239200"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/239200/a13b99e6e00f6f4e5d004913b5c1f3a0ff1ad57d.ico" width="32" height="32"></a> [Amnesia: A Machine for Pigs](https://store.steampowered.com/app/239200)
@@ -312,7 +316,7 @@
 
 `Horror`  `Walking Simulator`  `Atmospheric`  `Story Rich`  `First-Person`  `Psychological Horror`
 
-🟡 **Mostly Positive** (70% of 11,343 reviews &nbsp;·&nbsp; 👍 7,886 / 👎 3,457)
+🟡 **Mixed** (70% of 12,077 reviews &nbsp;·&nbsp; 👍 8,414 / 👎 3,663)
 
 🟡 **Metacritic:** [72](https://www.metacritic.com/game/pc/amnesia-a-machine-for-pigs?ftag=MCD-06-10aaa1f)
 
@@ -328,7 +332,7 @@
 
 `Horror`  `Gore`  `Psychological Horror`  `Survival Horror`  `Atmospheric`  `Puzzle`
 
-🟢 **Overwhelmingly Positive** (95% of 34,108 reviews &nbsp;·&nbsp; 👍 32,258 / 👎 1,850)
+🟢 **Very Positive** (95% of 35,559 reviews &nbsp;·&nbsp; 👍 33,634 / 👎 1,925)
 
 🟢 **Metacritic:** [85](https://www.metacritic.com/game/pc/amnesia-the-dark-descent?ftag=MCD-06-10aaa1f)
 
@@ -344,7 +348,7 @@
 
 `Multiplayer`  `Social Deduction`  `Online Co-Op`  `Space`  `Survival`  `2D`
 
-🟢 **Very Positive** (92% of 700,785 reviews &nbsp;·&nbsp; 👍 643,681 / 👎 57,104)
+🟢 **Very Positive** (92% of 741,979 reviews &nbsp;·&nbsp; 👍 682,584 / 👎 59,395)
 
 🟢 **Metacritic:** [85](https://www.metacritic.com/game/pc/among-us?ftag=MCD-06-10aaa1f)
 
@@ -356,7 +360,7 @@
 
 `Strategy`  `City Builder`  `Resource Management`  `Multiplayer`  `Simulation`  `Economy`
 
-🟢 **Very Positive** (88% of 767 reviews &nbsp;·&nbsp; 👍 676 / 👎 91)
+🟢 **Very Positive** (91% of 1,411 reviews &nbsp;·&nbsp; 👍 1,277 / 👎 134)
 
 ---
 
@@ -366,7 +370,7 @@
 
 `Strategy`  `City Builder`  `Resource Management`  `Multiplayer`  `Singleplayer`  `Medieval`
 
-🟢 **Positive** (83% of 248 reviews &nbsp;·&nbsp; 👍 207 / 👎 41)
+🟢 **Very Positive** (87% of 1,322 reviews &nbsp;·&nbsp; 👍 1,152 / 👎 170)
 
 ---
 
@@ -380,7 +384,7 @@
 
 `Puzzle`  `Tabletop`  `Relaxing`  `Minimalist`  `Solitaire`  `2D`
 
-🟢 **Very Positive** (91% of 156 reviews &nbsp;·&nbsp; 👍 142 / 👎 14)
+🟢 **Very Positive** (92% of 171 reviews &nbsp;·&nbsp; 👍 157 / 👎 14)
 
 ---
 
@@ -394,7 +398,7 @@
 
 `Puzzle`  `First-Person`  `Indie`  `Surreal`  `Exploration`  `Singleplayer`
 
-🟢 **Overwhelmingly Positive** (95% of 17,115 reviews &nbsp;·&nbsp; 👍 16,269 / 👎 846)
+🟢 **Overwhelmingly Positive** (95% of 17,728 reviews &nbsp;·&nbsp; 👍 16,867 / 👎 861)
 
 🟢 **Metacritic:** [82](https://www.metacritic.com/game/pc/antichamber?ftag=MCD-06-10aaa1f)
 
@@ -410,7 +414,7 @@
 
 `Strategy`  `Indie`  `Board Game`  `Turn-Based`  `Multiplayer`  `Asynchronous Multiplayer`
 
-🟢 **Very Positive** (88% of 813 reviews &nbsp;·&nbsp; 👍 715 / 👎 98)
+🟢 **Very Positive** (88% of 835 reviews &nbsp;·&nbsp; 👍 733 / 👎 102)
 
 🟢 **Metacritic:** [81](https://www.metacritic.com/game/pc/antihero?ftag=MCD-06-10aaa1f)
 
@@ -424,6 +428,8 @@
 
 *Introducing Aperture Desk Job — a free playable short made for the Steam Deck, set in the universe of the modestly popular Portal games.*
 
+🟢 **Very Positive** (95% of 24,943 reviews &nbsp;·&nbsp; 👍 23,671 / 👎 1,272)
+
 ---
 
 ### <a href="https://store.steampowered.com/app/280740"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/280740/2bab0b6a9e7f9e8e25a44a831b2083bb80b5f6b8.ico" width="32" height="32"></a> [Aperture Tag: The Paint Gun Testing Initiative](https://store.steampowered.com/app/280740)
@@ -436,7 +442,7 @@
 
 `Puzzle`  `Mod`  `Indie`  `Adventure`  `Action`  `First-Person`
 
-🟡 **Mostly Positive** (77% of 3,400 reviews &nbsp;·&nbsp; 👍 2,622 / 👎 778)
+🟢 **Very Positive** (83% of 7,094 reviews &nbsp;·&nbsp; 👍 5,865 / 👎 1,229)
 
 ---
 
@@ -450,7 +456,7 @@
 
 `Free to Play`  `Battle Royale`  `Multiplayer`  `FPS`  `Shooter`  `First-Person`
 
-🟡 **Mixed** (67% of 994,979 reviews &nbsp;·&nbsp; 👍 668,053 / 👎 326,926)
+🟡 **Mixed** (68% of 1,061,346 reviews &nbsp;·&nbsp; 👍 718,773 / 👎 342,573)
 
 🟢 **Metacritic:** [88](https://www.metacritic.com/game/pc/apex-legends?ftag=MCD-06-10aaa1f)
 
@@ -464,6 +470,8 @@
 
 *ARC Raiders is a multiplayer extraction adventure, set in a lethal future earth, ravaged by a mysterious mechanized threat known as ARC.*
 
+🟢 **Very Positive** (83% of 410,935 reviews &nbsp;·&nbsp; 👍 339,298 / 👎 71,637)
+
 ---
 
 ### <a href="https://store.steampowered.com/app/403400"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/403400/0a05cda11957574cabeef80e005a4e15523b5ced.ico" width="32" height="32"></a> [ARCADE GAME SERIES: DIG DUG](https://store.steampowered.com/app/403400)
@@ -476,7 +484,7 @@
 
 `Action`  `Classic`  `Arcade`  `Retro`  `2D`  `1980s`
 
-🟢 **Very Positive** (88% of 570 reviews &nbsp;·&nbsp; 👍 503 / 👎 67)
+🟢 **Very Positive** (89% of 647 reviews &nbsp;·&nbsp; 👍 578 / 👎 69)
 
 ---
 
@@ -490,7 +498,7 @@
 
 `Arcade`  `Action`  `Shoot 'Em Up`  `Retro`  `Classic`  `2D`
 
-🟢 **Very Positive** (90% of 843 reviews &nbsp;·&nbsp; 👍 762 / 👎 81)
+🟢 **Very Positive** (91% of 947 reviews &nbsp;·&nbsp; 👍 858 / 👎 89)
 
 ---
 
@@ -504,7 +512,7 @@
 
 `Action`  `Arcade`  `Classic`  `Retro`  `2D`  `1980s`
 
-🟢 **Very Positive** (89% of 997 reviews &nbsp;·&nbsp; 👍 889 / 👎 108)
+🟢 **Very Positive** (90% of 1,148 reviews &nbsp;·&nbsp; 👍 1,029 / 👎 119)
 
 ---
 
@@ -518,7 +526,7 @@
 
 `Open World Survival Craft`  `Survival`  `Multiplayer`  `Open World`  `Dinosaurs`  `Crafting`
 
-🟢 **Very Positive** (84% of 730,170 reviews &nbsp;·&nbsp; 👍 612,177 / 👎 117,993)
+🟢 **Very Positive** (83% of 774,524 reviews &nbsp;·&nbsp; 👍 645,421 / 👎 129,103)
 
 🟡 **Metacritic:** [70](https://www.metacritic.com/game/pc/ark-survival-evolved?ftag=MCD-06-10aaa1f)
 
@@ -534,7 +542,7 @@
 
 `Free to Play`  `Survival`  `Dinosaurs`  `Multiplayer`  `Open World`  `Action`
 
-🟡 **Mixed** (66% of 11,692 reviews &nbsp;·&nbsp; 👍 7,766 / 👎 3,926)
+🟡 **Mixed** (66% of 11,802 reviews &nbsp;·&nbsp; 👍 7,807 / 👎 3,995)
 
 ---
 
@@ -548,7 +556,7 @@
 
 `Action`  `Strategy`  `Simulation`
 
-🟡 **Mostly Positive** (73% of 461 reviews &nbsp;·&nbsp; 👍 337 / 👎 124)
+🟡 **Mostly Positive** (77% of 693 reviews &nbsp;·&nbsp; 👍 533 / 👎 160)
 
 🟢 **Metacritic:** [77](https://www.metacritic.com/game/pc/arma-ii?ftag=MCD-06-10aaa1f)
 
@@ -564,7 +572,7 @@
 
 `Military`  `Action`  `Multiplayer`  `Shooter`  `Simulation`  `Realistic`
 
-🟢 **Very Positive** (90% of 283,264 reviews &nbsp;·&nbsp; 👍 256,128 / 👎 27,136)
+🟢 **Very Positive** (90% of 294,517 reviews &nbsp;·&nbsp; 👍 266,284 / 👎 28,233)
 
 🟡 **Metacritic:** [74](http://www.metacritic.com/game/pc/arma-iii?ftag=MCD-06-10aaa1f)
 
@@ -580,7 +588,7 @@
 
 `Military`  `Simulation`  `Action`  `Shooter`  `Realistic`  `FPS`
 
-🟡 **Mostly Positive** (76% of 30,623 reviews &nbsp;·&nbsp; 👍 23,326 / 👎 7,297)
+🟡 **Mostly Positive** (80% of 55,209 reviews &nbsp;·&nbsp; 👍 44,055 / 👎 11,154)
 
 ---
 
@@ -594,7 +602,7 @@
 
 `Difficult`  `Logic`  `Arcade`  `Abstract`  `Tabletop`  `Card Game`
 
-🟢 **Very Positive** (93% of 85 reviews &nbsp;·&nbsp; 👍 79 / 👎 6)
+🟢 **Very Positive** (93% of 89 reviews &nbsp;·&nbsp; 👍 83 / 👎 6)
 
 ---
 
@@ -608,7 +616,7 @@
 
 `Racing`  `Automobile Sim`  `Simulation`  `VR`  `Multiplayer`  `Driving`
 
-🟢 **Very Positive** (93% of 38,943 reviews &nbsp;·&nbsp; 👍 36,035 / 👎 2,908)
+🟢 **Very Positive** (93% of 47,684 reviews &nbsp;·&nbsp; 👍 44,180 / 👎 3,504)
 
 🟢 **Metacritic:** [77](https://www.metacritic.com/game/pc/assetto-corsa-competizione?ftag=MCD-06-10aaa1f)
 
@@ -624,7 +632,7 @@
 
 `Action RPG`  `RPG`  `Cute`  `Adventure`  `Character Customization`  `Action`
 
-🟢 **Overwhelmingly Positive** (97% of 16,773 reviews &nbsp;·&nbsp; 👍 16,289 / 👎 484)
+🟢 **Overwhelmingly Positive** (97% of 22,831 reviews &nbsp;·&nbsp; 👍 22,108 / 👎 723)
 
 ---
 
@@ -638,7 +646,7 @@
 
 `Music`  `Rhythm`  `Indie`  `Music-Based Procedural Generation`  `Moddable`  `Casual`
 
-🟢 **Very Positive** (83% of 5,970 reviews &nbsp;·&nbsp; 👍 4,945 / 👎 1,025)
+🟢 **Very Positive** (83% of 6,044 reviews &nbsp;·&nbsp; 👍 5,011 / 👎 1,033)
 
 🟢 **Metacritic:** [76](https://www.metacritic.com/game/pc/audiosurf-2?ftag=MCD-06-10aaa1f)
 
@@ -654,7 +662,7 @@
 
 `Casual`  `Adventure`  `Indie`  `Singleplayer`  `Psychological`  `Short`
 
-🟡 **Mixed** (62% of 243 reviews &nbsp;·&nbsp; 👍 151 / 👎 92)
+🟡 **Mixed** (49% of 1,329 reviews &nbsp;·&nbsp; 👍 655 / 👎 674)
 
 ---
 
@@ -670,7 +678,7 @@
 
 `Multiplayer`  `Horror`  `Psychological Horror`  `Online Co-Op`  `Survival Horror`  `Co-op`
 
-🟢 **Very Positive** (87% of 22,769 reviews &nbsp;·&nbsp; 👍 19,915 / 👎 2,854)
+🟢 **Very Positive** (89% of 47,509 reviews &nbsp;·&nbsp; 👍 42,162 / 👎 5,347)
 
 ---
 
@@ -684,7 +692,7 @@
 
 `Wargame`  `Vikings`  `Tower Defense`  `Real Time Tactics`  `Survival`  `Action Roguelike`
 
-🟢 **Very Positive** (93% of 12,198 reviews &nbsp;·&nbsp; 👍 11,367 / 👎 831)
+🟢 **Very Positive** (93% of 14,103 reviews &nbsp;·&nbsp; 👍 13,152 / 👎 951)
 
 ---
 
@@ -698,7 +706,7 @@
 
 `RPG`  `Character Customization`  `Choices Matter`  `Story Rich`  `Turn-Based Combat`  `Dungeons & Dragons`
 
-🟢 **Overwhelmingly Positive** (97% of 760,662 reviews &nbsp;·&nbsp; 👍 736,688 / 👎 23,974)
+🟢 **Overwhelmingly Positive** (97% of 851,005 reviews &nbsp;·&nbsp; 👍 823,683 / 👎 27,322)
 
 🟢 **Metacritic:** [96](https://www.metacritic.com/game/pc/baldurs-gate-3?ftag=MCD-06-10aaa1f)
 
@@ -714,7 +722,7 @@
 
 `Precision Platformer`  `Funny`  `Platformer`  `2D Platformer`  `Casual`  `2D`
 
-🟢 **Positive** (92% of 13 reviews &nbsp;·&nbsp; 👍 12 / 👎 1)
+🟡 **Mixed** (67% of 472 reviews &nbsp;·&nbsp; 👍 317 / 👎 155)
 
 ---
 
@@ -728,7 +736,7 @@
 
 `City Builder`  `Colony Sim`  `Strategy`  `Simulation`  `Survival`  `Indie`
 
-🟢 **Very Positive** (90% of 42,246 reviews &nbsp;·&nbsp; 👍 38,173 / 👎 4,073)
+🟢 **Very Positive** (90% of 43,245 reviews &nbsp;·&nbsp; 👍 39,103 / 👎 4,142)
 
 🟡 **Metacritic:** [73](https://www.metacritic.com/game/pc/banished?ftag=MCD-06-10aaa1f)
 
@@ -744,7 +752,7 @@
 
 `Co-op`  `Multiplayer`  `Survival`  `Submarine`  `Survival Horror`  `2D`
 
-🟢 **Very Positive** (94% of 75,334 reviews &nbsp;·&nbsp; 👍 70,694 / 👎 4,640)
+🟢 **Very Positive** (94% of 88,726 reviews &nbsp;·&nbsp; 👍 83,415 / 👎 5,311)
 
 🟢 **Metacritic:** [81](https://www.metacritic.com/game/pc/barotrauma?ftag=MCD-06-10aaa1f)
 
@@ -760,7 +768,7 @@
 
 `FPS`  `Multiplayer`  `Shooter`  `Military`  `Destruction`  `Massively Multiplayer`
 
-🟢 **Very Positive** (84% of 143,124 reviews &nbsp;·&nbsp; 👍 120,458 / 👎 22,666)
+🟢 **Very Positive** (82% of 146,332 reviews &nbsp;·&nbsp; 👍 119,475 / 👎 26,857)
 
 ---
 
@@ -774,7 +782,7 @@
 
 `FPS`  `Multiplayer`  `Singleplayer`  `World War I`  `War`  `Shooter`
 
-🟢 **Very Positive** (86% of 192,821 reviews &nbsp;·&nbsp; 👍 166,775 / 👎 26,046)
+🟢 **Very Positive** (86% of 225,074 reviews &nbsp;·&nbsp; 👍 194,666 / 👎 30,408)
 
 ---
 
@@ -788,7 +796,7 @@
 
 `Multiplayer`  `FPS`  `Singleplayer`  `Shooter`  `Military`  `War`
 
-🟢 **Very Positive** (85% of 71,148 reviews &nbsp;·&nbsp; 👍 60,650 / 👎 10,498)
+🟢 **Very Positive** (85% of 81,242 reviews &nbsp;·&nbsp; 👍 68,927 / 👎 12,315)
 
 ---
 
@@ -802,7 +810,7 @@
 
 `FPS`  `Multiplayer`  `Action`  `Shooter`  `War`  `Team-Based`
 
-🟢 **Very Positive** (85% of 37,187 reviews &nbsp;·&nbsp; 👍 31,749 / 👎 5,438)
+🟢 **Very Positive** (85% of 37,367 reviews &nbsp;·&nbsp; 👍 31,914 / 👎 5,453)
 
 🟢 **Metacritic:** [87](https://www.metacritic.com/game/pc/battlefield-bad-company-2?ftag=MCD-06-10aaa1f)
 
@@ -818,7 +826,7 @@
 
 `Strategy`  `Space`  `Sci-fi`  `Turn-Based`  `Turn-Based Strategy`  `Turn-Based Tactics`
 
-🟢 **Very Positive** (84% of 3,460 reviews &nbsp;·&nbsp; 👍 2,906 / 👎 554)
+🟢 **Very Positive** (83% of 4,211 reviews &nbsp;·&nbsp; 👍 3,483 / 👎 728)
 
 🟢 **Metacritic:** [77](https://www.metacritic.com/game/pc/battlestar-galactica-deadlock?ftag=MCD-06-10aaa1f)
 
@@ -834,7 +842,7 @@
 
 `Simulation`  `Driving`  `Physics`  `Realistic`  `Destruction`  `Automobile Sim`
 
-🟢 **Overwhelmingly Positive** (97% of 322,278 reviews &nbsp;·&nbsp; 👍 313,873 / 👎 8,405)
+🟢 **Overwhelmingly Positive** (97% of 411,109 reviews &nbsp;·&nbsp; 👍 400,002 / 👎 11,107)
 
 ---
 
@@ -848,7 +856,7 @@
 
 `VR`  `Rhythm`  `Music`  `Moddable`  `Fast-Paced`  `Singleplayer`
 
-🟢 **Overwhelmingly Positive** (96% of 74,612 reviews &nbsp;·&nbsp; 👍 71,341 / 👎 3,271)
+🟢 **Overwhelmingly Positive** (96% of 76,194 reviews &nbsp;·&nbsp; 👍 72,770 / 👎 3,424)
 
 🟢 **Metacritic:** [93](https://www.metacritic.com/game/pc/beat-saber?ftag=MCD-06-10aaa1f)
 
@@ -862,6 +870,8 @@
 
 *A juicy first-person incremental game about growing berries and tossing them down an ominous hole. Earn money and upgrades. Make new friends with sentient berry pals. Grow and control the hole as you unearth why nobody leaves this accursed garden. Bury it all, Berry everything.*
 
+🟢 **Overwhelmingly Positive** (98% of 8,386 reviews &nbsp;·&nbsp; 👍 8,236 / 👎 150)
+
 ---
 
 ### <a href="https://store.steampowered.com/app/346010"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/346010/f567cfb6308472b4ed09d7c75b58596a9bbdc8e3.ico" width="32" height="32"></a> [Besiege](https://store.steampowered.com/app/346010)
@@ -874,7 +884,7 @@
 
 `Simulation`  `Sandbox`  `Destruction`  `Physics`  `Medieval`  `Building`
 
-🟢 **Overwhelmingly Positive** (95% of 49,754 reviews &nbsp;·&nbsp; 👍 47,491 / 👎 2,263)
+🟢 **Overwhelmingly Positive** (95% of 53,085 reviews &nbsp;·&nbsp; 👍 50,505 / 👎 2,580)
 
 ---
 
@@ -888,7 +898,7 @@
 
 `Early Access`  `Horror`  `Multiplayer`  `Survival Horror`  `Online Co-Op`  `Co-op`
 
-🟢 **Very Positive** (82% of 20,866 reviews &nbsp;·&nbsp; 👍 17,125 / 👎 3,741)
+🟢 **Very Positive** (82% of 22,268 reviews &nbsp;·&nbsp; 👍 18,280 / 👎 3,988)
 
 ---
 
@@ -900,6 +910,8 @@
 
 *Billie's Wheelie is an adventure racing platformer game, You can play it with up to 8 players Co-op/PvP, Playing as a hamster in his ball trying to beat all challenges, Collecting all cheese pieces for rewards, And beating your friend's time records.*
 
+🟡 **Mixed** (63% of 1,228 reviews &nbsp;·&nbsp; 👍 776 / 👎 452)
+
 ---
 
 ### <a href="https://store.steampowered.com/app/1812820"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1812820/bc6b904ad322c0fa87026fc356c89c85a61f30e4.ico" width="32" height="32"></a> [Bitburner](https://store.steampowered.com/app/1812820)
@@ -909,6 +921,8 @@
 **Dev:** Fulcrum Games, Hydroflame, over 250 github contributors &nbsp;·&nbsp; **Released:** Dec 10, 2021 &nbsp;·&nbsp; **Price:** Free
 
 *Bitburner is a programming-based incremental game. Write scripts in JavaScript to automate gameplay, learn skills, play minigames, solve puzzles, and more in this cyberpunk text-based incremental RPG.*
+
+🟢 **Overwhelmingly Positive** (95% of 7,323 reviews &nbsp;·&nbsp; 👍 6,958 / 👎 365)
 
 ---
 
@@ -922,7 +936,7 @@
 
 `MMORPG`  `Massively Multiplayer`  `Open World`  `Character Customization`  `RPG`  `Adventure`
 
-🟡 **Mostly Positive** (74% of 86,919 reviews &nbsp;·&nbsp; 👍 64,416 / 👎 22,503)
+🟡 **Mostly Positive** (74% of 93,772 reviews &nbsp;·&nbsp; 👍 68,949 / 👎 24,823)
 
 🟢 **Metacritic:** [80](https://www.metacritic.com/game/pc/black-desert-online-land-of-the-morning-light-edition?ftag=MCD-06-10aaa1f)
 
@@ -938,7 +952,7 @@
 
 `FPS`  `Remake`  `Action`  `Sci-fi`  `First-Person`  `Singleplayer`
 
-🟢 **Overwhelmingly Positive** (95% of 127,693 reviews &nbsp;·&nbsp; 👍 121,562 / 👎 6,131)
+🟢 **Very Positive** (95% of 144,121 reviews &nbsp;·&nbsp; 👍 136,858 / 👎 7,263)
 
 🟢 **Metacritic:** [84](https://www.metacritic.com/game/pc/black-mesa?ftag=MCD-06-10aaa1f)
 
@@ -954,7 +968,7 @@
 
 `Solitaire`  `Trading Card Game`  `Casual`  `Card Game`  `Strategy`  `2D`
 
-🟢 **Very Positive** (85% of 96 reviews &nbsp;·&nbsp; 👍 82 / 👎 14)
+🟢 **Very Positive** (86% of 98 reviews &nbsp;·&nbsp; 👍 84 / 👎 14)
 
 ---
 
@@ -968,7 +982,7 @@
 
 `Solitaire`  `Puzzle`  `Trading Card Game`  `Board Game`  `Card Game`  `Tabletop`
 
-🟢 **Positive** (80% of 25 reviews &nbsp;·&nbsp; 👍 20 / 👎 5)
+🟢 **Positive** (81% of 27 reviews &nbsp;·&nbsp; 👍 22 / 👎 5)
 
 ---
 
@@ -982,7 +996,7 @@
 
 `VR`  `Swordplay`  `Moddable`  `Sandbox`  `Gore`  `Magic`
 
-🟢 **Overwhelmingly Positive** (97% of 57,485 reviews &nbsp;·&nbsp; 👍 55,566 / 👎 1,919)
+🟢 **Overwhelmingly Positive** (97% of 61,906 reviews &nbsp;·&nbsp; 👍 59,746 / 👎 2,160)
 
 ---
 
@@ -996,7 +1010,7 @@
 
 `Action Roguelike`  `Action-Adventure`  `2D`  `Action`  `Platformer`  `Replay Value`
 
-🟢 **Overwhelmingly Positive** (95% of 30,290 reviews &nbsp;·&nbsp; 👍 28,794 / 👎 1,496)
+🟢 **Very Positive** (94% of 35,734 reviews &nbsp;·&nbsp; 👍 33,684 / 👎 2,050)
 
 🟢 **Metacritic:** [83](https://www.metacritic.com/game/pc/blazblue-entropy-effect?ftag=MCD-06-10aaa1f)
 
@@ -1012,7 +1026,7 @@
 
 `Gore`  `Funny`  `Multiplayer`  `Shooter`  `Action`  `FPS`
 
-🟢 **Overwhelmingly Positive** (95% of 34,429 reviews &nbsp;·&nbsp; 👍 32,796 / 👎 1,633)
+🟢 **Overwhelmingly Positive** (95% of 36,413 reviews &nbsp;·&nbsp; 👍 34,684 / 👎 1,729)
 
 ---
 
@@ -1026,7 +1040,7 @@
 
 `Tower Defense`  `Strategy`  `Multiplayer`  `Singleplayer`  `Online Co-Op`  `Co-op`
 
-🟢 **Overwhelmingly Positive** (97% of 353,960 reviews &nbsp;·&nbsp; 👍 344,269 / 👎 9,691)
+🟢 **Overwhelmingly Positive** (97% of 392,157 reviews &nbsp;·&nbsp; 👍 381,138 / 👎 11,019)
 
 ---
 
@@ -1040,7 +1054,7 @@
 
 `Tower Defense`  `Strategy`  `Co-op`  `Family Friendly`  `Action`  `Casual`
 
-🟢 **Overwhelmingly Positive** (95% of 11,545 reviews &nbsp;·&nbsp; 👍 10,926 / 👎 619)
+🟢 **Very Positive** (95% of 11,926 reviews &nbsp;·&nbsp; 👍 11,290 / 👎 636)
 
 ---
 
@@ -1054,7 +1068,7 @@
 
 `VR`  `Physics`  `Action`  `Sandbox`  `Shooter`  `Singleplayer`
 
-🟢 **Very Positive** (92% of 35,679 reviews &nbsp;·&nbsp; 👍 32,917 / 👎 2,762)
+🟢 **Very Positive** (92% of 36,418 reviews &nbsp;·&nbsp; 👍 33,613 / 👎 2,805)
 
 🟡 **Metacritic:** [72](https://www.metacritic.com/game/pc/boneworks?ftag=MCD-06-10aaa1f)
 
@@ -1068,6 +1082,8 @@
 
 *Bongo cat needs your help. Bongo cat needz more hatz!!! Every time you press a key, Bongo cat will punch your taskbar. Type, click, play, work to collect more points. Which hats will you find?*
 
+🟢 **Overwhelmingly Positive** (97% of 107,564 reviews &nbsp;·&nbsp; 👍 103,911 / 👎 3,653)
+
 ---
 
 ### <a href="https://store.steampowered.com/app/49520"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49520/db87111cc1d7fd8fca26dea15ba2e91066b18465.ico" width="32" height="32"></a> [Borderlands 2](https://store.steampowered.com/app/49520)
@@ -1080,7 +1096,7 @@
 
 `Loot`  `Shooter`  `Action`  `Multiplayer`  `Co-op`  `Looter Shooter`
 
-🟢 **Very Positive** (92% of 295,218 reviews &nbsp;·&nbsp; 👍 272,900 / 👎 22,318)
+🟢 **Very Positive** (90% of 311,808 reviews &nbsp;·&nbsp; 👍 279,124 / 👎 32,684)
 
 🟢 **Metacritic:** [89](https://www.metacritic.com/game/pc/borderlands-2?ftag=MCD-06-10aaa1f)
 
@@ -1096,7 +1112,7 @@
 
 `RPG`  `Looter Shooter`  `Multiplayer`  `FPS`  `Online Co-Op`  `Action`
 
-🟢 **Very Positive** (84% of 149,065 reviews &nbsp;·&nbsp; 👍 125,248 / 👎 23,817)
+🟢 **Very Positive** (81% of 163,492 reviews &nbsp;·&nbsp; 👍 132,443 / 👎 31,049)
 
 🟢 **Metacritic:** [81](https://www.metacritic.com/game/pc/borderlands-3?ftag=MCD-06-10aaa1f)
 
@@ -1112,7 +1128,7 @@
 
 `Looter Shooter`  `Co-op`  `FPS`  `Action`  `Comedy`  `Loot`
 
-🟡 **Mostly Positive** (79% of 42,379 reviews &nbsp;·&nbsp; 👍 33,577 / 👎 8,802)
+🟡 **Mostly Positive** (79% of 43,146 reviews &nbsp;·&nbsp; 👍 34,051 / 👎 9,095)
 
 🟢 **Metacritic:** [75](https://www.metacritic.com/game/pc/borderlands-the-pre-sequel?ftag=MCD-06-10aaa1f)
 
@@ -1124,7 +1140,7 @@
 
 `Indie`  `Casual`  `Racing`  `Platformer`  `Singleplayer`  `Early Access`
 
-🟡 **Mixed** (56% of 108 reviews &nbsp;·&nbsp; 👍 61 / 👎 47)
+🟡 **Mixed** (58% of 95 reviews &nbsp;·&nbsp; 👍 55 / 👎 40)
 
 ---
 
@@ -1138,7 +1154,7 @@
 
 `Puzzle`  `Simulation`  `Strategy`  `Physics`  `Building`  `Singleplayer`
 
-🟢 **Very Positive** (92% of 6,678 reviews &nbsp;·&nbsp; 👍 6,123 / 👎 555)
+🟢 **Very Positive** (92% of 7,462 reviews &nbsp;·&nbsp; 👍 6,840 / 👎 622)
 
 🟢 **Metacritic:** [77](https://www.metacritic.com/game/pc/bridge-constructor-portal?ftag=MCD-06-10aaa1f)
 
@@ -1154,7 +1170,7 @@
 
 `Rogue-like`  `Singleplayer`  `Action Roguelike`  `Bullet Hell`  `Sci-fi`  `Survival`
 
-🟢 **Overwhelmingly Positive** (97% of 97,801 reviews &nbsp;·&nbsp; 👍 94,525 / 👎 3,276)
+🟢 **Overwhelmingly Positive** (96% of 117,363 reviews &nbsp;·&nbsp; 👍 112,714 / 👎 4,649)
 
 ---
 
@@ -1168,7 +1184,7 @@
 
 `Adventure`  `Atmospheric`  `Story Rich`  `Controller`  `Indie`  `Emotional`
 
-🟢 **Very Positive** (94% of 40,995 reviews &nbsp;·&nbsp; 👍 38,721 / 👎 2,274)
+🟢 **Very Positive** (94% of 41,265 reviews &nbsp;·&nbsp; 👍 38,947 / 👎 2,318)
 
 🟢 **Metacritic:** [90](https://www.metacritic.com/game/pc/brothers-a-tale-of-two-sons?ftag=MCD-06-10aaa1f)
 
@@ -1184,7 +1200,7 @@
 
 `Action`  `Comedy`  `Adventure`  `Great Soundtrack`  `Open World`  `Music`
 
-🟢 **Very Positive** (93% of 18,971 reviews &nbsp;·&nbsp; 👍 17,657 / 👎 1,314)
+🟢 **Very Positive** (93% of 20,329 reviews &nbsp;·&nbsp; 👍 18,949 / 👎 1,380)
 
 🟢 **Metacritic:** [80](https://www.metacritic.com/game/pc/brutal-legend?ftag=MCD-06-10aaa1f)
 
@@ -1200,7 +1216,7 @@
 
 `Casual`  `Strategy`  `Simulation`
 
-🟡 **Mixed** (61% of 31 reviews &nbsp;·&nbsp; 👍 19 / 👎 12)
+🟡 **Mixed** (59% of 32 reviews &nbsp;·&nbsp; 👍 19 / 👎 13)
 
 ---
 
@@ -1214,7 +1230,7 @@
 
 `Multiplayer`  `PvP`  `Competitive`  `Fast-Paced`  `Arcade`  `Parkour`
 
-🟢 **Very Positive** (86% of 50 reviews &nbsp;·&nbsp; 👍 43 / 👎 7)
+🟡 **Mixed** (52% of 2,386 reviews &nbsp;·&nbsp; 👍 1,249 / 👎 1,137)
 
 ---
 
@@ -1228,7 +1244,7 @@
 
 `Horror`  `Hunting`  `Dark Humor`  `Funny`  `Exploration`  `Shooter`
 
-🟢 **Positive** (92% of 13 reviews &nbsp;·&nbsp; 👍 12 / 👎 1)
+🟡 **Mostly Positive** (74% of 692 reviews &nbsp;·&nbsp; 👍 510 / 👎 182)
 
 ---
 
@@ -1242,7 +1258,7 @@
 
 `Action`  `Tactical`  `Sci-fi`  `Third-Person Shooter`  `Singleplayer`  `Third Person`
 
-🟡 **Mostly Positive** (70% of 11,786 reviews &nbsp;·&nbsp; 👍 8,277 / 👎 3,509)
+🟡 **Mostly Positive** (70% of 12,064 reviews &nbsp;·&nbsp; 👍 8,461 / 👎 3,603)
 
 🟡 **Metacritic:** [66](https://www.metacritic.com/game/pc/the-bureau-xcom-declassified?ftag=MCD-06-10aaa1f)
 
@@ -1258,7 +1274,7 @@
 
 `Simulation`  `Cooking`  `Cute`  `Idler`  `Relaxing`  `Singleplayer`
 
-🟢 **Very Positive** (97% of 119 reviews &nbsp;·&nbsp; 👍 115 / 👎 4)
+🟢 **Overwhelmingly Positive** (97% of 1,176 reviews &nbsp;·&nbsp; 👍 1,140 / 👎 36)
 
 ---
 
@@ -1274,7 +1290,7 @@
 
 `Cute`  `Casual`  `Cats`  `Indie`  `LGBTQ+`  `Simulation`
 
-🟢 **Very Positive** (87% of 4,780 reviews &nbsp;·&nbsp; 👍 4,175 / 👎 605)
+🟢 **Very Positive** (87% of 5,013 reviews &nbsp;·&nbsp; 👍 4,340 / 👎 673)
 
 ---
 
@@ -1288,7 +1304,7 @@
 
 `Multiplayer`  `Action`  `FPS`  `Shooter`  `Singleplayer`  `First-Person`
 
-🟢 **Very Positive** (86% of 47,017 reviews &nbsp;·&nbsp; 👍 40,563 / 👎 6,454)
+🟢 **Very Positive** (86% of 49,226 reviews &nbsp;·&nbsp; 👍 42,427 / 👎 6,799)
 
 🟡 **Metacritic:** [74](https://www.metacritic.com/game/pc/call-of-duty-black-ops-ii?ftag=MCD-06-10aaa1f)
 
@@ -1304,7 +1320,7 @@
 
 `Action`  `Multiplayer`  `FPS`  `Shooter`  `First-Person`  `Singleplayer`
 
-🟢 **Very Positive** (85% of 31,890 reviews &nbsp;·&nbsp; 👍 27,100 / 👎 4,790)
+🟢 **Very Positive** (92% of 13,561 reviews &nbsp;·&nbsp; 👍 12,415 / 👎 1,146)
 
 🟡 **Metacritic:** [74](https://www.metacritic.com/game/pc/call-of-duty-black-ops-ii?ftag=MCD-06-10aaa1f)
 
@@ -1313,6 +1329,8 @@
 ### <a href="https://store.steampowered.com/app/212910"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/212910/07991a4f49c5ab8836c3cffe9f13366382bb2feb.ico" width="32" height="32"></a> [Call of Duty: Black Ops II - Zombies](https://store.steampowered.com/app/212910)
 
 <a href="https://store.steampowered.com/app/212910"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212910/header.jpg" width="460"></a>
+
+🟢 **Overwhelmingly Positive** (96% of 22,246 reviews &nbsp;·&nbsp; 👍 21,321 / 👎 925)
 
 ---
 
@@ -1326,7 +1344,7 @@
 
 `Action`  `FPS`  `Multiplayer`  `Shooter`  `First-Person`  `Singleplayer`
 
-🟢 **Very Positive** (93% of 58,118 reviews &nbsp;·&nbsp; 👍 54,145 / 👎 3,973)
+🟢 **Very Positive** (93% of 60,740 reviews &nbsp;·&nbsp; 👍 56,690 / 👎 4,050)
 
 🟢 **Metacritic:** [86](https://www.metacritic.com/game/pc/call-of-duty-modern-warfare-2?ftag=MCD-06-10aaa1f)
 
@@ -1342,7 +1360,7 @@
 
 `Action`  `FPS`  `Multiplayer`  `Shooter`  `First-Person`  `Singleplayer`
 
-🟢 **Very Positive** (92% of 34,872 reviews &nbsp;·&nbsp; 👍 31,945 / 👎 2,927)
+🟢 **Very Positive** (89% of 11,655 reviews &nbsp;·&nbsp; 👍 10,425 / 👎 1,230)
 
 🟢 **Metacritic:** [86](https://www.metacritic.com/game/pc/call-of-duty-modern-warfare-2?ftag=MCD-06-10aaa1f)
 
@@ -1358,7 +1376,7 @@
 
 `Zombies`  `World War II`  `FPS`  `Multiplayer`  `Action`  `Shooter`
 
-🟢 **Very Positive** (92% of 50,549 reviews &nbsp;·&nbsp; 👍 46,665 / 👎 3,884)
+🟢 **Very Positive** (92% of 53,092 reviews &nbsp;·&nbsp; 👍 49,026 / 👎 4,066)
 
 🟢 **Metacritic:** [83](https://www.metacritic.com/game/pc/call-of-duty-world-at-war?ftag=MCD-06-10aaa1f)
 
@@ -1374,7 +1392,7 @@
 
 `World War II`  `Historical`  `Real Time Tactics`  `Strategy`  `Third Person`  `RTS`
 
-🟢 **Very Positive** (83% of 23,811 reviews &nbsp;·&nbsp; 👍 19,837 / 👎 3,974)
+🟢 **Very Positive** (85% of 33,454 reviews &nbsp;·&nbsp; 👍 28,490 / 👎 4,964)
 
 ---
 
@@ -1388,7 +1406,7 @@
 
 `Simulation`  `Automobile Sim`  `Driving`  `Building`  `Realistic`  `Racing`
 
-🟢 **Very Positive** (91% of 51,521 reviews &nbsp;·&nbsp; 👍 47,065 / 👎 4,456)
+🟢 **Very Positive** (91% of 56,258 reviews &nbsp;·&nbsp; 👍 51,118 / 👎 5,140)
 
 ---
 
@@ -1402,7 +1420,7 @@
 
 `Board Game`  `Strategy`  `Tabletop`  `Multiplayer`  `Casual`  `Turn-Based`
 
-🟢 **Very Positive** (86% of 2,418 reviews &nbsp;·&nbsp; 👍 2,068 / 👎 350)
+🟢 **Very Positive** (84% of 2,768 reviews &nbsp;·&nbsp; 👍 2,320 / 👎 448)
 
 ---
 
@@ -1416,7 +1434,7 @@
 
 `Strategy`  `Simulation`  `Adventure`  `War`  `RTS`  `Action-Adventure`
 
-🟢 **Very Positive** (81% of 3,305 reviews &nbsp;·&nbsp; 👍 2,672 / 👎 633)
+🟢 **Very Positive** (82% of 3,742 reviews &nbsp;·&nbsp; 👍 3,051 / 👎 691)
 
 ---
 
@@ -1430,7 +1448,7 @@
 
 `Horror`  `Robots`  `Survival Horror`  `First-Person`  `Singleplayer`  `Psychological Horror`
 
-🟢 **Very Positive** (83% of 3,935 reviews &nbsp;·&nbsp; 👍 3,270 / 👎 665)
+🟢 **Very Positive** (83% of 4,249 reviews &nbsp;·&nbsp; 👍 3,512 / 👎 737)
 
 ---
 
@@ -1444,7 +1462,7 @@
 
 `2D`  `Online Co-Op`  `Co-op`  `Beat 'em up`  `Hack and Slash`  `Funny`
 
-🟢 **Overwhelmingly Positive** (96% of 125,598 reviews &nbsp;·&nbsp; 👍 120,733 / 👎 4,865)
+🟢 **Overwhelmingly Positive** (96% of 139,992 reviews &nbsp;·&nbsp; 👍 134,637 / 👎 5,355)
 
 ---
 
@@ -1458,7 +1476,7 @@
 
 `Open World Survival Craft`  `Survival`  `Zombies`  `Multiplayer`  `Action`  `Sandbox`
 
-🟢 **Very Positive** (81% of 10,779 reviews &nbsp;·&nbsp; 👍 8,711 / 👎 2,068)
+🟢 **Very Positive** (81% of 11,156 reviews &nbsp;·&nbsp; 👍 9,067 / 👎 2,089)
 
 ---
 
@@ -1469,6 +1487,8 @@
 **Dev:** In Shambles Studio &nbsp;·&nbsp; **Released:** Aug 4, 2025 &nbsp;·&nbsp; **Price:** $4.99
 
 *Deliver mail as Catto, the town's dedicated Postcat, while meeting unique friends in a vibrant cozy town filled with kitty residents.*
+
+🟢 **Overwhelmingly Positive** (98% of 1,418 reviews &nbsp;·&nbsp; 👍 1,387 / 👎 31)
 
 ---
 
@@ -1482,7 +1502,7 @@
 
 `Precision Platformer`  `Difficult`  `Pixel Graphics`  `Great Soundtrack`  `Indie`  `Platformer`
 
-🟢 **Overwhelmingly Positive** (97% of 120,602 reviews &nbsp;·&nbsp; 👍 117,545 / 👎 3,057)
+🟢 **Overwhelmingly Positive** (97% of 145,229 reviews &nbsp;·&nbsp; 👍 141,451 / 👎 3,778)
 
 🟢 **Metacritic:** [88](https://www.metacritic.com/game/pc/celeste?ftag=MCD-06-10aaa1f)
 
@@ -1498,7 +1518,7 @@
 
 `Co-op`  `Adventure`  `Casual`  `Platformer`  `Puzzle-Platformer`  `Simulation`
 
-🟢 **Very Positive** (91% of 53,138 reviews &nbsp;·&nbsp; 👍 48,180 / 👎 4,958)
+🟢 **Very Positive** (90% of 63,071 reviews &nbsp;·&nbsp; 👍 56,671 / 👎 6,400)
 
 ---
 
@@ -1512,7 +1532,7 @@
 
 `Multiplayer`  `Rogue-like`  `Pixel Graphics`  `Online Co-Op`  `Hack and Slash`  `Action Roguelike`
 
-🟢 **Very Positive** (89% of 20,966 reviews &nbsp;·&nbsp; 👍 18,625 / 👎 2,341)
+🟢 **Very Positive** (88% of 23,032 reviews &nbsp;·&nbsp; 👍 20,365 / 👎 2,667)
 
 🟢 **Metacritic:** [82](https://www.metacritic.com/game/pc/children-of-morta?ftag=MCD-06-10aaa1f)
 
@@ -1528,7 +1548,7 @@
 
 `Medieval`  `Multiplayer`  `Action`  `Gore`  `First-Person`  `Swordplay`
 
-🟢 **Very Positive** (83% of 65,444 reviews &nbsp;·&nbsp; 👍 54,016 / 👎 11,428)
+🟢 **Very Positive** (83% of 65,069 reviews &nbsp;·&nbsp; 👍 53,725 / 👎 11,344)
 
 🟢 **Metacritic:** [79](https://www.metacritic.com/game/pc/chivalry-medieval-warfare?ftag=MCD-06-10aaa1f)
 
@@ -1544,7 +1564,7 @@
 
 `City Builder`  `Simulation`  `Building`  `Management`  `Strategy`  `Sandbox`
 
-🟢 **Very Positive** (93% of 275,770 reviews &nbsp;·&nbsp; 👍 256,362 / 👎 19,408)
+🟢 **Very Positive** (93% of 290,976 reviews &nbsp;·&nbsp; 👍 270,262 / 👎 20,714)
 
 🟢 **Metacritic:** [85](https://www.metacritic.com/game/pc/cities-skylines?ftag=MCD-06-10aaa1f)
 
@@ -1560,7 +1580,7 @@
 
 `City Builder`  `Simulation`  `Building`  `Sandbox`  `Singleplayer`  `Management`
 
-🟡 **Mixed** (53% of 73,524 reviews &nbsp;·&nbsp; 👍 38,697 / 👎 34,827)
+🟡 **Mixed** (55% of 91,115 reviews &nbsp;·&nbsp; 👍 50,519 / 👎 40,596)
 
 ---
 
@@ -1574,7 +1594,7 @@
 
 `Parkour`  `Automobile Sim`  `Action`  `First-Person`  `3D Platformer`  `Singleplayer`
 
-🟢 **Very Positive** (94% of 17,154 reviews &nbsp;·&nbsp; 👍 16,041 / 👎 1,113)
+🟢 **Very Positive** (94% of 18,412 reviews &nbsp;·&nbsp; 👍 17,229 / 👎 1,183)
 
 🟢 **Metacritic:** [76](https://www.metacritic.com/game/pc/clustertruck?ftag=MCD-06-10aaa1f)
 
@@ -1590,7 +1610,7 @@
 
 `Family Friendly`  `Level Editor`  `Strategy`  `Action`  `Multiplayer`  `Singleplayer`
 
-🟢 **Very Positive** (94% of 5,072 reviews &nbsp;·&nbsp; 👍 4,778 / 👎 294)
+🟢 **Very Positive** (94% of 5,823 reviews &nbsp;·&nbsp; 👍 5,445 / 👎 378)
 
 🟢 **Metacritic:** [77](https://www.metacritic.com/game/pc/command-conquer-3-kanes-wrath?ftag=MCD-06-10aaa1f)
 
@@ -1606,7 +1626,7 @@
 
 `Family Friendly`  `Level Editor`  `Strategy`  `RTS`  `Action`  `Multiplayer`
 
-🟢 **Very Positive** (90% of 8,497 reviews &nbsp;·&nbsp; 👍 7,649 / 👎 848)
+🟢 **Very Positive** (90% of 9,283 reviews &nbsp;·&nbsp; 👍 8,333 / 👎 950)
 
 🟢 **Metacritic:** [85](https://www.metacritic.com/game/pc/command-conquer-3-tiberium-wars?ftag=MCD-06-10aaa1f)
 
@@ -1622,7 +1642,7 @@
 
 `Level Editor`  `Strategy`  `Adventure`  `RTS`  `Multiplayer`  `Co-op`
 
-🔴 **Overwhelmingly Negative** (17% of 4,546 reviews &nbsp;·&nbsp; 👍 758 / 👎 3,788)
+🔴 **Overwhelmingly Negative** (16% of 5,015 reviews &nbsp;·&nbsp; 👍 827 / 👎 4,188)
 
 🟡 **Metacritic:** [64](https://www.metacritic.com/game/pc/command-conquer-4-tiberian-twilight?ftag=MCD-06-10aaa1f)
 
@@ -1636,6 +1656,8 @@
 
 *The legendary RTS game which started it all. Will you side with the humanistic GDI or bring the world to its knees with Kane and the Brotherhood of Nod. Your adversaries are without mercy. And so are you.*
 
+🟡 **Mostly Positive** (73% of 441 reviews &nbsp;·&nbsp; 👍 324 / 👎 117)
+
 ---
 
 ### <a href="https://store.steampowered.com/app/2229870"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/2229870/659952412e0fbe92d9706bfe35c350babf45e7f2.ico" width="32" height="32"></a> [Command & Conquer™: Generals](https://store.steampowered.com/app/2229870)
@@ -1645,6 +1667,8 @@
 **Dev:** EA Pacific &nbsp;·&nbsp; **Released:** Mar 7, 2024
 
 *Command &amp; Conquer Generals puts your trigger finger on the pulse of modern warfare. Prepare your forces General... it's time to engage in the next generation of real-time strategy.*
+
+🟢 **Very Positive** (88% of 2,075 reviews &nbsp;·&nbsp; 👍 1,819 / 👎 256)
 
 ---
 
@@ -1656,6 +1680,8 @@
 
 *Command &amp; Conquer Generals Zero Hour brings you closer to the enemy than ever before. Engage opposing forces at hot spots around the globe as you match strategies and arsenals against the new masterminds of modern war.*
 
+🟢 **Very Positive** (91% of 6,171 reviews &nbsp;·&nbsp; 👍 5,602 / 👎 569)
+
 ---
 
 ### <a href="https://store.steampowered.com/app/2229850"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/2229850/135217fca2b93dd86abcaebcb101476a3b1c50f9.ico" width="32" height="32"></a> [Command & Conquer: Red Alert™ 2 and Yuri’s Revenge™](https://store.steampowered.com/app/2229850)
@@ -1665,6 +1691,8 @@
 **Dev:** Westwood Pacific, Westwood Studios &nbsp;·&nbsp; **Released:** Mar 7, 2024
 
 *The world erupts in conflict as Soviet forces invade American soil in Command &amp; Conquer: Red Alert 2. You are the Supreme Commander. Arm yourself to the teeth with top-secret technologies and lead the Soviet or Allied troops to victory.*
+
+🟢 **Very Positive** (94% of 10,643 reviews &nbsp;·&nbsp; 👍 9,967 / 👎 676)
 
 ---
 
@@ -1678,7 +1706,7 @@
 
 `Family Friendly`  `Level Editor`  `Strategy`  `RTS`  `Action`  `Multiplayer`
 
-🟢 **Very Positive** (85% of 15,012 reviews &nbsp;·&nbsp; 👍 12,792 / 👎 2,220)
+🟢 **Very Positive** (85% of 15,917 reviews &nbsp;·&nbsp; 👍 13,568 / 👎 2,349)
 
 🟢 **Metacritic:** [82](https://www.metacritic.com/game/pc/command-conquer-red-alert-3?ftag=MCD-06-10aaa1f)
 
@@ -1694,7 +1722,7 @@
 
 `Family Friendly`  `Level Editor`  `Strategy`  `RTS`  `Action`  `Multiplayer`
 
-🟢 **Very Positive** (84% of 5,324 reviews &nbsp;·&nbsp; 👍 4,450 / 👎 874)
+🟢 **Very Positive** (83% of 5,821 reviews &nbsp;·&nbsp; 👍 4,830 / 👎 991)
 
 🟡 **Metacritic:** [64](https://www.metacritic.com/game/pc/command-conquer-red-alert-3---uprising?ftag=MCD-06-10aaa1f)
 
@@ -1708,6 +1736,8 @@
 
 *Surrender is not an option*
 
+🟡 **Mostly Positive** (80% of 402 reviews &nbsp;·&nbsp; 👍 320 / 👎 82)
+
 ---
 
 ### <a href="https://store.steampowered.com/app/1213210"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1213210/a09b84f776a781c61aeb65961eb40e8a5e457edc.ico" width="32" height="32"></a> [Command & Conquer™ Remastered Collection](https://store.steampowered.com/app/1213210)
@@ -1720,7 +1750,7 @@
 
 `Strategy`  `RTS`  `Base-Building`  `Multiplayer`  `Classic`  `Great Soundtrack`
 
-🟢 **Very Positive** (91% of 32,960 reviews &nbsp;·&nbsp; 👍 29,891 / 👎 3,069)
+🟢 **Very Positive** (91% of 34,865 reviews &nbsp;·&nbsp; 👍 31,611 / 👎 3,254)
 
 🟢 **Metacritic:** [82](https://www.metacritic.com/game/pc/command-conquer-remastered-collection?ftag=MCD-06-10aaa1f)
 
@@ -1734,6 +1764,8 @@
 
 *Command &amp; Conquer gets up close and personal in this classic First Person Shooter for one of the most iconic franchises.*
 
+🟢 **Very Positive** (84% of 865 reviews &nbsp;·&nbsp; 👍 727 / 👎 138)
+
 ---
 
 ### <a href="https://store.steampowered.com/app/2229880"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/2229880/e6c4b8c6164ccb4908d93dd9b7f358fd3b36376a.ico" width="32" height="32"></a> [Command & Conquer™ Tiberian Sun™ and Firestorm™](https://store.steampowered.com/app/2229880)
@@ -1743,6 +1775,8 @@
 **Dev:** Westwood Studios &nbsp;·&nbsp; **Released:** Mar 7, 2024
 
 *The Second Tiberium War begins in this legendary sequel to the original Command &amp; Conquer. With his forces stronger than ever, arch villain and leader of The Brotherhood of Nod - Kane - is pitched in an epic battle against the world's war machine - the Global Defense Initiative.*
+
+🟢 **Very Positive** (90% of 1,294 reviews &nbsp;·&nbsp; 👍 1,160 / 👎 134)
 
 ---
 
@@ -1756,7 +1790,7 @@
 
 `Strategy`  `World War II`  `RTS`  `Multiplayer`  `Tactical`  `War`
 
-🟡 **Mostly Positive** (79% of 109,825 reviews &nbsp;·&nbsp; 👍 86,713 / 👎 23,112)
+🟡 **Mostly Positive** (79% of 112,964 reviews &nbsp;·&nbsp; 👍 89,291 / 👎 23,673)
 
 🟢 **Metacritic:** [80](https://www.metacritic.com/game/pc/company-of-heroes-2?ftag=MCD-06-10aaa1f)
 
@@ -1772,7 +1806,7 @@
 
 `Survival`  `Open World`  `Nudity`  `Building`  `Open World Survival Craft`  `Crafting`
 
-🟡 **Mostly Positive** (79% of 107,465 reviews &nbsp;·&nbsp; 👍 84,575 / 👎 22,890)
+🟡 **Mostly Positive** (79% of 116,944 reviews &nbsp;·&nbsp; 👍 92,395 / 👎 24,549)
 
 ---
 
@@ -1786,7 +1820,7 @@
 
 `Simulation`  `Multiplayer`  `Building`  `Online Co-Op`  `Relaxing`  `Open World`
 
-🟢 **Very Positive** (82% of 11,160 reviews &nbsp;·&nbsp; 👍 9,193 / 👎 1,967)
+🟢 **Very Positive** (81% of 14,321 reviews &nbsp;·&nbsp; 👍 11,565 / 👎 2,756)
 
 ---
 
@@ -1797,6 +1831,8 @@
 **Dev:** weltenbauer. Software Entwicklung GmbH &nbsp;·&nbsp; **Released:** Nov 13, 2025 &nbsp;·&nbsp; **Price:** $14.99
 
 *In Construction Simulator 3, explore a European town with vehicles from Caterpillar, Liebherr, CASE, MAN, Bell, BOMAG, MEILLER Kipper and more. Take on contracts, build roads and houses, expand your fleet, and grow your company!*
+
+🟡 **Mixed** (59% of 17 reviews &nbsp;·&nbsp; 👍 10 / 👎 7)
 
 ---
 
@@ -1810,7 +1846,7 @@
 
 `Online Co-Op`  `Horror`  `Multiplayer`  `Funny`  `First-Person`  `Co-op`
 
-🟢 **Overwhelmingly Positive** (95% of 145,091 reviews &nbsp;·&nbsp; 👍 137,483 / 👎 7,608)
+🟢 **Very Positive** (94% of 162,197 reviews &nbsp;·&nbsp; 👍 152,231 / 👎 9,966)
 
 ---
 
@@ -1824,7 +1860,7 @@
 
 `Simulation`  `Action`  `Exploration`  `Automobile Sim`  `Shooter`  `Hidden Object`
 
-🟢 **Very Positive** (89% of 7,226 reviews &nbsp;·&nbsp; 👍 6,434 / 👎 792)
+🟢 **Very Positive** (89% of 7,609 reviews &nbsp;·&nbsp; 👍 6,790 / 👎 819)
 
 🟢 **Metacritic:** 77
 
@@ -1840,7 +1876,7 @@
 
 `Simulation`  `Cooking`  `Singleplayer`  `Realistic`  `Sandbox`  `Funny`
 
-🟢 **Very Positive** (85% of 18,607 reviews &nbsp;·&nbsp; 👍 15,767 / 👎 2,840)
+🟢 **Very Positive** (85% of 19,645 reviews &nbsp;·&nbsp; 👍 16,640 / 👎 3,005)
 
 🟡 **Metacritic:** [64](https://www.metacritic.com/game/pc/cooking-simulator?ftag=MCD-06-10aaa1f)
 
@@ -1856,7 +1892,7 @@
 
 `Simulation`  `VR`  `Casual`  `Cooking`  `Physics`  `Singleplayer`
 
-🟢 **Very Positive** (82% of 1,443 reviews &nbsp;·&nbsp; 👍 1,184 / 👎 259)
+🟡 **Mostly Positive** (74% of 1,737 reviews &nbsp;·&nbsp; 👍 1,278 / 👎 459)
 
 ---
 
@@ -1870,7 +1906,7 @@
 
 `Pixel Graphics`  `Open World Survival Craft`  `Online Co-Op`  `Sandbox`  `Survival`  `Adventure`
 
-🟢 **Very Positive** (93% of 54,979 reviews &nbsp;·&nbsp; 👍 51,042 / 👎 3,937)
+🟢 **Very Positive** (93% of 65,806 reviews &nbsp;·&nbsp; 👍 61,169 / 👎 4,637)
 
 🟢 **Metacritic:** [86](https://www.metacritic.com/game/pc/core-keeper?ftag=MCD-06-10aaa1f)
 
@@ -1886,7 +1922,7 @@
 
 `Simulation`  `Idler`  `Fishing`  `Pixel Graphics`  `Relaxing`  `Creature Collector`
 
-🟢 **Overwhelmingly Positive** (97% of 1,051 reviews &nbsp;·&nbsp; 👍 1,023 / 👎 28)
+🟢 **Overwhelmingly Positive** (97% of 2,708 reviews &nbsp;·&nbsp; 👍 2,632 / 👎 76)
 
 ---
 
@@ -1900,7 +1936,7 @@
 
 `Sci-fi`  `Singleplayer`  `2D`  `Indie`  `Space`  `Building`
 
-🟢 **Overwhelmingly Positive** (95% of 11,171 reviews &nbsp;·&nbsp; 👍 10,618 / 👎 553)
+🟢 **Very Positive** (94% of 12,774 reviews &nbsp;·&nbsp; 👍 12,055 / 👎 719)
 
 ---
 
@@ -1914,7 +1950,7 @@
 
 `Action`  `FPS`  `Multiplayer`  `Shooter`  `Classic`  `Team-Based`
 
-🟢 **Overwhelmingly Positive** (97% of 250,245 reviews &nbsp;·&nbsp; 👍 243,818 / 👎 6,427)
+🟢 **Overwhelmingly Positive** (97% of 261,058 reviews &nbsp;·&nbsp; 👍 254,275 / 👎 6,783)
 
 🟢 **Metacritic:** [88](https://www.metacritic.com/game/pc/counter-strike?ftag=MCD-06-10aaa1f)
 
@@ -1930,7 +1966,7 @@
 
 `FPS`  `Shooter`  `Multiplayer`  `Competitive`  `Action`  `Team-Based`
 
-🟢 **Very Positive** (87% of 8,815,087 reviews &nbsp;·&nbsp; 👍 7,642,084 / 👎 1,173,003)
+🟢 **Very Positive** (86% of 9,769,104 reviews &nbsp;·&nbsp; 👍 8,401,989 / 👎 1,367,115)
 
 ---
 
@@ -1944,7 +1980,7 @@
 
 `Action`  `FPS`  `Shooter`  `Multiplayer`  `First-Person`  `Singleplayer`
 
-🟢 **Very Positive** (91% of 26,558 reviews &nbsp;·&nbsp; 👍 24,271 / 👎 2,287)
+🟢 **Very Positive** (91% of 28,270 reviews &nbsp;·&nbsp; 👍 25,845 / 👎 2,425)
 
 🟡 **Metacritic:** [65](https://www.metacritic.com/game/pc/counter-strike-condition-zero?ftag=MCD-06-10aaa1f)
 
@@ -1960,7 +1996,7 @@
 
 `Action`  `FPS`  `Shooter`  `Multiplayer`  `First-Person`  `Classic`
 
-🟢 **Very Positive** (90% of 14,977 reviews &nbsp;·&nbsp; 👍 13,442 / 👎 1,535)
+🟢 **Very Positive** (92% of 5,348 reviews &nbsp;·&nbsp; 👍 4,896 / 👎 452)
 
 🟡 **Metacritic:** [65](https://www.metacritic.com/game/pc/counter-strike-condition-zero?ftag=MCD-06-10aaa1f)
 
@@ -1976,7 +2012,7 @@
 
 `Shooter`  `FPS`  `Action`  `Multiplayer`  `Team-Based`  `First-Person`
 
-🟢 **Overwhelmingly Positive** (96% of 182,234 reviews &nbsp;·&nbsp; 👍 175,426 / 👎 6,808)
+🟢 **Overwhelmingly Positive** (96% of 192,668 reviews &nbsp;·&nbsp; 👍 185,524 / 👎 7,144)
 
 🟢 **Metacritic:** [88](https://www.metacritic.com/game/pc/counter-strike-source?ftag=MCD-06-10aaa1f)
 
@@ -1992,7 +2028,7 @@
 
 `Racing`  `Open World`  `Automobile Sim`  `Multiplayer`  `Driving`  `Massively Multiplayer`
 
-🟡 **Mostly Positive** (77% of 93,865 reviews &nbsp;·&nbsp; 👍 72,724 / 👎 21,141)
+🟡 **Mostly Positive** (78% of 99,485 reviews &nbsp;·&nbsp; 👍 77,160 / 👎 22,325)
 
 ---
 
@@ -2006,7 +2042,7 @@
 
 `Grand Strategy`  `Strategy`  `Medieval`  `Historical`  `Political Sim`  `Simulation`
 
-🟢 **Very Positive** (90% of 73,809 reviews &nbsp;·&nbsp; 👍 66,359 / 👎 7,450)
+🟢 **Very Positive** (91% of 73,814 reviews &nbsp;·&nbsp; 👍 66,826 / 👎 6,988)
 
 🟢 **Metacritic:** [82](https://www.metacritic.com/game/pc/crusader-kings-ii?ftag=MCD-06-10aaa1f)
 
@@ -2022,7 +2058,7 @@
 
 `Base-Building`  `Cute`  `Action Roguelike`  `Singleplayer`  `Dungeon Crawler`  `Character Customization`
 
-🟢 **Overwhelmingly Positive** (96% of 103,228 reviews &nbsp;·&nbsp; 👍 98,711 / 👎 4,517)
+🟢 **Overwhelmingly Positive** (96% of 126,905 reviews &nbsp;·&nbsp; 👍 121,678 / 👎 5,227)
 
 🟢 **Metacritic:** [82](https://www.metacritic.com/game/pc/cult-of-the-lamb?ftag=MCD-06-10aaa1f)
 
@@ -2038,7 +2074,7 @@
 
 `Indie`  `3D Platformer`  `Parkour`  `Fast-Paced`  `Action`  `Time Attack`
 
-🟢 **Overwhelmingly Positive** (95% of 3,875 reviews &nbsp;·&nbsp; 👍 3,684 / 👎 191)
+🟢 **Very Positive** (95% of 4,165 reviews &nbsp;·&nbsp; 👍 3,955 / 👎 210)
 
 ---
 
@@ -2052,7 +2088,7 @@
 
 `Cyberpunk`  `Open World`  `Nudity`  `RPG`  `Singleplayer`  `Sci-fi`
 
-🟢 **Very Positive** (84% of 844,921 reviews &nbsp;·&nbsp; 👍 713,071 / 👎 131,850)
+🟢 **Very Positive** (87% of 966,963 reviews &nbsp;·&nbsp; 👍 838,735 / 👎 128,228)
 
 🟢 **Metacritic:** [86](https://www.metacritic.com/game/pc/cyberpunk-2077?ftag=MCD-06-10aaa1f)
 
@@ -2070,7 +2106,7 @@
 
 `Souls-like`  `Dark Fantasy`  `RPG`  `Difficult`  `Action`  `Dark`
 
-🟢 **Very Positive** (92% of 129,299 reviews &nbsp;·&nbsp; 👍 119,152 / 👎 10,147)
+🟢 **Very Positive** (92% of 153,725 reviews &nbsp;·&nbsp; 👍 142,105 / 👎 11,620)
 
 🟢 **Metacritic:** [84](https://www.metacritic.com/game/pc/dark-souls-remastered?ftag=MCD-06-10aaa1f)
 
@@ -2086,7 +2122,7 @@
 
 `Turn-Based Combat`  `Dark Fantasy`  `Dungeon Crawler`  `Rogue-like`  `RPG`  `Lovecraftian`
 
-🟢 **Very Positive** (92% of 149,456 reviews &nbsp;·&nbsp; 👍 137,026 / 👎 12,430)
+🟢 **Very Positive** (92% of 160,970 reviews &nbsp;·&nbsp; 👍 147,562 / 👎 13,408)
 
 🟢 **Metacritic:** [84](https://www.metacritic.com/game/pc/darkest-dungeon?ftag=MCD-06-10aaa1f)
 
@@ -2102,7 +2138,7 @@
 
 `FPS`  `Action`  `Gore`  `Dark`  `Shooter`  `Singleplayer`
 
-🟢 **Very Positive** (92% of 19,772 reviews &nbsp;·&nbsp; 👍 18,121 / 👎 1,651)
+🟢 **Very Positive** (92% of 21,001 reviews &nbsp;·&nbsp; 👍 19,235 / 👎 1,766)
 
 🟢 **Metacritic:** [77](https://www.metacritic.com/game/pc/the-darkness-ii?ftag=MCD-06-10aaa1f)
 
@@ -2118,7 +2154,7 @@
 
 `Horror`  `Survival Horror`  `Top-Down`  `Atmospheric`  `Survival`  `Dark`
 
-🟢 **Overwhelmingly Positive** (95% of 21,618 reviews &nbsp;·&nbsp; 👍 20,529 / 👎 1,089)
+🟢 **Very Positive** (95% of 24,740 reviews &nbsp;·&nbsp; 👍 23,476 / 👎 1,264)
 
 🟢 **Metacritic:** [80](https://www.metacritic.com/game/pc/darkwood?ftag=MCD-06-10aaa1f)
 
@@ -2134,7 +2170,7 @@
 
 `Indie`  `Tactical RPG`  `Shoot 'Em Up`  `Wargame`  `Real Time Tactics`  `Puzzle`
 
-🟢 **Very Positive** (80% of 1,080 reviews &nbsp;·&nbsp; 👍 864 / 👎 216)
+🟢 **Very Positive** (80% of 1,131 reviews &nbsp;·&nbsp; 👍 907 / 👎 224)
 
 🟢 **Metacritic:** [84](https://www.metacritic.com/game/pc/darwinia?ftag=MCD-06-10aaa1f)
 
@@ -2150,7 +2186,7 @@
 
 `FPS`  `World War II`  `Multiplayer`  `Shooter`  `Action`  `War`
 
-🟢 **Very Positive** (90% of 7,102 reviews &nbsp;·&nbsp; 👍 6,414 / 👎 688)
+🟢 **Very Positive** (90% of 7,356 reviews &nbsp;·&nbsp; 👍 6,634 / 👎 722)
 
 🟢 **Metacritic:** [79](https://www.metacritic.com/game/pc/day-of-defeat?ftag=MCD-06-10aaa1f)
 
@@ -2166,7 +2202,7 @@
 
 `FPS`  `World War II`  `Multiplayer`  `Action`  `Shooter`  `Military`
 
-🟢 **Very Positive** (92% of 22,689 reviews &nbsp;·&nbsp; 👍 20,798 / 👎 1,891)
+🟢 **Very Positive** (92% of 23,569 reviews &nbsp;·&nbsp; 👍 21,629 / 👎 1,940)
 
 🟢 **Metacritic:** [80](https://www.metacritic.com/game/pc/day-of-defeat-source?ftag=MCD-06-10aaa1f)
 
@@ -2182,7 +2218,7 @@
 
 `Survival`  `Open World`  `Online Co-Op`  `Zombies`  `Multiplayer`  `Post-apocalyptic`
 
-🟡 **Mostly Positive** (77% of 430,252 reviews &nbsp;·&nbsp; 👍 330,349 / 👎 99,903)
+🟡 **Mostly Positive** (78% of 466,867 reviews &nbsp;·&nbsp; 👍 363,186 / 👎 103,681)
 
 ---
 
@@ -2196,7 +2232,7 @@
 
 `Horror`  `Multiplayer`  `Survival Horror`  `Online Co-Op`  `Co-op`  `Survival`
 
-🟡 **Mostly Positive** (79% of 797,216 reviews &nbsp;·&nbsp; 👍 630,223 / 👎 166,993)
+🟡 **Mostly Positive** (78% of 924,872 reviews &nbsp;·&nbsp; 👍 725,428 / 👎 199,444)
 
 ---
 
@@ -2210,7 +2246,7 @@
 
 `Adventure`  `Action Roguelike`  `Metroidvania`  `Pixel Graphics`  `Rogue-like`  `2D`
 
-🟢 **Overwhelmingly Positive** (97% of 168,464 reviews &nbsp;·&nbsp; 👍 163,549 / 👎 4,915)
+🟢 **Overwhelmingly Positive** (97% of 182,305 reviews &nbsp;·&nbsp; 👍 176,907 / 👎 5,398)
 
 🟢 **Metacritic:** [89](https://www.metacritic.com/game/pc/dead-cells?ftag=MCD-06-10aaa1f)
 
@@ -2226,7 +2262,7 @@
 
 `Action`  `Zombies`  `Adventure`  `Platformer`  `Post-apocalyptic`  `Side Scroller`
 
-🟡 **Mostly Positive** (71% of 1,494 reviews &nbsp;·&nbsp; 👍 1,063 / 👎 431)
+🟡 **Mostly Positive** (71% of 1,643 reviews &nbsp;·&nbsp; 👍 1,174 / 👎 469)
 
 ---
 
@@ -2250,7 +2286,7 @@
 
 `Indie`  `Adventure`  `Pixel Graphics`  `Difficult`  `Puzzle-Platformer`  `2D`
 
-🟢 **Positive** (82% of 114 reviews &nbsp;·&nbsp; 👍 93 / 👎 21)
+🟡 **Mostly Positive** (74% of 698 reviews &nbsp;·&nbsp; 👍 520 / 👎 178)
 
 ---
 
@@ -2264,7 +2300,7 @@
 
 `Action`  `FPS`  `Classic`  `Multiplayer`  `Shooter`  `First-Person`
 
-🟢 **Very Positive** (83% of 3,163 reviews &nbsp;·&nbsp; 👍 2,618 / 👎 545)
+🟢 **Very Positive** (83% of 3,317 reviews &nbsp;·&nbsp; 👍 2,760 / 👎 557)
 
 ---
 
@@ -2278,7 +2314,7 @@
 
 `Dwarf`  `Co-op`  `PvE`  `FPS`  `Procedural Generation`  `Class-Based`
 
-🟢 **Overwhelmingly Positive** (97% of 343,000 reviews &nbsp;·&nbsp; 👍 333,587 / 👎 9,413)
+🟢 **Overwhelmingly Positive** (97% of 378,618 reviews &nbsp;·&nbsp; 👍 367,763 / 👎 10,855)
 
 🟢 **Metacritic:** [85](https://www.metacritic.com/game/pc/deep-rock-galactic?ftag=MCD-06-10aaa1f)
 
@@ -2294,7 +2330,7 @@
 
 `Dwarf`  `Action Roguelike`  `Rogue-lite`  `Bullet Hell`  `Top-Down Shooter`  `PvE`
 
-🟢 **Very Positive** (87% of 36,558 reviews &nbsp;·&nbsp; 👍 31,693 / 👎 4,865)
+🟢 **Very Positive** (86% of 48,001 reviews &nbsp;·&nbsp; 👍 41,407 / 👎 6,594)
 
 ---
 
@@ -2308,7 +2344,7 @@
 
 `Tactical`  `PvP`  `Online Co-Op`  `Co-op`  `Singleplayer`  `Strategy`
 
-🟢 **Very Positive** (87% of 4,182 reviews &nbsp;·&nbsp; 👍 3,657 / 👎 525)
+🟢 **Very Positive** (87% of 4,321 reviews &nbsp;·&nbsp; 👍 3,773 / 👎 548)
 
 🟢 **Metacritic:** [84](https://www.metacritic.com/game/pc/defcon-everybody-dies?ftag=MCD-06-10aaa1f)
 
@@ -2320,7 +2356,7 @@
 
 `Adventure`  `Casual`  `Indie`  `RPG`  `Simulation`  `Sandbox`
 
-🟢 **Very Positive** (80% of 4,670 reviews &nbsp;·&nbsp; 👍 3,745 / 👎 925)
+🟢 **Very Positive** (80% of 4,411 reviews &nbsp;·&nbsp; 👍 3,549 / 👎 862)
 
 ---
 
@@ -2331,6 +2367,8 @@
 **Dev:** Yuri Epifantsev &nbsp;·&nbsp; **Released:** Dec 20, 2024 &nbsp;·&nbsp; **Price:** Free
 
 *Delta Particles – is a total conversion mod for HL. You're playing as a technical engineer of complex &quot;Delta Base&quot; Nick Farrell. Unfortunately, the protagonist was in the wrong place at the wrong time, as an experiment at the Black Mesa Research Facility resulted in a resonance cascade.*
+
+🟢 **Overwhelmingly Positive** (97% of 3,447 reviews &nbsp;·&nbsp; 👍 3,339 / 👎 108)
 
 ---
 
@@ -2344,7 +2382,7 @@
 
 `Story Rich`  `Great Soundtrack`  `Pixel Graphics`  `Funny`  `RPG`  `Singleplayer`
 
-🟢 **Overwhelmingly Positive** (99% of 2,835 reviews &nbsp;·&nbsp; 👍 2,804 / 👎 31)
+🟢 **Overwhelmingly Positive** (98% of 127,887 reviews &nbsp;·&nbsp; 👍 125,500 / 👎 2,387)
 
 ---
 
@@ -2358,7 +2396,7 @@
 
 `Adventure`  `Point & Click`  `Comedy`  `Puzzle`  `Singleplayer`  `Funny`
 
-🟢 **Very Positive** (86% of 6,544 reviews &nbsp;·&nbsp; 👍 5,613 / 👎 931)
+🟢 **Very Positive** (84% of 6,832 reviews &nbsp;·&nbsp; 👍 5,771 / 👎 1,061)
 
 ---
 
@@ -2372,7 +2410,7 @@
 
 `Horror`  `Indie`  `Psychological Horror`  `Survival Horror`  `Exploration`  `Action`
 
-🟡 **Mostly Positive** (71% of 24 reviews &nbsp;·&nbsp; 👍 17 / 👎 7)
+🟡 **Mixed** (55% of 1,960 reviews &nbsp;·&nbsp; 👍 1,081 / 👎 879)
 
 ---
 
@@ -2386,7 +2424,7 @@
 
 `Free to Play`  `Open World`  `Multiplayer`  `Looter Shooter`  `MMORPG`  `FPS`
 
-🟢 **Very Positive** (80% of 625,616 reviews &nbsp;·&nbsp; 👍 497,891 / 👎 127,725)
+🟡 **Mostly Positive** (79% of 660,599 reviews &nbsp;·&nbsp; 👍 518,655 / 👎 141,944)
 
 🟢 **Metacritic:** [83](https://www.metacritic.com/game/pc/destiny-2?ftag=MCD-06-10aaa1f)
 
@@ -2402,7 +2440,7 @@
 
 `Choices Matter`  `Story Rich`  `Multiple Endings`  `Cinematic`  `Singleplayer`  `Emotional`
 
-🟢 **Overwhelmingly Positive** (96% of 169,199 reviews &nbsp;·&nbsp; 👍 162,047 / 👎 7,152)
+🟢 **Overwhelmingly Positive** (96% of 257,315 reviews &nbsp;·&nbsp; 👍 247,916 / 👎 9,399)
 
 🟢 **Metacritic:** [80](https://www.metacritic.com/game/pc/detroit-become-human?ftag=MCD-06-10aaa1f)
 
@@ -2418,7 +2456,7 @@
 
 `Puzzle`  `Indie`  `Logic`  `Experimental`  `Education`  `Casual`
 
-🟢 **Very Positive** (96% of 118 reviews &nbsp;·&nbsp; 👍 113 / 👎 5)
+🟢 **Very Positive** (96% of 122 reviews &nbsp;·&nbsp; 👍 117 / 👎 5)
 
 ---
 
@@ -2432,7 +2470,7 @@
 
 `Racing`  `Simulation`  `Automobile Sim`  `Driving`  `Multiplayer`  `Realistic`
 
-🟢 **Very Positive** (88% of 39,791 reviews &nbsp;·&nbsp; 👍 34,981 / 👎 4,810)
+🟢 **Very Positive** (88% of 40,151 reviews &nbsp;·&nbsp; 👍 35,322 / 👎 4,829)
 
 🟢 **Metacritic:** [86](https://www.metacritic.com/game/pc/dirt-rally?ftag=MCD-06-10aaa1f)
 
@@ -2448,7 +2486,7 @@
 
 `Racing`  `Automobile Sim`  `Simulation`  `Multiplayer`  `VR`  `Driving`
 
-🟢 **Very Positive** (88% of 44,595 reviews &nbsp;·&nbsp; 👍 39,383 / 👎 5,212)
+🟢 **Very Positive** (89% of 48,256 reviews &nbsp;·&nbsp; 👍 42,852 / 👎 5,404)
 
 🟢 **Metacritic:** [84](https://www.metacritic.com/game/pc/dirt-rally-20?ftag=MCD-06-10aaa1f)
 
@@ -2464,7 +2502,7 @@
 
 `RPG`  `Story Rich`  `Choices Matter`  `Detective`  `Isometric`  `Atmospheric`
 
-🟢 **Very Positive** (93% of 111,712 reviews &nbsp;·&nbsp; 👍 104,010 / 👎 7,702)
+🟢 **Very Positive** (93% of 129,544 reviews &nbsp;·&nbsp; 👍 119,943 / 👎 9,601)
 
 🟢 **Metacritic:** [97](https://www.metacritic.com/game/pc/disco-elysium-the-final-cut?ftag=MCD-06-10aaa1f)
 
@@ -2480,7 +2518,7 @@
 
 `RPG`  `Fantasy`  `Isometric`  `Classic`  `Action RPG`  `Singleplayer`
 
-🟢 **Very Positive** (88% of 3,532 reviews &nbsp;·&nbsp; 👍 3,106 / 👎 426)
+🟢 **Very Positive** (88% of 4,014 reviews &nbsp;·&nbsp; 👍 3,523 / 👎 491)
 
 🟢 **Metacritic:** [79](https://www.metacritic.com/game/pc/divine-divinity?ftag=MCD-06-10aaa1f)
 
@@ -2496,7 +2534,7 @@
 
 `RPG`  `Fantasy`  `Open World`  `Third Person`  `Dragons`  `Action RPG`
 
-🟢 **Very Positive** (85% of 4,800 reviews &nbsp;·&nbsp; 👍 4,058 / 👎 742)
+🟢 **Very Positive** (85% of 5,305 reviews &nbsp;·&nbsp; 👍 4,495 / 👎 810)
 
 ---
 
@@ -2510,7 +2548,7 @@
 
 `Simulation`  `Flight`  `World War II`  `Action`  `Local Co-Op`  `Local Multiplayer`
 
-🟡 **Mostly Positive** (79% of 1,101 reviews &nbsp;·&nbsp; 👍 869 / 👎 232)
+🟡 **Mostly Positive** (79% of 1,170 reviews &nbsp;·&nbsp; 👍 924 / 👎 246)
 
 ---
 
@@ -2524,7 +2562,7 @@
 
 `Survival`  `Open World Survival Craft`  `Multiplayer`  `Co-op`  `Open World`  `Adventure`
 
-🟢 **Overwhelmingly Positive** (95% of 499,061 reviews &nbsp;·&nbsp; 👍 475,393 / 👎 23,668)
+🟢 **Very Positive** (95% of 540,592 reviews &nbsp;·&nbsp; 👍 513,227 / 👎 27,365)
 
 🟢 **Metacritic:** [83](https://www.metacritic.com/game/pc/dont-starve-together?ftag=MCD-06-10aaa1f)
 
@@ -2540,7 +2578,7 @@
 
 `FPS`  `Gore`  `Action`  `Shooter`  `Great Soundtrack`  `Demons`
 
-🟢 **Overwhelmingly Positive** (96% of 207,279 reviews &nbsp;·&nbsp; 👍 198,001 / 👎 9,278)
+🟢 **Overwhelmingly Positive** (96% of 220,354 reviews &nbsp;·&nbsp; 👍 210,470 / 👎 9,884)
 
 🟢 **Metacritic:** [85](https://www.metacritic.com/game/pc/doom?ftag=MCD-06-10aaa1f)
 
@@ -2556,7 +2594,7 @@
 
 `FPS`  `Classic`  `1990's`  `Action`  `Great Soundtrack`  `Retro`
 
-🟢 **Overwhelmingly Positive** (96% of 24,984 reviews &nbsp;·&nbsp; 👍 24,105 / 👎 879)
+🟢 **Overwhelmingly Positive** (97% of 28,712 reviews &nbsp;·&nbsp; 👍 27,744 / 👎 968)
 
 ---
 
@@ -2570,7 +2608,7 @@
 
 `Horror`  `Action`  `FPS`  `Sci-fi`  `Dark`  `First-Person`
 
-🟢 **Very Positive** (89% of 7,827 reviews &nbsp;·&nbsp; 👍 6,980 / 👎 847)
+🟢 **Very Positive** (89% of 8,364 reviews &nbsp;·&nbsp; 👍 7,454 / 👎 910)
 
 🟢 **Metacritic:** [87](https://www.metacritic.com/game/pc/doom-3?ftag=MCD-06-10aaa1f)
 
@@ -2586,7 +2624,7 @@
 
 `FPS`  `Horror`  `Action`  `Shooter`  `Classic`  `Sci-fi`
 
-🟢 **Very Positive** (86% of 11,369 reviews &nbsp;·&nbsp; 👍 9,834 / 👎 1,535)
+🟢 **Very Positive** (86% of 12,393 reviews &nbsp;·&nbsp; 👍 10,681 / 👎 1,712)
 
 ---
 
@@ -2600,7 +2638,7 @@
 
 `Action`  `FPS`  `Horror`  `Sci-fi`  `Dark`  `Atmospheric`
 
-🟢 **Positive** (84% of 415 reviews &nbsp;·&nbsp; 👍 348 / 👎 67)
+🟢 **Very Positive** (85% of 1,409 reviews &nbsp;·&nbsp; 👍 1,194 / 👎 215)
 
 🟢 **Metacritic:** [78](https://www.metacritic.com/game/pc/doom-3-resurrection-of-evil?ftag=MCD-06-10aaa1f)
 
@@ -2616,7 +2654,7 @@
 
 `Action`  `FPS`  `Classic`  `1990's`  `Retro`  `Gore`
 
-🟢 **Very Positive** (94% of 7,777 reviews &nbsp;·&nbsp; 👍 7,272 / 👎 505)
+🟢 **Very Positive** (93% of 8,715 reviews &nbsp;·&nbsp; 👍 8,086 / 👎 629)
 
 ---
 
@@ -2630,7 +2668,7 @@
 
 `FPS`  `Action`  `Gore`  `Great Soundtrack`  `Fast-Paced`  `Violent`
 
-🟢 **Very Positive** (91% of 206,026 reviews &nbsp;·&nbsp; 👍 187,807 / 👎 18,219)
+🟢 **Very Positive** (91% of 216,342 reviews &nbsp;·&nbsp; 👍 197,704 / 👎 18,638)
 
 🟢 **Metacritic:** [88](https://www.metacritic.com/game/pc/doom-eternal?ftag=MCD-06-10aaa1f)
 
@@ -2646,7 +2684,7 @@
 
 `Classic`  `FPS`  `Action`  `1990's`  `Retro`  `Shooter`
 
-🟢 **Overwhelmingly Positive** (95% of 9,108 reviews &nbsp;·&nbsp; 👍 8,691 / 👎 417)
+🟢 **Overwhelmingly Positive** (95% of 9,058 reviews &nbsp;·&nbsp; 👍 8,647 / 👎 411)
 
 🟢 **Metacritic:** [83](https://www.metacritic.com/game/pc/doom-ii?ftag=MCD-06-10aaa1f)
 
@@ -2662,7 +2700,7 @@
 
 `Puzzle`  `Relaxing`  `City Builder`  `Turn-Based Strategy`  `Board Game`  `Strategy`
 
-🟢 **Overwhelmingly Positive** (97% of 27,597 reviews &nbsp;·&nbsp; 👍 26,639 / 👎 958)
+🟢 **Overwhelmingly Positive** (96% of 29,502 reviews &nbsp;·&nbsp; 👍 28,423 / 👎 1,079)
 
 ---
 
@@ -2676,7 +2714,7 @@
 
 `Free to Play`  `MOBA`  `Multiplayer`  `Strategy`  `e-sports`  `Team-Based`
 
-🟢 **Very Positive** (82% of 2,498,969 reviews &nbsp;·&nbsp; 👍 2,037,143 / 👎 461,826)
+🟢 **Very Positive** (81% of 2,751,545 reviews &nbsp;·&nbsp; 👍 2,217,925 / 👎 533,620)
 
 🟢 **Metacritic:** [90](https://www.metacritic.com/game/pc/dota-2?ftag=MCD-06-10aaa1f)
 
@@ -2692,7 +2730,7 @@
 
 `Local Multiplayer`  `Party`  `Multiplayer`  `Party Game`  `Casual`  `Local Co-Op`
 
-🟡 **Mostly Positive** (74% of 4,019 reviews &nbsp;·&nbsp; 👍 2,983 / 👎 1,036)
+🟡 **Mostly Positive** (75% of 4,162 reviews &nbsp;·&nbsp; 👍 3,105 / 👎 1,057)
 
 ---
 
@@ -2706,7 +2744,7 @@
 
 `Racing`  `Multiplayer`  `Automobile Sim`  `Casual`  `Indie`  `Arcade`
 
-🟢 **Very Positive** (91% of 5,965 reviews &nbsp;·&nbsp; 👍 5,444 / 👎 521)
+🟢 **Very Positive** (88% of 7,320 reviews &nbsp;·&nbsp; 👍 6,415 / 👎 905)
 
 ---
 
@@ -2720,7 +2758,7 @@
 
 `Multiplayer`  `Online Co-Op`  `Tower Defense`  `Singleplayer`  `Strategy`  `Survival`
 
-🟢 **Very Positive** (93% of 18,060 reviews &nbsp;·&nbsp; 👍 16,818 / 👎 1,242)
+🟢 **Very Positive** (93% of 18,958 reviews &nbsp;·&nbsp; 👍 17,647 / 👎 1,311)
 
 🟢 **Metacritic:** [81](https://www.metacritic.com/game/pc/dungeon-defenders?ftag=MCD-06-10aaa1f)
 
@@ -2736,7 +2774,7 @@
 
 `Rogue-like`  `Strategy`  `Tower Defense`  `Pixel Graphics`  `Indie`  `RPG`
 
-🟢 **Very Positive** (86% of 13,734 reviews &nbsp;·&nbsp; 👍 11,749 / 👎 1,985)
+🟢 **Very Positive** (85% of 14,034 reviews &nbsp;·&nbsp; 👍 11,969 / 👎 2,065)
 
 ---
 
@@ -2750,7 +2788,7 @@
 
 `RPG`  `Fantasy`  `Action RPG`  `Party-Based RPG`  `Classic`  `Hack and Slash`
 
-🟢 **Very Positive** (82% of 3,941 reviews &nbsp;·&nbsp; 👍 3,217 / 👎 724)
+🟢 **Very Positive** (82% of 4,241 reviews &nbsp;·&nbsp; 👍 3,476 / 👎 765)
 
 🟢 **Metacritic:** [86](https://www.metacritic.com/game/pc/dungeon-siege?ftag=MCD-06-10aaa1f)
 
@@ -2766,7 +2804,7 @@
 
 `RPG`  `Fantasy`  `Action RPG`  `Hack and Slash`  `Singleplayer`  `Adventure`
 
-🟡 **Mostly Positive** (76% of 2,678 reviews &nbsp;·&nbsp; 👍 2,034 / 👎 644)
+🟡 **Mostly Positive** (77% of 2,893 reviews &nbsp;·&nbsp; 👍 2,223 / 👎 670)
 
 🟢 **Metacritic:** [80](https://www.metacritic.com/game/pc/dungeon-siege-ii?ftag=MCD-06-10aaa1f)
 
@@ -2782,7 +2820,7 @@
 
 `RPG`  `Action`  `Fantasy`  `Action RPG`  `Co-op`  `Dungeon Crawler`
 
-🟡 **Mixed** (57% of 2,867 reviews &nbsp;·&nbsp; 👍 1,642 / 👎 1,225)
+🟡 **Mixed** (57% of 2,960 reviews &nbsp;·&nbsp; 👍 1,700 / 👎 1,260)
 
 🟡 **Metacritic:** [72](https://www.metacritic.com/game/pc/dungeon-siege-iii?ftag=MCD-06-10aaa1f)
 
@@ -2798,7 +2836,7 @@
 
 `Zombies`  `Survival Horror`  `Horror`  `Online Co-Op`  `Open World`  `Parkour`
 
-🟢 **Overwhelmingly Positive** (95% of 457,632 reviews &nbsp;·&nbsp; 👍 435,687 / 👎 21,945)
+🟢 **Overwhelmingly Positive** (95% of 492,725 reviews &nbsp;·&nbsp; 👍 469,238 / 👎 23,487)
 
 🟢 **Metacritic:** [87](https://www.metacritic.com/game/pc/dying-light-the-following---enhanced-edition?ftag=MCD-06-10aaa1f)
 
@@ -2814,7 +2852,7 @@
 
 `Open World`  `Co-op`  `Zombies`  `Parkour`  `Multiplayer`  `Horror`
 
-🟡 **Mostly Positive** (79% of 194,830 reviews &nbsp;·&nbsp; 👍 154,122 / 👎 40,708)
+🟡 **Mostly Positive** (79% of 217,720 reviews &nbsp;·&nbsp; 👍 171,574 / 👎 46,146)
 
 ---
 
@@ -2830,7 +2868,7 @@
 
 `Casual`  `Indie`  `Strategy`  `Puzzle`  `Singleplayer`
 
-🟡 **Mixed** (46% of 242 reviews &nbsp;·&nbsp; 👍 112 / 👎 130)
+🟡 **Mostly Positive** (79% of 685 reviews &nbsp;·&nbsp; 👍 541 / 👎 144)
 
 🟢 **Metacritic:** [81](https://www.metacritic.com/game/pc/eets?ftag=MCD-06-10aaa1f)
 
@@ -2846,7 +2884,7 @@
 
 `Souls-like`  `Open World`  `Dark Fantasy`  `RPG`  `Difficult`  `Action RPG`
 
-🟢 **Very Positive** (93% of 1,056,677 reviews &nbsp;·&nbsp; 👍 981,540 / 👎 75,137)
+🟢 **Very Positive** (93% of 1,146,849 reviews &nbsp;·&nbsp; 👍 1,067,439 / 👎 79,410)
 
 🟢 **Metacritic:** [94](https://www.metacritic.com/game/pc/elden-ring?ftag=MCD-06-10aaa1f)
 
@@ -2862,7 +2900,7 @@
 
 `RPG`  `Open World`  `Fantasy`  `Singleplayer`  `Moddable`  `First-Person`
 
-🟢 **Overwhelmingly Positive** (95% of 50,661 reviews &nbsp;·&nbsp; 👍 48,307 / 👎 2,354)
+🟢 **Overwhelmingly Positive** (95% of 52,842 reviews &nbsp;·&nbsp; 👍 50,210 / 👎 2,632)
 
 🟢 **Metacritic:** [94](https://www.metacritic.com/game/pc/the-elder-scrolls-iv-oblivion?ftag=MCD-06-10aaa1f)
 
@@ -2878,7 +2916,7 @@
 
 `RPG`  `MMORPG`  `Open World`  `Fantasy`  `Adventure`  `Multiplayer`
 
-🟢 **Very Positive** (81% of 154,113 reviews &nbsp;·&nbsp; 👍 125,497 / 👎 28,616)
+🟢 **Very Positive** (81% of 161,161 reviews &nbsp;·&nbsp; 👍 130,383 / 👎 30,778)
 
 🟢 **Metacritic:** [80](https://www.metacritic.com/game/pc/the-elder-scrolls-online-tamriel-unlimited?ftag=MCD-06-10aaa1f)
 
@@ -2894,7 +2932,7 @@
 
 `Open World`  `RPG`  `Adventure`  `Singleplayer`  `Fantasy`  `Character Customization`
 
-🟢 **Very Positive** (92% of 337,058 reviews &nbsp;·&nbsp; 👍 310,162 / 👎 26,896)
+🟢 **Very Positive** (92% of 372,566 reviews &nbsp;·&nbsp; 👍 344,386 / 👎 28,180)
 
 🟡 **Metacritic:** [74](https://www.metacritic.com/game/pc/the-elder-scrolls-v-skyrim-special-edition?ftag=MCD-06-10aaa1f)
 
@@ -2910,7 +2948,7 @@
 
 `Simulation`  `Strategy`  `Mod`  `Moddable`  `Singleplayer`  `Multiplayer`
 
-🟢 **Very Positive** (93% of 1,855 reviews &nbsp;·&nbsp; 👍 1,726 / 👎 129)
+🟢 **Very Positive** (93% of 2,070 reviews &nbsp;·&nbsp; 👍 1,934 / 👎 136)
 
 🟡 **Metacritic:** [71](https://www.metacritic.com/game/pc/emergency-fighters-for-life?ftag=MCD-06-10aaa1f)
 
@@ -2926,7 +2964,7 @@
 
 `Bullet Hell`  `Action Roguelike`  `Rogue-like`  `Pixel Graphics`  `Difficult`  `Dungeon Crawler`
 
-🟢 **Overwhelmingly Positive** (95% of 85,562 reviews &nbsp;·&nbsp; 👍 81,669 / 👎 3,893)
+🟢 **Overwhelmingly Positive** (95% of 89,589 reviews &nbsp;·&nbsp; 👍 85,224 / 👎 4,365)
 
 🟢 **Metacritic:** [84](https://www.metacritic.com/game/pc/enter-the-gungeon?ftag=MCD-06-10aaa1f)
 
@@ -2942,7 +2980,7 @@
 
 `Free to Play`  `Action`  `Violent`  `Mod`  `FPS`  `Singleplayer`
 
-🟢 **Very Positive** (91% of 1,639 reviews &nbsp;·&nbsp; 👍 1,486 / 👎 153)
+🟢 **Very Positive** (90% of 12,723 reviews &nbsp;·&nbsp; 👍 11,471 / 👎 1,252)
 
 ---
 
@@ -2954,6 +2992,8 @@
 
 *Bad Cop is back. Command a small army of Combine synths and soldiers on a Northern campaign to capture Dr. Judith Mossman. A modification for Half-Life 2.*
 
+🟢 **Overwhelmingly Positive** (98% of 31,822 reviews &nbsp;·&nbsp; 👍 31,274 / 👎 548)
+
 ---
 
 ### <a href="https://store.steampowered.com/app/3167020"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/3167020/b0ba5d330b99b58ae813e0c0fc4cab9297387dc5.ico" width="32" height="32"></a> [Escape from Duckov](https://store.steampowered.com/app/3167020)
@@ -2963,6 +3003,8 @@
 **Dev:** Team Soda &nbsp;·&nbsp; **Released:** Oct 16, 2025 &nbsp;·&nbsp; **Price:** $17.99
 
 *Escape from Duckov is a PVE indie survival RPG — in a duck's world!. Scavenge for resources, build your hideout, and upgrade your gear in the world of Duckov. Start from nothing and rise to the top. Outwit hostile ducks, survive, or make it out alive.*
+
+🟢 **Very Positive** (84% of 103,739 reviews &nbsp;·&nbsp; 👍 87,644 / 👎 16,095)
 
 ---
 
@@ -2976,7 +3018,7 @@
 
 `Driving`  `Transportation`  `Simulation`  `Open World`  `Automobile Sim`  `Realistic`
 
-🟢 **Overwhelmingly Positive** (97% of 867,404 reviews &nbsp;·&nbsp; 👍 844,480 / 👎 22,924)
+🟢 **Overwhelmingly Positive** (97% of 934,957 reviews &nbsp;·&nbsp; 👍 911,098 / 👎 23,859)
 
 🟢 **Metacritic:** [79](https://www.metacritic.com/game/pc/euro-truck-simulator-2?ftag=MCD-06-10aaa1f)
 
@@ -2992,7 +3034,7 @@
 
 `Grand Strategy`  `Strategy`  `Historical`  `Simulation`  `4X`  `Alternate History`
 
-🟢 **Very Positive** (87% of 134,436 reviews &nbsp;·&nbsp; 👍 116,432 / 👎 18,004)
+🟢 **Very Positive** (88% of 137,063 reviews &nbsp;·&nbsp; 👍 120,154 / 👎 16,909)
 
 🟢 **Metacritic:** [87](https://www.metacritic.com/game/pc/europa-universalis-iv?ftag=MCD-06-10aaa1f)
 
@@ -3008,7 +3050,7 @@
 
 `Space`  `Free to Play`  `Massively Multiplayer`  `Open World`  `Multiplayer`  `RPG`
 
-🟡 **Mostly Positive** (74% of 36,388 reviews &nbsp;·&nbsp; 👍 26,813 / 👎 9,575)
+🟡 **Mostly Positive** (73% of 39,191 reviews &nbsp;·&nbsp; 👍 28,755 / 👎 10,436)
 
 🟢 **Metacritic:** [88](https://www.metacritic.com/game/pc/eve-online-special-edition?ftag=MCD-06-10aaa1f)
 
@@ -3024,7 +3066,7 @@
 
 `Action`  `Multiplayer`  `Co-op`  `FPS`  `Online Co-Op`  `Shooter`
 
-🟡 **Mostly Positive** (70% of 48,362 reviews &nbsp;·&nbsp; 👍 33,844 / 👎 14,518)
+🟡 **Mostly Positive** (70% of 48,229 reviews &nbsp;·&nbsp; 👍 33,809 / 👎 14,420)
 
 🟢 **Metacritic:** [77](https://www.metacritic.com/game/pc/evolve?ftag=MCD-06-10aaa1f)
 
@@ -3042,7 +3084,7 @@
 
 `Racing`  `Automobile Sim`  `Sports`  `Simulation`  `Driving`  `Multiplayer`
 
-🟡 **Mixed** (60% of 7,892 reviews &nbsp;·&nbsp; 👍 4,720 / 👎 3,172)
+🟡 **Mixed** (60% of 7,989 reviews &nbsp;·&nbsp; 👍 4,801 / 👎 3,188)
 
 🟡 **Metacritic:** [61](https://www.metacritic.com/game/pc/f1-2015?ftag=MCD-06-10aaa1f)
 
@@ -3058,7 +3100,7 @@
 
 `Automation`  `Base-Building`  `Resource Management`  `Sandbox`  `Crafting`  `Strategy`
 
-🟢 **Overwhelmingly Positive** (97% of 215,209 reviews &nbsp;·&nbsp; 👍 208,770 / 👎 6,439)
+🟢 **Overwhelmingly Positive** (98% of 232,837 reviews &nbsp;·&nbsp; 👍 227,044 / 👎 5,793)
 
 🟢 **Metacritic:** [90](https://www.metacritic.com/game/pc/factorio?ftag=MCD-06-10aaa1f)
 
@@ -3074,7 +3116,7 @@
 
 `RPG`  `Post-apocalyptic`  `Classic`  `Open World`  `Isometric`  `Turn-Based`
 
-🟢 **Very Positive** (94% of 22,198 reviews &nbsp;·&nbsp; 👍 20,902 / 👎 1,296)
+🟢 **Very Positive** (94% of 25,019 reviews &nbsp;·&nbsp; 👍 23,578 / 👎 1,441)
 
 🟢 **Metacritic:** [89](https://www.metacritic.com/game/pc/fallout?ftag=MCD-06-10aaa1f)
 
@@ -3090,7 +3132,7 @@
 
 `Open World`  `RPG`  `Post-apocalyptic`  `Singleplayer`  `Moddable`  `First-Person`
 
-🟢 **Very Positive** (81% of 50,593 reviews &nbsp;·&nbsp; 👍 41,078 / 👎 9,515)
+🟢 **Very Positive** (82% of 55,938 reviews &nbsp;·&nbsp; 👍 45,663 / 👎 10,275)
 
 🟢 **Metacritic:** [91](https://www.metacritic.com/game/pc/fallout-3?ftag=MCD-06-10aaa1f)
 
@@ -3106,7 +3148,7 @@
 
 `Open World`  `Post-apocalyptic`  `Singleplayer`  `Exploration`  `RPG`  `Adventure`
 
-🟢 **Very Positive** (83% of 392,287 reviews &nbsp;·&nbsp; 👍 326,054 / 👎 66,233)
+🟢 **Very Positive** (81% of 427,313 reviews &nbsp;·&nbsp; 👍 346,979 / 👎 80,334)
 
 🟢 **Metacritic:** [84](https://www.metacritic.com/game/pc/fallout-4?ftag=MCD-06-10aaa1f)
 
@@ -3122,7 +3164,7 @@
 
 `Open World`  `RPG`  `Post-apocalyptic`  `Singleplayer`  `Moddable`  `Story Rich`
 
-🟢 **Overwhelmingly Positive** (96% of 227,700 reviews &nbsp;·&nbsp; 👍 218,763 / 👎 8,937)
+🟢 **Overwhelmingly Positive** (96% of 260,108 reviews &nbsp;·&nbsp; 👍 249,679 / 👎 10,429)
 
 🟢 **Metacritic:** [84](https://www.metacritic.com/game/pc/fallout-new-vegas?ftag=MCD-06-10aaa1f)
 
@@ -3138,7 +3180,7 @@
 
 `Strategy`  `Turn-Based Strategy`  `Fantasy`  `Turn-Based`  `Turn-Based Tactics`  `Turn-Based Combat`
 
-🟢 **Very Positive** (83% of 1,235 reviews &nbsp;·&nbsp; 👍 1,025 / 👎 210)
+🟢 **Very Positive** (80% of 1,969 reviews &nbsp;·&nbsp; 👍 1,585 / 👎 384)
 
 🟢 **Metacritic:** [80](https://www.metacritic.com/game/pc/fantasy-general-ii?ftag=MCD-06-10aaa1f)
 
@@ -3154,7 +3196,7 @@
 
 `Open World`  `FPS`  `Action`  `Adventure`  `Multiplayer`  `Shooter`
 
-🟢 **Very Positive** (89% of 114,019 reviews &nbsp;·&nbsp; 👍 101,914 / 👎 12,105)
+🟢 **Very Positive** (88% of 132,256 reviews &nbsp;·&nbsp; 👍 116,293 / 👎 15,963)
 
 🟢 **Metacritic:** [88](https://www.metacritic.com/game/pc/far-cry-3?ftag=MCD-06-10aaa1f)
 
@@ -3170,7 +3212,7 @@
 
 `Open World`  `Action`  `FPS`  `Co-op`  `Multiplayer`  `Adventure`
 
-🟢 **Very Positive** (84% of 61,267 reviews &nbsp;·&nbsp; 👍 51,618 / 👎 9,649)
+🟢 **Very Positive** (85% of 72,691 reviews &nbsp;·&nbsp; 👍 61,502 / 👎 11,189)
 
 🟢 **Metacritic:** [80](https://www.metacritic.com/game/pc/far-cry-4?ftag=MCD-06-10aaa1f)
 
@@ -3186,7 +3228,7 @@
 
 `Open World`  `Action-Adventure`  `Multiplayer`  `Co-op`  `FPS`  `Shooter`
 
-🟢 **Very Positive** (81% of 173,477 reviews &nbsp;·&nbsp; 👍 140,377 / 👎 33,100)
+🟢 **Very Positive** (81% of 188,045 reviews &nbsp;·&nbsp; 👍 152,429 / 👎 35,616)
 
 ---
 
@@ -3197,6 +3239,8 @@
 **Dev:** Evil Raptor &nbsp;·&nbsp; **Released:** Apr 28, 2026 &nbsp;·&nbsp; **Price:** $19.99
 
 *Yee-haw, Cowboys! Team up in this chaotic 1-4 player co-op shooter. Journey to the Far Far West to blast monsters, sling spells, complete missions, and collect bounties. Work as a team to get in, get paid and get out (mostly) alive.*
+
+🟢 **Overwhelmingly Positive** (96% of 35,596 reviews &nbsp;·&nbsp; 👍 34,111 / 👎 1,485)
 
 ---
 
@@ -3210,7 +3254,7 @@
 
 `Atmospheric`  `Adventure`  `Post-apocalyptic`  `Singleplayer`  `Exploration`  `2.5D`
 
-🟢 **Overwhelmingly Positive** (95% of 22,315 reviews &nbsp;·&nbsp; 👍 21,211 / 👎 1,104)
+🟢 **Overwhelmingly Positive** (95% of 26,291 reviews &nbsp;·&nbsp; 👍 25,045 / 👎 1,246)
 
 🟢 **Metacritic:** [80](https://www.metacritic.com/game/pc/far-lone-sails?ftag=MCD-06-10aaa1f)
 
@@ -3226,7 +3270,7 @@
 
 `Simulation`  `Farming Sim`  `Multiplayer`  `Casual`  `Farming`  `Open World`
 
-🟢 **Very Positive** (92% of 5,253 reviews &nbsp;·&nbsp; 👍 4,857 / 👎 396)
+🟢 **Very Positive** (92% of 5,359 reviews &nbsp;·&nbsp; 👍 4,957 / 👎 402)
 
 ---
 
@@ -3240,7 +3284,7 @@
 
 `Horror`  `FPS`  `Action`  `Bullet Time`  `Classic`  `Singleplayer`
 
-🟢 **Very Positive** (94% of 16,936 reviews &nbsp;·&nbsp; 👍 15,867 / 👎 1,069)
+🟢 **Very Positive** (94% of 19,395 reviews &nbsp;·&nbsp; 👍 18,163 / 👎 1,232)
 
 🟢 **Metacritic:** [88](https://www.metacritic.com/game/pc/fear?ftag=MCD-06-10aaa1f)
 
@@ -3256,7 +3300,7 @@
 
 `Horror`  `FPS`  `Action`  `Gore`  `Singleplayer`  `Shooter`
 
-🟢 **Very Positive** (85% of 8,549 reviews &nbsp;·&nbsp; 👍 7,280 / 👎 1,269)
+🟢 **Very Positive** (85% of 9,457 reviews &nbsp;·&nbsp; 👍 8,015 / 👎 1,442)
 
 🟢 **Metacritic:** [79](https://www.metacritic.com/game/pc/fear-2-project-origin?ftag=MCD-06-10aaa1f)
 
@@ -3272,7 +3316,7 @@
 
 `FPS`  `Horror`  `Co-op`  `Action`  `Multiplayer`  `Shooter`
 
-🟡 **Mostly Positive** (71% of 12,758 reviews &nbsp;·&nbsp; 👍 9,070 / 👎 3,688)
+🟡 **Mostly Positive** (71% of 13,639 reviews &nbsp;·&nbsp; 👍 9,643 / 👎 3,996)
 
 🟡 **Metacritic:** [74](https://www.metacritic.com/game/pc/fear-3?ftag=MCD-06-10aaa1f)
 
@@ -3286,6 +3330,8 @@
 
 *Experience the original F.E.A.R. along with F.E.A.R. Extraction Point and F.E.A.R. Perseus Mandate.*
 
+🟢 **Very Positive** (87% of 1,843 reviews &nbsp;·&nbsp; 👍 1,606 / 👎 237)
+
 🟢 **Metacritic:** [88](https://www.metacritic.com/game/pc/fear?ftag=MCD-06-10aaa1f)
 
 ---
@@ -3297,6 +3343,8 @@
 **Dev:** Monolith Productions, Inc., Timegate &nbsp;·&nbsp; **Released:** May 21, 2010 &nbsp;·&nbsp; **Price:** $9.99
 
 *Experience the original F.E.A.R. along with F.E.A.R. Extraction Point and F.E.A.R. Perseus Mandate.*
+
+🟢 **Very Positive** (86% of 1,366 reviews &nbsp;·&nbsp; 👍 1,180 / 👎 186)
 
 🟢 **Metacritic:** [88](https://www.metacritic.com/game/pc/fear?ftag=MCD-06-10aaa1f)
 
@@ -3312,7 +3360,7 @@
 
 `Simulation`  `Strategy`  `Turn-Based Tactics`  `Strategy RPG`  `Wargame`  `Medieval`
 
-🟢 **Very Positive** (87% of 484 reviews &nbsp;·&nbsp; 👍 422 / 👎 62)
+🟡 **Mostly Positive** (77% of 983 reviews &nbsp;·&nbsp; 👍 757 / 👎 226)
 
 🟢 **Metacritic:** [75](https://www.metacritic.com/game/pc/field-of-glory-ii-medieval?ftag=MCD-06-10aaa1f)
 
@@ -3326,6 +3374,8 @@
 
 *THE FINALS is the world’s first Dynamism Shooter, a free-to-play, fast-paced, physics-driven, first-person shooter set on the stage of the biggest Gameshow of the future! Fight for Fans and fortune in fully-destructible, virtual Arenas that guarantee no two rounds will ever play the same!*
 
+🟡 **Mostly Positive** (78% of 273,654 reviews &nbsp;·&nbsp; 👍 214,252 / 👎 59,402)
+
 ---
 
 ### <a href="https://store.steampowered.com/app/291910"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/291910/4dddfeffa61724c39ec452b137efe53f147f559e.ico" width="32" height="32"></a> [Firefighters 2014](https://store.steampowered.com/app/291910)
@@ -3338,7 +3388,7 @@
 
 `Simulation`  `Action`  `First-Person`  `Open World`  `Singleplayer`
 
-🟡 **Mixed** (61% of 587 reviews &nbsp;·&nbsp; 👍 360 / 👎 227)
+🟡 **Mixed** (61% of 599 reviews &nbsp;·&nbsp; 👍 367 / 👎 232)
 
 ---
 
@@ -3352,7 +3402,7 @@
 
 `Adventure`  `Atmospheric`  `Story Rich`  `Walking Simulator`  `Mystery`  `First-Person`
 
-🟢 **Very Positive** (90% of 90,438 reviews &nbsp;·&nbsp; 👍 81,777 / 👎 8,661)
+🟢 **Very Positive** (91% of 99,015 reviews &nbsp;·&nbsp; 👍 89,674 / 👎 9,341)
 
 🟢 **Metacritic:** [81](https://www.metacritic.com/game/pc/firewatch?ftag=MCD-06-10aaa1f)
 
@@ -3368,7 +3418,7 @@
 
 `Strategy`  `RTS`  `Cold War`  `War`  `PvP`  `Simulation`
 
-🟡 **Mostly Positive** (77% of 1,864 reviews &nbsp;·&nbsp; 👍 1,442 / 👎 422)
+🟡 **Mostly Positive** (75% of 2,019 reviews &nbsp;·&nbsp; 👍 1,520 / 👎 499)
 
 ---
 
@@ -3379,6 +3429,8 @@
 **Dev:** BigBonk Studio &nbsp;·&nbsp; **Released:** Apr 14, 2026 &nbsp;·&nbsp; **Price:** $4.99
 
 *Fishing Inc is a cozy incremental fishing game! Catch fish, earn cash, and unlock powerful skills. Master new ponds, fill your Fish Log with Legendary catches, and become the ultimate angler!*
+
+🟢 **Very Positive** (92% of 1,700 reviews &nbsp;·&nbsp; 👍 1,556 / 👎 144)
 
 ---
 
@@ -3392,7 +3444,7 @@
 
 `Horror`  `Singleplayer`  `Survival Horror`  `Robots`  `Psychological Horror`  `Indie`
 
-🟢 **Very Positive** (93% of 52,237 reviews &nbsp;·&nbsp; 👍 48,831 / 👎 3,406)
+🟢 **Very Positive** (94% of 58,885 reviews &nbsp;·&nbsp; 👍 55,239 / 👎 3,646)
 
 🟢 **Metacritic:** [78](https://www.metacritic.com/game/pc/five-nights-at-freddys?ftag=MCD-06-10aaa1f)
 
@@ -3408,7 +3460,7 @@
 
 `Horror`  `Singleplayer`  `Survival Horror`  `Robots`  `Psychological Horror`  `Difficult`
 
-🟢 **Very Positive** (94% of 22,697 reviews &nbsp;·&nbsp; 👍 21,272 / 👎 1,425)
+🟢 **Very Positive** (94% of 25,991 reviews &nbsp;·&nbsp; 👍 24,351 / 👎 1,640)
 
 🟡 **Metacritic:** [62](https://www.metacritic.com/game/pc/five-nights-at-freddys-2?ftag=MCD-06-10aaa1f)
 
@@ -3424,7 +3476,7 @@
 
 `Horror`  `Singleplayer`  `Survival Horror`  `Robots`  `First-Person`  `Psychological Horror`
 
-🟢 **Very Positive** (90% of 10,082 reviews &nbsp;·&nbsp; 👍 9,083 / 👎 999)
+🟢 **Very Positive** (90% of 11,276 reviews &nbsp;·&nbsp; 👍 10,173 / 👎 1,103)
 
 🟡 **Metacritic:** [68](https://www.metacritic.com/game/pc/five-nights-at-freddys-3?ftag=MCD-06-10aaa1f)
 
@@ -3440,7 +3492,7 @@
 
 `Horror`  `Survival Horror`  `Singleplayer`  `First-Person`  `Robots`  `Dark`
 
-🟢 **Very Positive** (93% of 14,751 reviews &nbsp;·&nbsp; 👍 13,686 / 👎 1,065)
+🟢 **Very Positive** (93% of 16,802 reviews &nbsp;·&nbsp; 👍 15,615 / 👎 1,187)
 
 🟡 **Metacritic:** [51](https://www.metacritic.com/game/pc/five-nights-at-freddys-4?ftag=MCD-06-10aaa1f)
 
@@ -3456,7 +3508,7 @@
 
 `Horror`  `Survival Horror`  `Singleplayer`  `Robots`  `First-Person`  `Dark`
 
-🟢 **Very Positive** (91% of 11,665 reviews &nbsp;·&nbsp; 👍 10,566 / 👎 1,099)
+🟢 **Very Positive** (90% of 12,580 reviews &nbsp;·&nbsp; 👍 11,327 / 👎 1,253)
 
 🟡 **Metacritic:** [62](https://www.metacritic.com/game/pc/five-nights-at-freddys-sister-location?ftag=MCD-06-10aaa1f)
 
@@ -3472,7 +3524,7 @@
 
 `Medieval`  `Swordplay`  `Action`  `Multiplayer`  `Fighting`  `PvP`
 
-🟡 **Mostly Positive** (70% of 150,256 reviews &nbsp;·&nbsp; 👍 104,468 / 👎 45,788)
+🟡 **Mixed** (69% of 163,372 reviews &nbsp;·&nbsp; 👍 112,874 / 👎 50,498)
 
 🟢 **Metacritic:** [76](https://www.metacritic.com/game/pc/for-honor?ftag=MCD-06-10aaa1f)
 
@@ -3488,7 +3540,7 @@
 
 `Open World`  `Survival`  `Crafting`  `Base-Building`  `Sandbox`  `Fantasy`
 
-🟢 **Very Positive** (81% of 2,200 reviews &nbsp;·&nbsp; 👍 1,775 / 👎 425)
+🟡 **Mostly Positive** (80% of 2,350 reviews &nbsp;·&nbsp; 👍 1,878 / 👎 472)
 
 ---
 
@@ -3502,7 +3554,7 @@
 
 `Open World Survival Craft`  `Survival`  `Open World`  `Horror`  `Crafting`  `Adventure`
 
-🟢 **Overwhelmingly Positive** (96% of 627,791 reviews &nbsp;·&nbsp; 👍 599,805 / 👎 27,986)
+🟢 **Overwhelmingly Positive** (96% of 679,542 reviews &nbsp;·&nbsp; 👍 649,177 / 👎 30,365)
 
 🟢 **Metacritic:** [83](https://www.metacritic.com/game/pc/the-forest?ftag=MCD-06-10aaa1f)
 
@@ -3518,7 +3570,7 @@
 
 `Racing`  `Open World`  `Driving`  `Multiplayer`  `Automobile Sim`  `Realistic`
 
-🟢 **Very Positive** (91% of 290,917 reviews &nbsp;·&nbsp; 👍 263,942 / 👎 26,975)
+🟢 **Very Positive** (91% of 302,997 reviews &nbsp;·&nbsp; 👍 275,297 / 👎 27,700)
 
 ---
 
@@ -3532,7 +3584,7 @@
 
 `Racing`  `Open World`  `Driving`  `Multiplayer`  `Automobile Sim`  `Realistic`
 
-🟢 **Very Positive** (89% of 225,629 reviews &nbsp;·&nbsp; 👍 199,950 / 👎 25,679)
+🟢 **Very Positive** (89% of 278,669 reviews &nbsp;·&nbsp; 👍 248,502 / 👎 30,167)
 
 ---
 
@@ -3546,7 +3598,7 @@
 
 `FPS`  `PvP`  `Shooter`  `Free to Play`  `Multiplayer`  `Board Game`
 
-🟢 **Very Positive** (84% of 37,132 reviews &nbsp;·&nbsp; 👍 31,223 / 👎 5,909)
+🟢 **Very Positive** (84% of 43,581 reviews &nbsp;·&nbsp; 👍 36,700 / 👎 6,881)
 
 ---
 
@@ -3560,7 +3612,7 @@
 
 `Rogue-like`  `Space`  `Strategy`  `Sci-fi`  `Indie`  `Singleplayer`
 
-🟢 **Overwhelmingly Positive** (95% of 75,052 reviews &nbsp;·&nbsp; 👍 71,561 / 👎 3,491)
+🟢 **Overwhelmingly Positive** (95% of 78,454 reviews &nbsp;·&nbsp; 👍 74,615 / 👎 3,839)
 
 🟢 **Metacritic:** [84](https://www.metacritic.com/game/pc/ftl-faster-than-light?ftag=MCD-06-10aaa1f)
 
@@ -3574,6 +3626,8 @@
 
 *Explore a series of whimsical, interconnected worlds to steal everything not nailed down. Make a garbage bin a garbage home :)*
 
+🟢 **Overwhelmingly Positive** (99% of 1,759 reviews &nbsp;·&nbsp; 👍 1,745 / 👎 14)
+
 ---
 
 ### <a href="https://store.steampowered.com/app/2004080"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/2004080/e604cc5ff45365fb1152fcaffb399020c52d9265.ico" width="32" height="32"></a> [Furnish Master](https://store.steampowered.com/app/2004080)
@@ -3586,7 +3640,7 @@
 
 `Early Access`  `Colorful`  `Sandbox`  `Cozy`  `Design & Illustration`  `Building`
 
-🟢 **Very Positive** (83% of 807 reviews &nbsp;·&nbsp; 👍 668 / 👎 139)
+🟢 **Very Positive** (82% of 1,161 reviews &nbsp;·&nbsp; 👍 948 / 👎 213)
 
 ---
 
@@ -3602,7 +3656,7 @@
 
 `Management`  `Simulation`  `Indie`  `Strategy`  `Casual`  `Singleplayer`
 
-🟢 **Overwhelmingly Positive** (95% of 35,783 reviews &nbsp;·&nbsp; 👍 34,126 / 👎 1,657)
+🟢 **Overwhelmingly Positive** (95% of 45,027 reviews &nbsp;·&nbsp; 👍 42,862 / 👎 2,165)
 
 🟡 **Metacritic:** [68](https://www.metacritic.com/game/pc/game-dev-tycoon?ftag=MCD-06-10aaa1f)
 
@@ -3618,7 +3672,7 @@
 
 `Simulation`  `Indie`  `Strategy`  `Management`  `Casual`  `Game Development`
 
-🟡 **Mostly Positive** (77% of 394 reviews &nbsp;·&nbsp; 👍 304 / 👎 90)
+🟡 **Mostly Positive** (77% of 399 reviews &nbsp;·&nbsp; 👍 306 / 👎 93)
 
 ---
 
@@ -3632,7 +3686,7 @@
 
 `Sandbox`  `Moddable`  `Multiplayer`  `Physics`  `Building`  `Casual`
 
-🟢 **Overwhelmingly Positive** (97% of 1,159,707 reviews &nbsp;·&nbsp; 👍 1,122,546 / 👎 37,161)
+🟢 **Overwhelmingly Positive** (97% of 1,255,719 reviews &nbsp;·&nbsp; 👍 1,216,430 / 👎 39,289)
 
 ---
 
@@ -3646,7 +3700,7 @@
 
 `Difficult`  `Music`  `Level Editor`  `Great Soundtrack`  `Precision Platformer`  `2D`
 
-🟢 **Very Positive** (93% of 429,921 reviews &nbsp;·&nbsp; 👍 401,026 / 👎 28,895)
+🟢 **Very Positive** (93% of 629,164 reviews &nbsp;·&nbsp; 👍 585,390 / 👎 43,774)
 
 ---
 
@@ -3660,7 +3714,7 @@
 
 `Psychological Horror`  `Difficult`  `Singleplayer`  `Physics`  `Philosophical`  `Horror`
 
-🟢 **Very Positive** (82% of 77,003 reviews &nbsp;·&nbsp; 👍 63,479 / 👎 13,524)
+🟢 **Very Positive** (82% of 82,219 reviews &nbsp;·&nbsp; 👍 67,640 / 👎 14,579)
 
 ---
 
@@ -3674,7 +3728,7 @@
 
 `Multiplayer`  `Online Co-Op`  `Supernatural`  `Investigation`  `Horror`  `Atmospheric`
 
-🟡 **Mostly Positive** (76% of 5,424 reviews &nbsp;·&nbsp; 👍 4,104 / 👎 1,320)
+🟡 **Mostly Positive** (76% of 5,437 reviews &nbsp;·&nbsp; 👍 4,111 / 👎 1,326)
 
 ---
 
@@ -3688,7 +3742,7 @@
 
 `Action`  `Cyberpunk`  `Fast-Paced`  `First-Person`  `Difficult`  `Swordplay`
 
-🟢 **Very Positive** (91% of 63,149 reviews &nbsp;·&nbsp; 👍 57,713 / 👎 5,436)
+🟢 **Very Positive** (91% of 66,515 reviews &nbsp;·&nbsp; 👍 60,676 / 👎 5,839)
 
 🟢 **Metacritic:** [81](https://www.metacritic.com/game/pc/ghostrunner?ftag=MCD-06-10aaa1f)
 
@@ -3704,7 +3758,7 @@
 
 `Simulation`  `Funny`  `Comedy`  `Open World`  `Sandbox`  `Physics`
 
-🟢 **Very Positive** (91% of 68,580 reviews &nbsp;·&nbsp; 👍 62,249 / 👎 6,331)
+🟢 **Very Positive** (91% of 70,172 reviews &nbsp;·&nbsp; 👍 63,806 / 👎 6,366)
 
 🟡 **Metacritic:** [62](https://www.metacritic.com/game/pc/goat-simulator?ftag=MCD-06-10aaa1f)
 
@@ -3718,6 +3772,8 @@
 
 *A mature puzzle game with 4K hentai goddesses, beautiful piano soundtrack and two difficulty modes.*
 
+🟢 **Very Positive** (89% of 410 reviews &nbsp;·&nbsp; 👍 364 / 👎 46)
+
 ---
 
 ### <a href="https://store.steampowered.com/app/571740"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/571740/41ff488cdb0d50aa85e9804baa75987cc57f3584.ico" width="32" height="32"></a> [Golf It!](https://store.steampowered.com/app/571740)
@@ -3730,7 +3786,7 @@
 
 `Multiplayer`  `Mini Golf`  `Golf`  `Casual`  `Sports`  `Funny`
 
-🟢 **Very Positive** (91% of 29,009 reviews &nbsp;·&nbsp; 👍 26,261 / 👎 2,748)
+🟢 **Very Positive** (90% of 30,993 reviews &nbsp;·&nbsp; 👍 28,020 / 👎 2,973)
 
 ---
 
@@ -3744,7 +3800,7 @@
 
 `Multiplayer`  `Casual`  `Mini Golf`  `Sports`  `Golf`  `Indie`
 
-🟢 **Very Positive** (88% of 67,080 reviews &nbsp;·&nbsp; 👍 59,105 / 👎 7,975)
+🟢 **Very Positive** (87% of 74,906 reviews &nbsp;·&nbsp; 👍 65,437 / 👎 9,469)
 
 ---
 
@@ -3758,7 +3814,7 @@
 
 `Open World`  `Action`  `Automobile Sim`  `Classic`  `Third Person`  `Crime`
 
-🟢 **Very Positive** (87% of 14,600 reviews &nbsp;·&nbsp; 👍 12,654 / 👎 1,946)
+🟢 **Very Positive** (87% of 14,872 reviews &nbsp;·&nbsp; 👍 12,866 / 👎 2,006)
 
 🟢 **Metacritic:** [93](https://www.metacritic.com/game/pc/grand-theft-auto-iii?ftag=MCD-06-10aaa1f)
 
@@ -3767,6 +3823,8 @@
 ### <a href="https://store.steampowered.com/app/12230"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/12230/capsule_sm_120.jpg" width="32" height="32"></a> [Grand Theft Auto III](https://store.steampowered.com/app/12230)
 
 <a href="https://store.steampowered.com/app/12230"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12230/header.jpg" width="460"></a>
+
+🟢 **Positive** (94% of 32 reviews &nbsp;·&nbsp; 👍 30 / 👎 2)
 
 🟢 **Metacritic:** [93](https://www.metacritic.com/game/pc/grand-theft-auto-iii?ftag=MCD-06-10aaa1f)
 
@@ -3782,7 +3840,7 @@
 
 `Open World`  `Action`  `Crime`  `Classic`  `Third Person`  `Automobile Sim`
 
-🟢 **Very Positive** (92% of 82,629 reviews &nbsp;·&nbsp; 👍 76,056 / 👎 6,573)
+🟢 **Very Positive** (92% of 83,243 reviews &nbsp;·&nbsp; 👍 76,629 / 👎 6,614)
 
 🟢 **Metacritic:** [93](https://www.metacritic.com/game/pc/grand-theft-auto-san-andreas?ftag=MCD-06-10aaa1f)
 
@@ -3793,6 +3851,8 @@
 <a href="https://store.steampowered.com/app/12250"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12250/header.jpg" width="460"></a>
 
 *Hace cinco años Carl Johnson huyó de los rigores de vivir en LS, San Andreas... una ciudad asolada por las bandas, las drogas y la corrupción, en la que las estrellas de cine y los millonarios hacen lo posible por evitar a los traficantes y a los pandilleros. Corren los 90 y Carl debe regresar.*
+
+🟢 **Very Positive** (97% of 200 reviews &nbsp;·&nbsp; 👍 194 / 👎 6)
 
 🟢 **Metacritic:** [93](https://www.metacritic.com/game/pc/grand-theft-auto-san-andreas?ftag=MCD-06-10aaa1f)
 
@@ -3808,7 +3868,7 @@
 
 `Open World`  `Action`  `Automobile Sim`  `1980s`  `Classic`  `Great Soundtrack`
 
-🟢 **Very Positive** (93% of 29,276 reviews &nbsp;·&nbsp; 👍 27,142 / 👎 2,134)
+🟢 **Very Positive** (93% of 29,685 reviews &nbsp;·&nbsp; 👍 27,526 / 👎 2,159)
 
 🟢 **Metacritic:** [94](https://www.metacritic.com/game/pc/grand-theft-auto-vice-city?ftag=MCD-06-10aaa1f)
 
@@ -3819,8 +3879,6 @@
 <a href="https://store.steampowered.com/app/12240"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/12240/header.jpg" width="460"></a>
 
 `Open World`  `Action`  `1980s`  `Classic`  `Great Soundtrack`  `Third Person`
-
-🟢 **Very Positive** (93% of 11,752 reviews &nbsp;·&nbsp; 👍 10,875 / 👎 877)
 
 ---
 
@@ -3834,7 +3892,7 @@
 
 `Pixel Graphics`  `Crafting`  `RPG`  `Simulation`  `Sandbox`  `Management`
 
-🟢 **Very Positive** (86% of 43,647 reviews &nbsp;·&nbsp; 👍 37,721 / 👎 5,926)
+🟢 **Very Positive** (85% of 54,665 reviews &nbsp;·&nbsp; 👍 46,680 / 👎 7,985)
 
 🟡 **Metacritic:** [69](https://www.metacritic.com/game/pc/graveyard-keeper?ftag=MCD-06-10aaa1f)
 
@@ -3850,7 +3908,7 @@
 
 `Action`  `Platformer`  `Pixel Graphics`  `Indie`  `2D`  `Singleplayer`
 
-🟢 **Overwhelmingly Positive** (95% of 2,821 reviews &nbsp;·&nbsp; 👍 2,667 / 👎 154)
+🟢 **Very Positive** (91% of 5,909 reviews &nbsp;·&nbsp; 👍 5,404 / 👎 505)
 
 🟢 **Metacritic:** [89](https://www.metacritic.com/game/pc/gravity-circuit?ftag=MCD-06-10aaa1f)
 
@@ -3866,7 +3924,7 @@
 
 `Racing`  `Driving`  `Sports`  `Multiplayer`  `Simulation`  `Arcade`
 
-🟢 **Very Positive** (84% of 28,627 reviews &nbsp;·&nbsp; 👍 23,998 / 👎 4,629)
+🟢 **Very Positive** (84% of 29,833 reviews &nbsp;·&nbsp; 👍 25,110 / 👎 4,723)
 
 🟢 **Metacritic:** [80](https://www.metacritic.com/game/pc/grid-2?ftag=MCD-06-10aaa1f)
 
@@ -3882,7 +3940,7 @@
 
 `Simulation`  `Strategy`  `Life Sim`  `Medieval`  `RPG`  `Trading`
 
-🟡 **Mostly Positive** (71% of 816 reviews &nbsp;·&nbsp; 👍 580 / 👎 236)
+🟡 **Mostly Positive** (71% of 842 reviews &nbsp;·&nbsp; 👍 598 / 👎 244)
 
 🟡 **Metacritic:** [61](https://www.metacritic.com/game/pc/the-guild-2?ftag=MCD-06-10aaa1f)
 
@@ -3898,7 +3956,7 @@
 
 `Fighting`  `2D Fighter`  `Great Soundtrack`  `Anime`  `PvP`  `2.5D`
 
-🟢 **Very Positive** (88% of 59,382 reviews &nbsp;·&nbsp; 👍 52,377 / 👎 7,005)
+🟢 **Very Positive** (88% of 66,507 reviews &nbsp;·&nbsp; 👍 58,492 / 👎 8,015)
 
 🟢 **Metacritic:** [85](https://www.metacritic.com/game/pc/guilty-gear--strive-?ftag=MCD-06-10aaa1f)
 
@@ -3914,7 +3972,7 @@
 
 `Indie`  `Action`  `Adventure`  `Simulation`  `Steampunk`  `Multiplayer`
 
-🟡 **Mostly Positive** (77% of 1,421 reviews &nbsp;·&nbsp; 👍 1,088 / 👎 333)
+🟡 **Mostly Positive** (76% of 1,437 reviews &nbsp;·&nbsp; 👍 1,096 / 👎 341)
 
 ---
 
@@ -3928,7 +3986,7 @@
 
 `Steampunk`  `Team-Based`  `Multiplayer`  `Co-op`  `Action`  `Tactical`
 
-🟢 **Very Positive** (90% of 14,645 reviews &nbsp;·&nbsp; 👍 13,172 / 👎 1,473)
+🟢 **Very Positive** (90% of 14,673 reviews &nbsp;·&nbsp; 👍 13,182 / 👎 1,491)
 
 🟡 **Metacritic:** [64](https://www.metacritic.com/game/pc/guns-of-icarus-online?ftag=MCD-06-10aaa1f)
 
@@ -3946,7 +4004,7 @@
 
 `Action Roguelike`  `Rogue-lite`  `Hack and Slash`  `Indie`  `Mythology`  `Action`
 
-🟢 **Overwhelmingly Positive** (98% of 279,741 reviews &nbsp;·&nbsp; 👍 274,829 / 👎 4,912)
+🟢 **Overwhelmingly Positive** (98% of 307,175 reviews &nbsp;·&nbsp; 👍 301,081 / 👎 6,094)
 
 🟢 **Metacritic:** [93](https://www.metacritic.com/game/pc/hades?ftag=MCD-06-10aaa1f)
 
@@ -3962,7 +4020,7 @@
 
 `FPS`  `Classic`  `1990's`  `Singleplayer`  `Sci-fi`  `Multiplayer`
 
-🟢 **Overwhelmingly Positive** (97% of 148,221 reviews &nbsp;·&nbsp; 👍 143,086 / 👎 5,135)
+🟢 **Overwhelmingly Positive** (96% of 163,225 reviews &nbsp;·&nbsp; 👍 157,512 / 👎 5,713)
 
 🟢 **Metacritic:** [96](https://www.metacritic.com/game/pc/half-life?ftag=MCD-06-10aaa1f)
 
@@ -3978,7 +4036,7 @@
 
 `FPS`  `Action`  `Sci-fi`  `Classic`  `Singleplayer`  `Story Rich`
 
-🟢 **Overwhelmingly Positive** (98% of 245,627 reviews &nbsp;·&nbsp; 👍 239,721 / 👎 5,906)
+🟢 **Overwhelmingly Positive** (98% of 277,322 reviews &nbsp;·&nbsp; 👍 270,666 / 👎 6,656)
 
 🟢 **Metacritic:** [96](https://www.metacritic.com/game/pc/half-life-2?ftag=MCD-06-10aaa1f)
 
@@ -3994,7 +4052,7 @@
 
 `Action`  `FPS`  `Multiplayer`  `Shooter`  `First-Person`  `Sci-fi`
 
-🟢 **Very Positive** (91% of 14,296 reviews &nbsp;·&nbsp; 👍 12,962 / 👎 1,334)
+🟢 **Very Positive** (91% of 15,296 reviews &nbsp;·&nbsp; 👍 13,871 / 👎 1,425)
 
 ---
 
@@ -4008,7 +4066,7 @@
 
 `Action`  `Free to Play`  `Mod`  `Violent`  `Singleplayer`  `Gore`
 
-🟢 **Overwhelmingly Positive** (95% of 1,686 reviews &nbsp;·&nbsp; 👍 1,605 / 👎 81)
+🟢 **Very Positive** (95% of 3,395 reviews &nbsp;·&nbsp; 👍 3,217 / 👎 178)
 
 ---
 
@@ -4019,6 +4077,8 @@
 **Dev:** Orbifold Studios &nbsp;·&nbsp; **Released:** Mar 18, 2025 &nbsp;·&nbsp; **Price:** Free
 
 *Re-live the groundbreaking, critically acclaimed Half-Life 2 like never before, reimagined with RTX Remix. Featuring full ray tracing, remastered assets, and DLSS 4 with Multi Frame Generation, this DLC is free for Half-Life 2 owners.*
+
+🟡 **Mixed** (56% of 8,946 reviews &nbsp;·&nbsp; 👍 5,046 / 👎 3,900)
 
 ---
 
@@ -4032,7 +4092,7 @@
 
 `FPS`  `Adventure`  `Sci-fi`  `Shooter`  `Mod`  `First-Person`
 
-🟢 **Very Positive** (91% of 3,097 reviews &nbsp;·&nbsp; 👍 2,828 / 👎 269)
+🟢 **Very Positive** (93% of 8,695 reviews &nbsp;·&nbsp; 👍 8,127 / 👎 568)
 
 ---
 
@@ -4046,7 +4106,7 @@
 
 `VR`  `FPS`  `Story Rich`  `Horror`  `Female Protagonist`  `Shooter`
 
-🟢 **Overwhelmingly Positive** (98% of 97,229 reviews &nbsp;·&nbsp; 👍 95,555 / 👎 1,674)
+🟢 **Overwhelmingly Positive** (98% of 104,861 reviews &nbsp;·&nbsp; 👍 103,040 / 👎 1,821)
 
 🟢 **Metacritic:** [93](https://www.metacritic.com/game/pc/half-life-alyx?ftag=MCD-06-10aaa1f)
 
@@ -4062,7 +4122,7 @@
 
 `FPS`  `Action`  `Sci-fi`  `Singleplayer`  `Shooter`  `Aliens`
 
-🟢 **Very Positive** (92% of 18,794 reviews &nbsp;·&nbsp; 👍 17,384 / 👎 1,410)
+🟢 **Very Positive** (93% of 21,070 reviews &nbsp;·&nbsp; 👍 19,514 / 👎 1,556)
 
 🟡 **Metacritic:** [71](https://www.metacritic.com/game/pc/half-life-blue-shift?ftag=MCD-06-10aaa1f)
 
@@ -4078,7 +4138,7 @@
 
 `Action`  `FPS`  `Multiplayer`  `Shooter`  `Sci-fi`  `First-Person`
 
-🟡 **Mostly Positive** (75% of 4,899 reviews &nbsp;·&nbsp; 👍 3,657 / 👎 1,242)
+🟡 **Mostly Positive** (76% of 5,553 reviews &nbsp;·&nbsp; 👍 4,194 / 👎 1,359)
 
 ---
 
@@ -4090,6 +4150,8 @@
 
 *Relive Half-Life 1 with bug fixes, enhanced controller support, Steam Achievements, bunny-hopping, Steam Workshop support, and more, in the ultimate restoration.*
 
+🟢 **Very Positive** (90% of 1,019 reviews &nbsp;·&nbsp; 👍 915 / 👎 104)
+
 ---
 
 ### <a href="https://store.steampowered.com/app/1761270"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1761270/d6996f5c15e1aff49a3e03d63a482fbf5f7935ba.ico" width="32" height="32"></a> [Half-Life: MMod](https://store.steampowered.com/app/1761270)
@@ -4099,6 +4161,8 @@
 **Dev:** MMod Team &nbsp;·&nbsp; **Released:** Mar 14, 2023 &nbsp;·&nbsp; **Price:** Free
 
 *Half-Life 1: MMod is a free, fan made modification for Half-Life aiming to refine player's arsenal and further expand player's combat options. Featuring AI tweaks, VFX and SFX overhaul in spirit of original, additional weapon functionality and bug fixes, while keeping most changes optional.*
+
+🟢 **Overwhelmingly Positive** (96% of 5,536 reviews &nbsp;·&nbsp; 👍 5,339 / 👎 197)
 
 ---
 
@@ -4112,7 +4176,7 @@
 
 `FPS`  `Action`  `Classic`  `Sci-fi`  `Singleplayer`  `Shooter`
 
-🟢 **Overwhelmingly Positive** (95% of 25,561 reviews &nbsp;·&nbsp; 👍 24,363 / 👎 1,198)
+🟢 **Overwhelmingly Positive** (95% of 28,760 reviews &nbsp;·&nbsp; 👍 27,420 / 👎 1,340)
 
 ---
 
@@ -4126,7 +4190,7 @@
 
 `FPS`  `Action`  `Classic`  `Sci-fi`  `Singleplayer`  `First-Person`
 
-🟡 **Mixed** (69% of 16,056 reviews &nbsp;·&nbsp; 👍 11,068 / 👎 4,988)
+🟡 **Mixed** (69% of 16,689 reviews &nbsp;·&nbsp; 👍 11,457 / 👎 5,232)
 
 ---
 
@@ -4140,7 +4204,7 @@
 
 `Free to Play`  `FPS`  `Multiplayer`  `Singleplayer`  `Shooter`  `Action`
 
-🟡 **Mostly Positive** (70% of 177,041 reviews &nbsp;·&nbsp; 👍 123,333 / 👎 53,708)
+🟡 **Mixed** (69% of 180,927 reviews &nbsp;·&nbsp; 👍 125,417 / 👎 55,510)
 
 ---
 
@@ -4154,7 +4218,7 @@
 
 `Great Soundtrack`  `FPS`  `Classic`  `Multiplayer`  `Story Rich`  `Sci-fi`
 
-🟢 **Very Positive** (92% of 242,067 reviews &nbsp;·&nbsp; 👍 223,635 / 👎 18,432)
+🟢 **Very Positive** (92% of 261,181 reviews &nbsp;·&nbsp; 👍 240,296 / 👎 20,885)
 
 ---
 
@@ -4168,7 +4232,7 @@
 
 `Local Co-Op`  `Adventure`  `3D Platformer`  `Puzzle-Platformer`  `Puzzle`  `Family Friendly`
 
-🟡 **Mostly Positive** (71% of 340 reviews &nbsp;·&nbsp; 👍 240 / 👎 100)
+🟡 **Mostly Positive** (71% of 356 reviews &nbsp;·&nbsp; 👍 251 / 👎 105)
 
 🟢 **Metacritic:** [77](https://www.metacritic.com/game/pc/hamiltons-great-adventure?ftag=MCD-06-10aaa1f)
 
@@ -4184,7 +4248,7 @@
 
 `Dungeon Crawler`  `Indie`  `RPG`  `Co-op`  `Pixel Graphics`  `Action`
 
-🟢 **Very Positive** (89% of 6,435 reviews &nbsp;·&nbsp; 👍 5,754 / 👎 681)
+🟢 **Very Positive** (89% of 6,507 reviews &nbsp;·&nbsp; 👍 5,807 / 👎 700)
 
 🟡 **Metacritic:** [72](https://www.metacritic.com/game/pc/hammerwatch?ftag=MCD-06-10aaa1f)
 
@@ -4200,7 +4264,7 @@
 
 `Simulation`  `Funny`  `Multiplayer`  `VR`  `Difficult`  `Psychological Horror`
 
-🟢 **Very Positive** (84% of 36,526 reviews &nbsp;·&nbsp; 👍 30,653 / 👎 5,873)
+🟢 **Very Positive** (84% of 36,224 reviews &nbsp;·&nbsp; 👍 30,349 / 👎 5,875)
 
 ---
 
@@ -4214,7 +4278,7 @@
 
 `Space`  `Sci-fi`  `Simulation`  `Physics`  `Singleplayer`  `Destruction`
 
-🟢 **Very Positive** (89% of 20,422 reviews &nbsp;·&nbsp; 👍 18,276 / 👎 2,146)
+🟢 **Very Positive** (89% of 22,250 reviews &nbsp;·&nbsp; 👍 19,871 / 👎 2,379)
 
 🟢 **Metacritic:** [83](https://www.metacritic.com/game/pc/hardspace-shipbreaker?ftag=MCD-06-10aaa1f)
 
@@ -4230,7 +4294,7 @@
 
 `Sexual Content`  `Nudity`  `Mature`  `Female Protagonist`  `NSFW`  `Puzzle`
 
-🟢 **Very Positive** (85% of 6,493 reviews &nbsp;·&nbsp; 👍 5,506 / 👎 987)
+🟢 **Very Positive** (84% of 6,664 reviews &nbsp;·&nbsp; 👍 5,623 / 👎 1,041)
 
 ---
 
@@ -4244,7 +4308,7 @@
 
 `Action`  `Casual`  `Indie`  `Local Multiplayer`  `4 Player Local`  `Character Customization`
 
-🟡 **Mixed** (52% of 1,581 reviews &nbsp;·&nbsp; 👍 815 / 👎 766)
+🟡 **Mixed** (51% of 1,580 reviews &nbsp;·&nbsp; 👍 813 / 👎 767)
 
 ---
 
@@ -4258,7 +4322,7 @@
 
 `Strategy`  `World War II`  `Grand Strategy`  `War`  `Historical`  `Military`
 
-🟢 **Very Positive** (89% of 342,150 reviews &nbsp;·&nbsp; 👍 305,168 / 👎 36,982)
+🟢 **Very Positive** (90% of 373,661 reviews &nbsp;·&nbsp; 👍 336,450 / 👎 37,211)
 
 🟢 **Metacritic:** [83](https://www.metacritic.com/game/pc/hearts-of-iron-iv?ftag=MCD-06-10aaa1f)
 
@@ -4274,7 +4338,7 @@
 
 `Shooter`  `Realistic`  `World War II`  `Multiplayer`  `FPS`  `Singleplayer`
 
-🟢 **Very Positive** (82% of 137,677 reviews &nbsp;·&nbsp; 👍 113,447 / 👎 24,230)
+🟢 **Very Positive** (82% of 148,985 reviews &nbsp;·&nbsp; 👍 121,817 / 👎 27,168)
 
 🟢 **Metacritic:** [79](https://www.metacritic.com/game/pc/hell-let-loose?ftag=MCD-06-10aaa1f)
 
@@ -4290,7 +4354,7 @@
 
 `Online Co-Op`  `PvE`  `Third-Person Shooter`  `Multiplayer`  `Action`  `Shooter`
 
-🟡 **Mostly Positive** (76% of 1,017,635 reviews &nbsp;·&nbsp; 👍 775,883 / 👎 241,752)
+🟡 **Mostly Positive** (75% of 1,152,758 reviews &nbsp;·&nbsp; 👍 866,754 / 👎 286,004)
 
 ---
 
@@ -4304,7 +4368,7 @@
 
 `Free to Play`  `Cute`  `Demons`  `Puzzle`  `Indie`  `Anime`
 
-🟢 **Overwhelmingly Positive** (98% of 124,918 reviews &nbsp;·&nbsp; 👍 122,115 / 👎 2,803)
+🟢 **Overwhelmingly Positive** (98% of 127,898 reviews &nbsp;·&nbsp; 👍 124,935 / 👎 2,963)
 
 ---
 
@@ -4318,7 +4382,7 @@
 
 `Funny`  `Multiple Endings`  `Choose Your Own Adventure`  `Memes`  `Comedy`  `Singleplayer`
 
-🟢 **Overwhelmingly Positive** (99% of 50,698 reviews &nbsp;·&nbsp; 👍 50,017 / 👎 681)
+🟢 **Overwhelmingly Positive** (99% of 58,983 reviews &nbsp;·&nbsp; 👍 58,213 / 👎 770)
 
 ---
 
@@ -4332,7 +4396,7 @@
 
 `Hentai`  `Nudity`  `Sexual Content`  `Adventure`  `Action`  `Casual`
 
-🟢 **Very Positive** (89% of 4,986 reviews &nbsp;·&nbsp; 👍 4,424 / 👎 562)
+🟢 **Very Positive** (88% of 5,604 reviews &nbsp;·&nbsp; 👍 4,955 / 👎 649)
 
 ---
 
@@ -4346,7 +4410,7 @@
 
 `Strategy`  `Turn-Based Strategy`  `Fantasy`  `RPG`  `Turn-Based`  `Tactical`
 
-🟢 **Very Positive** (88% of 3,815 reviews &nbsp;·&nbsp; 👍 3,354 / 👎 461)
+🟢 **Very Positive** (88% of 4,273 reviews &nbsp;·&nbsp; 👍 3,777 / 👎 496)
 
 🟢 **Metacritic:** [77](https://www.metacritic.com/game/pc/heroes-of-might-and-magic-v?ftag=MCD-06-10aaa1f)
 
@@ -4362,7 +4426,7 @@
 
 `Strategy`  `Dwarf`  `Turn-Based Strategy`  `Turn-Based`  `Fantasy`  `RPG`
 
-🟢 **Very Positive** (86% of 345 reviews &nbsp;·&nbsp; 👍 296 / 👎 49)
+🟢 **Very Positive** (87% of 411 reviews &nbsp;·&nbsp; 👍 359 / 👎 52)
 
 🟡 **Metacritic:** [66](https://www.metacritic.com/game/pc/heroes-of-might-and-magic-v-hammers-of-fate?ftag=MCD-06-10aaa1f)
 
@@ -4378,7 +4442,7 @@
 
 `Strategy`  `Turn-Based Strategy`  `Fantasy`  `Multiplayer`  `Turn-Based`  `Singleplayer`
 
-🟢 **Very Positive** (92% of 2,915 reviews &nbsp;·&nbsp; 👍 2,696 / 👎 219)
+🟢 **Very Positive** (92% of 3,253 reviews &nbsp;·&nbsp; 👍 3,009 / 👎 244)
 
 🟡 **Metacritic:** [70](https://www.metacritic.com/game/pc/heroes-of-might-and-magic-v-tribes-of-the-east?ftag=MCD-06-10aaa1f)
 
@@ -4394,7 +4458,7 @@
 
 `Stealth`  `Assassin`  `Action`  `Singleplayer`  `Third Person`  `Multiplayer`
 
-🟢 **Very Positive** (91% of 74,943 reviews &nbsp;·&nbsp; 👍 68,165 / 👎 6,778)
+🟢 **Very Positive** (91% of 74,807 reviews &nbsp;·&nbsp; 👍 67,905 / 👎 6,902)
 
 🟢 **Metacritic:** [82](https://www.metacritic.com/game/pc/hitman-2?ftag=MCD-06-10aaa1f)
 
@@ -4410,7 +4474,7 @@
 
 `Stealth`  `Assassin`  `Action`  `Singleplayer`  `VR`  `Sandbox`
 
-🟢 **Very Positive** (86% of 45,782 reviews &nbsp;·&nbsp; 👍 39,449 / 👎 6,333)
+🟢 **Very Positive** (87% of 67,561 reviews &nbsp;·&nbsp; 👍 58,922 / 👎 8,639)
 
 🟢 **Metacritic:** [87](https://www.metacritic.com/game/pc/hitman-3?ftag=MCD-06-10aaa1f)
 
@@ -4426,7 +4490,7 @@
 
 `Metroidvania`  `Souls-like`  `Platformer`  `Great Soundtrack`  `2D`  `Difficult`
 
-🟢 **Overwhelmingly Positive** (97% of 415,946 reviews &nbsp;·&nbsp; 👍 403,641 / 👎 12,305)
+🟢 **Overwhelmingly Positive** (97% of 555,255 reviews &nbsp;·&nbsp; 👍 538,108 / 👎 17,147)
 
 🟢 **Metacritic:** [87](https://www.metacritic.com/game/pc/hollow-knight?ftag=MCD-06-10aaa1f)
 
@@ -4442,7 +4506,7 @@
 
 `Action`  `FPS`  `Shooter`  `Multiplayer`  `Singleplayer`  `First-Person`
 
-🟡 **Mixed** (61% of 12,767 reviews &nbsp;·&nbsp; 👍 7,787 / 👎 4,980)
+🟡 **Mixed** (62% of 13,369 reviews &nbsp;·&nbsp; 👍 8,238 / 👎 5,131)
 
 🟡 **Metacritic:** [70](https://www.metacritic.com/game/pc/homefront?ftag=MCD-06-10aaa1f)
 
@@ -4458,7 +4522,7 @@
 
 `Action`  `FPS`  `Open World`  `Shooter`  `Multiplayer`  `Co-op`
 
-🟡 **Mixed** (61% of 16,453 reviews &nbsp;·&nbsp; 👍 9,956 / 👎 6,497)
+🟡 **Mixed** (61% of 17,077 reviews &nbsp;·&nbsp; 👍 10,407 / 👎 6,670)
 
 🟡 **Metacritic:** [54](https://www.metacritic.com/game/pc/homefront-the-revolution?ftag=MCD-06-10aaa1f)
 
@@ -4474,7 +4538,7 @@
 
 `Strategy`  `RTS`  `Sci-fi`  `Multiplayer`  `Story Rich`  `Great Soundtrack`
 
-🟢 **Very Positive** (80% of 8,519 reviews &nbsp;·&nbsp; 👍 6,789 / 👎 1,730)
+🟡 **Mostly Positive** (79% of 8,898 reviews &nbsp;·&nbsp; 👍 7,058 / 👎 1,840)
 
 🟢 **Metacritic:** [79](https://www.metacritic.com/game/pc/homeworld-deserts-of-kharak?ftag=MCD-06-10aaa1f)
 
@@ -4490,7 +4554,7 @@
 
 `Space`  `Strategy`  `RTS`  `Sci-fi`  `Classic`  `Great Soundtrack`
 
-🟢 **Very Positive** (88% of 13,589 reviews &nbsp;·&nbsp; 👍 12,005 / 👎 1,584)
+🟢 **Very Positive** (88% of 14,128 reviews &nbsp;·&nbsp; 👍 12,428 / 👎 1,700)
 
 🟢 **Metacritic:** [86](https://www.metacritic.com/game/pc/homeworld-remastered-collection?ftag=MCD-06-10aaa1f)
 
@@ -4506,7 +4570,7 @@
 
 `Open World`  `Adventure`  `Female Protagonist`  `Singleplayer`  `Story Rich`  `RPG`
 
-🟢 **Very Positive** (88% of 125,197 reviews &nbsp;·&nbsp; 👍 110,049 / 👎 15,148)
+🟢 **Very Positive** (88% of 128,116 reviews &nbsp;·&nbsp; 👍 112,702 / 👎 15,414)
 
 ---
 
@@ -4520,7 +4584,7 @@
 
 `Great Soundtrack`  `Gore`  `Pixel Graphics`  `Violent`  `Action`  `Fast-Paced`
 
-🟢 **Very Positive** (94% of 66,634 reviews &nbsp;·&nbsp; 👍 62,741 / 👎 3,893)
+🟢 **Very Positive** (94% of 79,573 reviews &nbsp;·&nbsp; 👍 74,890 / 👎 4,683)
 
 ---
 
@@ -4534,7 +4598,7 @@
 
 `Simulation`  `Design & Illustration`  `Building`  `Singleplayer`  `Relaxing`  `Sandbox`
 
-🟢 **Very Positive** (94% of 95,144 reviews &nbsp;·&nbsp; 👍 89,596 / 👎 5,548)
+🟢 **Very Positive** (94% of 111,049 reviews &nbsp;·&nbsp; 👍 104,374 / 👎 6,675)
 
 🟡 **Metacritic:** [67](https://www.metacritic.com/game/pc/house-flipper?ftag=MCD-06-10aaa1f)
 
@@ -4550,7 +4614,7 @@
 
 `Co-op`  `Funny`  `Puzzle`  `Adventure`  `Physics`  `Multiplayer`
 
-🟢 **Overwhelmingly Positive** (95% of 213,640 reviews &nbsp;·&nbsp; 👍 202,253 / 👎 11,387)
+🟢 **Very Positive** (95% of 225,926 reviews &nbsp;·&nbsp; 👍 213,797 / 👎 12,129)
 
 🟡 **Metacritic:** [70](https://www.metacritic.com/game/pc/human-fall-flat?ftag=MCD-06-10aaa1f)
 
@@ -4566,7 +4630,7 @@
 
 `Strategy`  `Turn-Based Strategy`  `4X`  `Multiplayer`  `City Builder`  `Historical`
 
-🟡 **Mixed** (68% of 27,245 reviews &nbsp;·&nbsp; 👍 18,573 / 👎 8,672)
+🟡 **Mixed** (69% of 28,577 reviews &nbsp;·&nbsp; 👍 19,733 / 👎 8,844)
 
 ---
 
@@ -4582,7 +4646,7 @@
 
 `RTS`  `Cold War`  `Military`  `Destruction`  `Strategy`  `Real Time Tactics`
 
-🟢 **Very Positive** (92% of 1,831 reviews &nbsp;·&nbsp; 👍 1,684 / 👎 147)
+🟢 **Very Positive** (91% of 1,923 reviews &nbsp;·&nbsp; 👍 1,759 / 👎 164)
 
 ---
 
@@ -4596,7 +4660,7 @@
 
 `Strategy`  `RTS`  `Cold War`  `War`  `PvP`  `Co-op`
 
-🟢 **Very Positive** (88% of 878 reviews &nbsp;·&nbsp; 👍 771 / 👎 107)
+🟢 **Very Positive** (86% of 1,408 reviews &nbsp;·&nbsp; 👍 1,214 / 👎 194)
 
 ---
 
@@ -4610,7 +4674,7 @@
 
 `RPG`  `Dungeons & Dragons`  `Fantasy`  `CRPG`  `Party-Based RPG`  `Adventure`
 
-🟢 **Very Positive** (90% of 3,315 reviews &nbsp;·&nbsp; 👍 2,977 / 👎 338)
+🟢 **Very Positive** (90% of 3,654 reviews &nbsp;·&nbsp; 👍 3,288 / 👎 366)
 
 🟢 **Metacritic:** [80](https://www.metacritic.com/game/pc/icewind-dale-enhanced-edition?ftag=MCD-06-10aaa1f)
 
@@ -4626,7 +4690,7 @@
 
 `Indie`  `Horror`  `Psychological Horror`  `Nudity`  `Singleplayer`  `Atmospheric`
 
-🟢 **Overwhelmingly Positive** (96% of 1,992 reviews &nbsp;·&nbsp; 👍 1,910 / 👎 82)
+🟢 **Overwhelmingly Positive** (95% of 2,244 reviews &nbsp;·&nbsp; 👍 2,138 / 👎 106)
 
 ---
 
@@ -4640,7 +4704,7 @@
 
 `Indie`  `Strategy`  `Nudity`  `Gore`  `Horror`  `Psychological Horror`
 
-🟢 **Very Positive** (92% of 463 reviews &nbsp;·&nbsp; 👍 424 / 👎 39)
+🟢 **Very Positive** (92% of 549 reviews &nbsp;·&nbsp; 👍 505 / 👎 44)
 
 ---
 
@@ -4654,7 +4718,7 @@
 
 `VR`  `Psychological Horror`  `Survival Horror`  `Psychological`  `Horror`  `Adventure`
 
-🟡 **Mostly Positive** (78% of 309 reviews &nbsp;·&nbsp; 👍 242 / 👎 67)
+🟡 **Mostly Positive** (77% of 367 reviews &nbsp;·&nbsp; 👍 282 / 👎 85)
 
 ---
 
@@ -4668,7 +4732,7 @@
 
 `Racing`  `Immersive Sim`  `Open World`  `Combat Racing`  `Life Sim`  `Driving`
 
-🟡 **Mostly Positive** (78% of 3,493 reviews &nbsp;·&nbsp; 👍 2,738 / 👎 755)
+🟡 **Mixed** (62% of 5,794 reviews &nbsp;·&nbsp; 👍 3,608 / 👎 2,186)
 
 ---
 
@@ -4682,7 +4746,7 @@
 
 `Indie`  `Pixel Graphics`  `Adventure`  `Story Rich`  `Exploration`  `Thriller`
 
-🟢 **Very Positive** (91% of 6,680 reviews &nbsp;·&nbsp; 👍 6,083 / 👎 597)
+🟢 **Very Positive** (91% of 7,341 reviews &nbsp;·&nbsp; 👍 6,669 / 👎 672)
 
 ---
 
@@ -4696,7 +4760,7 @@
 
 `Horror`  `Multiplayer`  `Survival Horror`  `Puzzle`  `Psychological Horror`  `Co-op`
 
-🟢 **Very Positive** (82% of 45,032 reviews &nbsp;·&nbsp; 👍 36,836 / 👎 8,196)
+🟡 **Mostly Positive** (80% of 46,679 reviews &nbsp;·&nbsp; 👍 37,292 / 👎 9,387)
 
 ---
 
@@ -4710,7 +4774,7 @@
 
 `FPS`  `Realistic`  `Tactical`  `Multiplayer`  `Shooter`  `Action`
 
-🟢 **Very Positive** (92% of 124,871 reviews &nbsp;·&nbsp; 👍 114,570 / 👎 10,301)
+🟢 **Very Positive** (92% of 124,684 reviews &nbsp;·&nbsp; 👍 114,326 / 👎 10,358)
 
 🟡 **Metacritic:** [74](https://www.metacritic.com/game/pc/insurgency?ftag=MCD-06-10aaa1f)
 
@@ -4726,7 +4790,7 @@
 
 `FPS`  `Realistic`  `Shooter`  `Military`  `Tactical`  `Multiplayer`
 
-🟢 **Very Positive** (85% of 126,918 reviews &nbsp;·&nbsp; 👍 107,857 / 👎 19,061)
+🟢 **Very Positive** (85% of 132,885 reviews &nbsp;·&nbsp; 👍 112,721 / 👎 20,164)
 
 🟢 **Metacritic:** [78](https://www.metacritic.com/game/pc/insurgency-sandstorm?ftag=MCD-06-10aaa1f)
 
@@ -4742,7 +4806,7 @@
 
 `Co-op`  `Multiplayer`  `Split Screen`  `Local Co-Op`  `Puzzle`  `Online Co-Op`
 
-🟢 **Overwhelmingly Positive** (95% of 218,383 reviews &nbsp;·&nbsp; 👍 208,042 / 👎 10,341)
+🟢 **Overwhelmingly Positive** (95% of 266,595 reviews &nbsp;·&nbsp; 👍 254,400 / 👎 12,195)
 
 🟢 **Metacritic:** [89](https://www.metacritic.com/game/pc/it-takes-two?ftag=MCD-06-10aaa1f)
 
@@ -4760,7 +4824,7 @@
 
 `Open World`  `Action`  `Destruction`  `Third-Person Shooter`  `Multiplayer`  `Singleplayer`
 
-🟢 **Very Positive** (84% of 122,161 reviews &nbsp;·&nbsp; 👍 102,532 / 👎 19,629)
+🟢 **Very Positive** (84% of 127,550 reviews &nbsp;·&nbsp; 👍 107,623 / 👎 19,927)
 
 🟡 **Metacritic:** [74](https://www.metacritic.com/game/pc/just-cause-3?ftag=MCD-06-10aaa1f)
 
@@ -4776,7 +4840,7 @@
 
 `Open World`  `Action`  `Destruction`  `Singleplayer`  `Adventure`  `Sandbox`
 
-🟡 **Mixed** (62% of 30,298 reviews &nbsp;·&nbsp; 👍 18,698 / 👎 11,600)
+🟡 **Mixed** (62% of 32,148 reviews &nbsp;·&nbsp; 👍 19,936 / 👎 12,212)
 
 🟡 **Metacritic:** [68](https://www.metacritic.com/game/pc/just-cause-4?ftag=MCD-06-10aaa1f)
 
@@ -4790,6 +4854,8 @@
 
 *Faced with difficult tasks, try to challenge the limits.Sometimes need luck to win.*
 
+🔴 **Mostly Negative** (25% of 507 reviews &nbsp;·&nbsp; 👍 127 / 👎 380)
+
 ---
 
 ### <a href="https://store.steampowered.com/app/295110"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/295110/5dcd28129bc8a1bd63592836145c6c8c8f5fad94.ico" width="32" height="32"></a> [Just Survive](https://store.steampowered.com/app/295110)
@@ -4802,7 +4868,7 @@
 
 `Zombies`  `Survival`  `Open World`  `Multiplayer`  `Massively Multiplayer`  `Crafting`
 
-🟡 **Mixed** (59% of 77,356 reviews &nbsp;·&nbsp; 👍 45,716 / 👎 31,640)
+🟡 **Mixed** (59% of 76,784 reviews &nbsp;·&nbsp; 👍 45,364 / 👎 31,420)
 
 ---
 
@@ -4818,7 +4884,7 @@
 
 `Relaxing`  `Creature Collector`  `Cozy`  `Casual`  `Cute`  `Collectathon`
 
-🟢 **Very Positive** (87% of 235 reviews &nbsp;·&nbsp; 👍 204 / 👎 31)
+🟢 **Very Positive** (85% of 331 reviews &nbsp;·&nbsp; 👍 281 / 👎 50)
 
 ---
 
@@ -4832,7 +4898,7 @@
 
 `Co-op`  `Local Multiplayer`  `Puzzle`  `Party Game`  `Board Game`  `Local Co-Op`
 
-🟢 **Overwhelmingly Positive** (97% of 15,747 reviews &nbsp;·&nbsp; 👍 15,346 / 👎 401)
+🟢 **Overwhelmingly Positive** (97% of 17,050 reviews &nbsp;·&nbsp; 👍 16,586 / 👎 464)
 
 🟡 **Metacritic:** [71](https://www.metacritic.com/game/pc/keep-talking-and-nobody-explodes?ftag=MCD-06-10aaa1f)
 
@@ -4848,7 +4914,7 @@
 
 `Space`  `Simulation`  `Sandbox`  `Physics`  `Science`  `Space Sim`
 
-🟢 **Overwhelmingly Positive** (95% of 127,162 reviews &nbsp;·&nbsp; 👍 121,084 / 👎 6,078)
+🟢 **Overwhelmingly Positive** (96% of 145,329 reviews &nbsp;·&nbsp; 👍 138,884 / 👎 6,445)
 
 🟢 **Metacritic:** [88](https://www.metacritic.com/game/pc/kerbal-space-program?ftag=MCD-06-10aaa1f)
 
@@ -4864,7 +4930,7 @@
 
 `Space`  `Sandbox`  `Exploration`  `Building`  `Physics`  `Science`
 
-🔴 **Mostly Negative** (30% of 29,384 reviews &nbsp;·&nbsp; 👍 8,683 / 👎 20,701)
+🔴 **Mostly Negative** (26% of 31,882 reviews &nbsp;·&nbsp; 👍 8,204 / 👎 23,678)
 
 ---
 
@@ -4878,7 +4944,7 @@
 
 `Action`  `Hack and Slash`  `Surreal`  `Singleplayer`  `Stylized`  `Character Action Game`
 
-🟡 **Mostly Positive** (75% of 8,401 reviews &nbsp;·&nbsp; 👍 6,296 / 👎 2,105)
+🟡 **Mostly Positive** (74% of 8,721 reviews &nbsp;·&nbsp; 👍 6,492 / 👎 2,229)
 
 ---
 
@@ -4892,7 +4958,7 @@
 
 `FPS`  `Zombies`  `Co-op`  `Survival`  `Horror`  `Multiplayer`
 
-🟢 **Overwhelmingly Positive** (95% of 67,472 reviews &nbsp;·&nbsp; 👍 64,024 / 👎 3,448)
+🟢 **Overwhelmingly Positive** (95% of 68,829 reviews &nbsp;·&nbsp; 👍 65,495 / 👎 3,334)
 
 🟡 **Metacritic:** [72](https://www.metacritic.com/game/pc/killing-floor?ftag=MCD-06-10aaa1f)
 
@@ -4908,7 +4974,7 @@
 
 `Zombies`  `Multiplayer`  `Online Co-Op`  `Gore`  `FPS`  `Post-apocalyptic`
 
-🟢 **Very Positive** (88% of 126,866 reviews &nbsp;·&nbsp; 👍 111,325 / 👎 15,541)
+🟢 **Very Positive** (88% of 129,210 reviews &nbsp;·&nbsp; 👍 114,073 / 👎 15,137)
 
 🟢 **Metacritic:** [75](https://www.metacritic.com/game/pc/killing-floor-2?ftag=MCD-06-10aaa1f)
 
@@ -4924,7 +4990,7 @@
 
 `Action`  `Mod`  `FPS`  `Multiplayer`  `Co-op`
 
-🔴 **Mostly Negative** (35% of 738 reviews &nbsp;·&nbsp; 👍 260 / 👎 478)
+🔴 **Mostly Negative** (38% of 920 reviews &nbsp;·&nbsp; 👍 350 / 👎 570)
 
 ---
 
@@ -4938,7 +5004,7 @@
 
 `Free to Play`  `Strategy`  `Singleplayer`  `Simulation`  `Base-Building`  `Building`
 
-🟢 **Very Positive** (91% of 22,088 reviews &nbsp;·&nbsp; 👍 20,023 / 👎 2,065)
+🟢 **Very Positive** (91% of 22,664 reviews &nbsp;·&nbsp; 👍 20,541 / 👎 2,123)
 
 🟡 **Metacritic:** [74](https://www.metacritic.com/game/pc/kingdom?ftag=MCD-06-10aaa1f)
 
@@ -4954,7 +5020,7 @@
 
 `Medieval`  `RPG`  `Open World`  `Singleplayer`  `Realistic`  `Historical`
 
-🟢 **Very Positive** (84% of 162,206 reviews &nbsp;·&nbsp; 👍 136,446 / 👎 25,760)
+🟢 **Very Positive** (84% of 184,205 reviews &nbsp;·&nbsp; 👍 155,463 / 👎 28,742)
 
 🟢 **Metacritic:** [76](https://www.metacritic.com/game/pc/kingdom-come-deliverance?ftag=MCD-06-10aaa1f)
 
@@ -4970,7 +5036,7 @@
 
 `RPG`  `Medieval`  `Open World`  `Singleplayer`  `Realistic`  `First-Person`
 
-🟢 **Very Positive** (94% of 102,337 reviews &nbsp;·&nbsp; 👍 96,279 / 👎 6,058)
+🟢 **Very Positive** (94% of 191,095 reviews &nbsp;·&nbsp; 👍 179,536 / 👎 11,559)
 
 🟢 **Metacritic:** [89](https://www.metacritic.com/game/pc/kingdom-come-deliverance-ii?ftag=MCD-06-10aaa1f)
 
@@ -4986,7 +5052,7 @@
 
 `Tower Defense`  `Survival`  `Base-Building`  `Minimalist`  `Exploration`  `Rogue-lite`
 
-🟢 **Very Positive** (86% of 11,741 reviews &nbsp;·&nbsp; 👍 10,095 / 👎 1,646)
+🟢 **Very Positive** (85% of 12,323 reviews &nbsp;·&nbsp; 👍 10,535 / 👎 1,788)
 
 ---
 
@@ -5000,7 +5066,7 @@
 
 `City Builder`  `Colony Sim`  `Strategy`  `Medieval`  `Building`  `Simulation`
 
-🟢 **Very Positive** (93% of 29,715 reviews &nbsp;·&nbsp; 👍 27,743 / 👎 1,972)
+🟢 **Very Positive** (94% of 31,329 reviews &nbsp;·&nbsp; 👍 29,309 / 👎 2,020)
 
 ---
 
@@ -5014,7 +5080,7 @@
 
 `Strategy`  `Medieval`  `Grand Strategy`  `RTS`  `Historical`  `War`
 
-🟢 **Very Positive** (93% of 2,317 reviews &nbsp;·&nbsp; 👍 2,146 / 👎 171)
+🟢 **Very Positive** (93% of 2,386 reviews &nbsp;·&nbsp; 👍 2,208 / 👎 178)
 
 🟢 **Metacritic:** [77](https://www.metacritic.com/game/pc/knights-of-honor?ftag=MCD-06-10aaa1f)
 
@@ -5030,7 +5096,7 @@
 
 `Strategy`  `Simulation`  `Medieval`  `Grand Strategy`  `RTS`  `Historical`
 
-🟡 **Mostly Positive** (77% of 5,792 reviews &nbsp;·&nbsp; 👍 4,450 / 👎 1,342)
+🟡 **Mostly Positive** (77% of 6,665 reviews &nbsp;·&nbsp; 👍 5,146 / 👎 1,519)
 
 🟢 **Metacritic:** [76](https://www.metacritic.com/game/pc/knights-of-honor-ii-sovereign?ftag=MCD-06-10aaa1f)
 
@@ -5046,7 +5112,7 @@
 
 `Action`  `Shooter`  `Simulation`  `FPS`  `Indie`  `First-Person`
 
-🟢 **Very Positive** (93% of 35,305 reviews &nbsp;·&nbsp; 👍 32,776 / 👎 2,529)
+🟢 **Very Positive** (93% of 41,200 reviews &nbsp;·&nbsp; 👍 38,305 / 👎 2,895)
 
 ---
 
@@ -5062,7 +5128,7 @@
 
 `Free to Play`  `VR`  `Singleplayer`  `Action`  `First-Person`  `Adventure`
 
-🟢 **Overwhelmingly Positive** (95% of 6,389 reviews &nbsp;·&nbsp; 👍 6,066 / 👎 323)
+🟢 **Very Positive** (95% of 6,659 reviews &nbsp;·&nbsp; 👍 6,316 / 👎 343)
 
 ---
 
@@ -5076,7 +5142,7 @@
 
 `Horror`  `Online Co-Op`  `Co-op`  `Puzzle`  `Psychological Horror`  `Multiplayer`
 
-🟢 **Very Positive** (85% of 16,258 reviews &nbsp;·&nbsp; 👍 13,842 / 👎 2,416)
+🟢 **Very Positive** (84% of 17,425 reviews &nbsp;·&nbsp; 👍 14,697 / 👎 2,728)
 
 ---
 
@@ -5090,7 +5156,7 @@
 
 `Colony Sim`  `City Builder`  `Vikings`  `Strategy`  `Survival`  `Sandbox`
 
-🟡 **Mostly Positive** (75% of 2,039 reviews &nbsp;·&nbsp; 👍 1,535 / 👎 504)
+🟡 **Mostly Positive** (74% of 2,252 reviews &nbsp;·&nbsp; 👍 1,662 / 👎 590)
 
 🟢 **Metacritic:** [76](https://www.metacritic.com/game/pc/land-of-the-vikings?ftag=MCD-06-10aaa1f)
 
@@ -5104,6 +5170,8 @@
 
 *Break into the Landfall Archives to steal and play previously unreleased games, demos, interactive slide shows, and even an unreleased version of Totally Accurate Battle Simulator from 2017!*
 
+🟢 **Very Positive** (95% of 3,637 reviews &nbsp;·&nbsp; 👍 3,438 / 👎 199)
+
 ---
 
 ### <a href="https://store.steampowered.com/app/289690"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/289690/95b93b1112926a9e07cc856aa582acd56a0d544c.ico" width="32" height="32"></a> [Lara Croft and the Temple of Osiris](https://store.steampowered.com/app/289690)
@@ -5116,7 +5184,7 @@
 
 `Adventure`  `Action`  `Co-op`  `Local Co-Op`  `Multiplayer`  `Puzzle`
 
-🟡 **Mixed** (68% of 4,212 reviews &nbsp;·&nbsp; 👍 2,859 / 👎 1,353)
+🟡 **Mixed** (69% of 4,404 reviews &nbsp;·&nbsp; 👍 3,027 / 👎 1,377)
 
 🟡 **Metacritic:** [73](https://www.metacritic.com/game/pc/lara-croft-and-the-temple-of-osiris?ftag=MCD-06-10aaa1f)
 
@@ -5132,7 +5200,7 @@
 
 `Puzzle`  `Adventure`  `Singleplayer`  `Cute`  `Indie`  `Emotional`
 
-🟢 **Overwhelmingly Positive** (98% of 14,698 reviews &nbsp;·&nbsp; 👍 14,350 / 👎 348)
+🟢 **Overwhelmingly Positive** (98% of 20,218 reviews &nbsp;·&nbsp; 👍 19,717 / 👎 501)
 
 🟢 **Metacritic:** [80](https://www.metacritic.com/game/pc/the-last-campfire?ftag=MCD-06-10aaa1f)
 
@@ -5148,7 +5216,7 @@
 
 `Horror`  `Psychological Horror`  `Atmospheric`  `Walking Simulator`  `First-Person`  `Singleplayer`
 
-🟢 **Very Positive** (89% of 26,616 reviews &nbsp;·&nbsp; 👍 23,576 / 👎 3,040)
+🟢 **Very Positive** (88% of 27,614 reviews &nbsp;·&nbsp; 👍 24,414 / 👎 3,200)
 
 🟡 **Metacritic:** [73](https://www.metacritic.com/game/pc/layers-of-fear?ftag=MCD-06-10aaa1f)
 
@@ -5164,7 +5232,7 @@
 
 `Free to Play`  `Casual`  `Physics`  `Simulation`  `Indie`  `Flight`
 
-🟢 **Overwhelmingly Positive** (95% of 10,406 reviews &nbsp;·&nbsp; 👍 9,843 / 👎 563)
+🟢 **Very Positive** (95% of 11,222 reviews &nbsp;·&nbsp; 👍 10,625 / 👎 597)
 
 ---
 
@@ -5178,7 +5246,7 @@
 
 `Zombies`  `Co-op`  `Multiplayer`  `FPS`  `Action`  `Horror`
 
-🟢 **Overwhelmingly Positive** (96% of 61,894 reviews &nbsp;·&nbsp; 👍 59,622 / 👎 2,272)
+🟢 **Overwhelmingly Positive** (96% of 67,749 reviews &nbsp;·&nbsp; 👍 65,301 / 👎 2,448)
 
 🟢 **Metacritic:** [89](https://www.metacritic.com/game/pc/left-4-dead?ftag=MCD-06-10aaa1f)
 
@@ -5194,7 +5262,7 @@
 
 `Zombies`  `Co-op`  `FPS`  `Multiplayer`  `Shooter`  `Online Co-Op`
 
-🟢 **Overwhelmingly Positive** (98% of 963,983 reviews &nbsp;·&nbsp; 👍 940,221 / 👎 23,762)
+🟢 **Overwhelmingly Positive** (98% of 1,050,881 reviews &nbsp;·&nbsp; 👍 1,024,875 / 👎 26,006)
 
 🟢 **Metacritic:** [89](https://www.metacritic.com/game/pc/left-4-dead-2?ftag=MCD-06-10aaa1f)
 
@@ -5210,7 +5278,7 @@
 
 `Pixel Graphics`  `Turn-Based Combat`  `Villain Protagonist`  `Rogue-like`  `Dungeon Crawler`  `Strategy`
 
-🟡 **Mostly Positive** (79% of 4,543 reviews &nbsp;·&nbsp; 👍 3,583 / 👎 960)
+🟡 **Mostly Positive** (79% of 5,456 reviews &nbsp;·&nbsp; 👍 4,284 / 👎 1,172)
 
 🟢 **Metacritic:** [76](https://www.metacritic.com/game/pc/legend-of-keepers-career-of-a-dungeon-manager?ftag=MCD-06-10aaa1f)
 
@@ -5226,7 +5294,7 @@
 
 `LEGO`  `Open World`  `Action`  `Co-op`  `Adventure`  `Multiplayer`
 
-🟢 **Very Positive** (91% of 9,672 reviews &nbsp;·&nbsp; 👍 8,783 / 👎 889)
+🟢 **Very Positive** (91% of 11,362 reviews &nbsp;·&nbsp; 👍 10,368 / 👎 994)
 
 🟢 **Metacritic:** [80](https://www.metacritic.com/game/pc/lego-city-undercover?ftag=MCD-06-10aaa1f)
 
@@ -5242,7 +5310,7 @@
 
 `Casual`  `LEGO`  `Action`  `Adventure`  `Family Friendly`  `3D Platformer`
 
-🟢 **Very Positive** (82% of 671 reviews &nbsp;·&nbsp; 👍 548 / 👎 123)
+🟢 **Very Positive** (83% of 1,573 reviews &nbsp;·&nbsp; 👍 1,303 / 👎 270)
 
 ---
 
@@ -5256,7 +5324,7 @@
 
 `LEGO`  `Adventure`  `Local Co-Op`  `Action`  `Magic`  `Family Friendly`
 
-🟢 **Very Positive** (87% of 9,016 reviews &nbsp;·&nbsp; 👍 7,862 / 👎 1,154)
+🟢 **Very Positive** (87% of 9,486 reviews &nbsp;·&nbsp; 👍 8,258 / 👎 1,228)
 
 🟢 **Metacritic:** [79](https://www.metacritic.com/game/pc/lego-harry-potter-years-1-4?ftag=MCD-06-10aaa1f)
 
@@ -5272,7 +5340,7 @@
 
 `LEGO`  `Adventure`  `Magic`  `Local Co-Op`  `Family Friendly`  `Co-op`
 
-🟢 **Very Positive** (89% of 3,136 reviews &nbsp;·&nbsp; 👍 2,800 / 👎 336)
+🟢 **Very Positive** (89% of 3,335 reviews &nbsp;·&nbsp; 👍 2,973 / 👎 362)
 
 🟢 **Metacritic:** [80](https://www.metacritic.com/game/pc/lego-harry-potter-years-5-7?ftag=MCD-06-10aaa1f)
 
@@ -5288,7 +5356,7 @@
 
 `LEGO`  `Action`  `Adventure`  `Local Co-Op`  `Multiplayer`  `Family Friendly`
 
-🟢 **Overwhelmingly Positive** (95% of 8,481 reviews &nbsp;·&nbsp; 👍 8,031 / 👎 450)
+🟢 **Very Positive** (95% of 9,272 reviews &nbsp;·&nbsp; 👍 8,789 / 👎 483)
 
 🟢 **Metacritic:** [76](https://www.metacritic.com/game/pc/lego-star-wars-iii-the-clone-wars?ftag=MCD-06-10aaa1f)
 
@@ -5304,7 +5372,7 @@
 
 `LEGO`  `Local Co-Op`  `Adventure`  `Co-op`  `Family Friendly`  `Multiplayer`
 
-🟢 **Overwhelmingly Positive** (97% of 23,787 reviews &nbsp;·&nbsp; 👍 23,000 / 👎 787)
+🟢 **Overwhelmingly Positive** (97% of 25,407 reviews &nbsp;·&nbsp; 👍 24,571 / 👎 836)
 
 🟢 **Metacritic:** [77](https://www.metacritic.com/game/pc/lego-star-wars?ftag=MCD-06-10aaa1f)
 
@@ -5320,7 +5388,7 @@
 
 `LEGO`  `Adventure`  `Co-op`  `Multiplayer`  `Open World`  `Space`
 
-🟢 **Very Positive** (91% of 45,038 reviews &nbsp;·&nbsp; 👍 40,865 / 👎 4,173)
+🟢 **Very Positive** (90% of 48,281 reviews &nbsp;·&nbsp; 👍 43,496 / 👎 4,785)
 
 🟢 **Metacritic:** [78](https://www.metacritic.com/game/pc/lego-star-wars-the-skywalker-saga?ftag=MCD-06-10aaa1f)
 
@@ -5336,7 +5404,7 @@
 
 `LEGO`  `Adventure`  `Action`  `Local Co-Op`  `Multiplayer`  `Open World`
 
-🟢 **Very Positive** (81% of 9,777 reviews &nbsp;·&nbsp; 👍 7,895 / 👎 1,882)
+🟢 **Very Positive** (81% of 10,599 reviews &nbsp;·&nbsp; 👍 8,546 / 👎 2,053)
 
 ---
 
@@ -5350,7 +5418,7 @@
 
 `LEGO`  `Adventure`  `Local Co-Op`  `Action`  `Fantasy`  `Open World`
 
-🟢 **Very Positive** (90% of 14,212 reviews &nbsp;·&nbsp; 👍 12,822 / 👎 1,390)
+🟢 **Very Positive** (90% of 15,995 reviews &nbsp;·&nbsp; 👍 14,418 / 👎 1,577)
 
 🟢 **Metacritic:** [80](https://www.metacritic.com/game/pc/lego-the-lord-of-the-rings?ftag=MCD-06-10aaa1f)
 
@@ -5364,6 +5432,8 @@
 
 *From the makers of LEGO® Builder's Journey comes a new 2-player co-op adventure about friendship and play. When two friends make it their mission to rescue an abandoned spaceship, they embark on a journey beyond their wildest dreams.*
 
+🟢 **Very Positive** (88% of 3,067 reviews &nbsp;·&nbsp; 👍 2,709 / 👎 358)
+
 ---
 
 ### <a href="https://store.steampowered.com/app/1966720"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1966720/80d2453285274e4723c884a671cdd3f8fe2f766f.ico" width="32" height="32"></a> [Lethal Company](https://store.steampowered.com/app/1966720)
@@ -5376,7 +5446,7 @@
 
 `Online Co-Op`  `Horror`  `First-Person`  `Co-op`  `Survival Horror`  `Exploration`
 
-🟢 **Overwhelmingly Positive** (97% of 487,160 reviews &nbsp;·&nbsp; 👍 473,422 / 👎 13,738)
+🟢 **Overwhelmingly Positive** (97% of 510,071 reviews &nbsp;·&nbsp; 👍 494,637 / 👎 15,434)
 
 ---
 
@@ -5386,7 +5456,7 @@
 
 `Massively Multiplayer`  `Indie`  `Early Access`  `Memes`
 
-🟡 **Mostly Positive** (74% of 196 reviews &nbsp;·&nbsp; 👍 145 / 👎 51)
+🟡 **Mostly Positive** (76% of 141 reviews &nbsp;·&nbsp; 👍 107 / 👎 34)
 
 ---
 
@@ -5400,7 +5470,7 @@
 
 `Souls-like`  `Action`  `Dark Fantasy`  `Action RPG`  `Singleplayer`  `Third Person`
 
-🟢 **Very Positive** (92% of 52,485 reviews &nbsp;·&nbsp; 👍 48,336 / 👎 4,149)
+🟢 **Very Positive** (92% of 80,812 reviews &nbsp;·&nbsp; 👍 74,081 / 👎 6,731)
 
 ---
 
@@ -5414,7 +5484,7 @@
 
 `Choices Matter`  `Story Rich`  `RPG`  `Interactive Fiction`  `Choose Your Own Adventure`  `Visual Novel`
 
-🟢 **Very Positive** (90% of 8,619 reviews &nbsp;·&nbsp; 👍 7,790 / 👎 829)
+🟢 **Very Positive** (88% of 12,096 reviews &nbsp;·&nbsp; 👍 10,651 / 👎 1,445)
 
 🟢 **Metacritic:** [82](https://www.metacritic.com/game/pc/the-life-and-suffering-of-sir-brante?ftag=MCD-06-10aaa1f)
 
@@ -5430,7 +5500,7 @@
 
 `Story Rich`  `Choices Matter`  `Great Soundtrack`  `Female Protagonist`  `Time Travel`  `Atmospheric`
 
-🟢 **Overwhelmingly Positive** (96% of 169,201 reviews &nbsp;·&nbsp; 👍 162,769 / 👎 6,432)
+🟢 **Overwhelmingly Positive** (96% of 175,121 reviews &nbsp;·&nbsp; 👍 168,546 / 👎 6,575)
 
 ---
 
@@ -5444,7 +5514,7 @@
 
 `Horror`  `Atmospheric`  `Adventure`  `Singleplayer`  `Puzzle-Platformer`  `Dark`
 
-🟢 **Overwhelmingly Positive** (95% of 110,196 reviews &nbsp;·&nbsp; 👍 104,472 / 👎 5,724)
+🟢 **Very Positive** (95% of 116,385 reviews &nbsp;·&nbsp; 👍 110,278 / 👎 6,107)
 
 🟢 **Metacritic:** [81](https://www.metacritic.com/game/pc/little-nightmares?ftag=MCD-06-10aaa1f)
 
@@ -5458,6 +5528,8 @@
 
 *(Re)-Discover the dark whimsical tale of Little Nightmares, now enhanced in stunning 4K and 60 FPS. Play as Six, a lone child trapped in The Maw, a massive vessel inhabited by monstrous, distorted versions of adults. Sneak, hide, and survive in a world where your childhood fears come to life.*
 
+🟢 **Very Positive** (93% of 4,341 reviews &nbsp;·&nbsp; 👍 4,042 / 👎 299)
+
 ---
 
 ### <a href="https://store.steampowered.com/app/3353830"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/3353830/bde3742dbc9acda9cb11f85b05a392a1402d4b74.ico" width="32" height="32"></a> [LivingBattle](https://store.steampowered.com/app/3353830)
@@ -5469,6 +5541,8 @@
 *Go to a right place and complete all battle mission*
 
 `Early Access`  `Open World`  `Racing`  `Psychological Horror`  `Dark Humor`  `Difficult`
+
+🔴 **Mostly Negative** (36% of 720 reviews &nbsp;·&nbsp; 👍 259 / 👎 461)
 
 ---
 
@@ -5482,6 +5556,8 @@
 
 `Racing`  `Action`  `Adventure`  `RPG`  `Casual`  `Survival`
 
+🔴 **Mostly Negative** (37% of 473 reviews &nbsp;·&nbsp; 👍 174 / 👎 299)
+
 ---
 
 ### <a href="https://store.steampowered.com/app/305620"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/305620/ba0009039ea7fa407bb98276dc2798af7c757ee8.ico" width="32" height="32"></a> [The Long Dark](https://store.steampowered.com/app/305620)
@@ -5494,7 +5570,7 @@
 
 `Survival`  `Open World Survival Craft`  `Open World`  `Exploration`  `Atmospheric`  `Singleplayer`
 
-🟢 **Very Positive** (90% of 112,575 reviews &nbsp;·&nbsp; 👍 101,846 / 👎 10,729)
+🟢 **Very Positive** (89% of 123,113 reviews &nbsp;·&nbsp; 👍 109,514 / 👎 13,599)
 
 ---
 
@@ -5505,6 +5581,8 @@
 **Dev:** Alexander Tarvet &nbsp;·&nbsp; **Released:** Sep 9, 2022 &nbsp;·&nbsp; **Price:** Free
 
 *The Longest Walk is a deeply personal biographical walking-simulator game about my father's experience of living with depression.*
+
+🟢 **Very Positive** (95% of 407 reviews &nbsp;·&nbsp; 👍 388 / 👎 19)
 
 ---
 
@@ -5518,7 +5596,7 @@
 
 `Tactical`  `Rogue-like`  `Pixel Graphics`  `Deckbuilding`  `Rogue-lite`  `Choices Matter`
 
-🟢 **Very Positive** (93% of 34,659 reviews &nbsp;·&nbsp; 👍 32,214 / 👎 2,445)
+🟢 **Very Positive** (93% of 36,465 reviews &nbsp;·&nbsp; 👍 33,815 / 👎 2,650)
 
 🟢 **Metacritic:** [82](https://www.metacritic.com/game/pc/loop-hero?ftag=MCD-06-10aaa1f)
 
@@ -5534,7 +5612,7 @@
 
 `Free to Play`  `MMORPG`  `Massively Multiplayer`  `Open World`  `Fantasy`  `RPG`
 
-🟢 **Very Positive** (81% of 20,995 reviews &nbsp;·&nbsp; 👍 17,099 / 👎 3,896)
+🟢 **Very Positive** (81% of 23,057 reviews &nbsp;·&nbsp; 👍 18,767 / 👎 4,290)
 
 ---
 
@@ -5548,7 +5626,7 @@
 
 `Rhythm`  `Arcade`  `Female Protagonist`  `Character Customization`  `Comic Book`  `Cute`
 
-🟢 **Very Positive** (94% of 170 reviews &nbsp;·&nbsp; 👍 159 / 👎 11)
+🟢 **Very Positive** (94% of 192 reviews &nbsp;·&nbsp; 👍 180 / 👎 12)
 
 ---
 
@@ -5564,7 +5642,7 @@
 
 `Management`  `Simulation`  `Strategy`  `Economy`  `Casual`  `Building`
 
-🟢 **Very Positive** (91% of 4,397 reviews &nbsp;·&nbsp; 👍 3,991 / 👎 406)
+🟢 **Very Positive** (91% of 4,420 reviews &nbsp;·&nbsp; 👍 4,013 / 👎 407)
 
 ---
 
@@ -5578,7 +5656,7 @@
 
 `Action`  `Story Rich`  `Crime`  `Open World`  `Classic`  `Atmospheric`
 
-🟢 **Very Positive** (87% of 15,257 reviews &nbsp;·&nbsp; 👍 13,346 / 👎 1,911)
+🟢 **Very Positive** (88% of 16,246 reviews &nbsp;·&nbsp; 👍 14,217 / 👎 2,029)
 
 🟢 **Metacritic:** [88](https://www.metacritic.com/game/pc/mafia?ftag=MCD-06-10aaa1f)
 
@@ -5594,7 +5672,7 @@
 
 `Open World`  `Crime`  `Story Rich`  `Action`  `Singleplayer`  `Adventure`
 
-🟢 **Very Positive** (87% of 91,793 reviews &nbsp;·&nbsp; 👍 79,686 / 👎 12,107)
+🟢 **Very Positive** (87% of 109,434 reviews &nbsp;·&nbsp; 👍 95,056 / 👎 14,378)
 
 🟢 **Metacritic:** [78](https://www.metacritic.com/game/pc/mafia-definitive-edition?ftag=MCD-06-10aaa1f)
 
@@ -5610,7 +5688,7 @@
 
 `Action`  `Open World`  `Crime`  `Story Rich`  `Atmospheric`  `Singleplayer`
 
-🟢 **Very Positive** (94% of 54,997 reviews &nbsp;·&nbsp; 👍 51,876 / 👎 3,121)
+🟢 **Very Positive** (94% of 58,436 reviews &nbsp;·&nbsp; 👍 54,818 / 👎 3,618)
 
 🟢 **Metacritic:** [77](https://www.metacritic.com/game/pc/mafia-ii?ftag=MCD-06-10aaa1f)
 
@@ -5626,7 +5704,7 @@
 
 `Action`  `Adventure`  `Crime`  `Open World`  `Story Rich`  `Sexual Content`
 
-🟡 **Mostly Positive** (73% of 30,264 reviews &nbsp;·&nbsp; 👍 21,955 / 👎 8,309)
+🟡 **Mostly Positive** (74% of 38,070 reviews &nbsp;·&nbsp; 👍 28,192 / 👎 9,878)
 
 ---
 
@@ -5640,7 +5718,7 @@
 
 `Crime`  `Open World`  `Action`  `Story Rich`  `Singleplayer`  `Third Person`
 
-🟡 **Mixed** (57% of 56,508 reviews &nbsp;·&nbsp; 👍 32,366 / 👎 24,142)
+🟡 **Mixed** (57% of 63,659 reviews &nbsp;·&nbsp; 👍 36,533 / 👎 27,126)
 
 ---
 
@@ -5651,6 +5729,8 @@
 **Dev:** jrsjams &nbsp;·&nbsp; **Released:** Jul 24, 2025 &nbsp;·&nbsp; **Price:** $2.99
 
 *A co-op PvP experience about using your voice to cast spells in the Mage Arena to settle an ages-old feud between sorcerers and warlocks.*
+
+🟢 **Very Positive** (91% of 20,350 reviews &nbsp;·&nbsp; 👍 18,492 / 👎 1,858)
 
 ---
 
@@ -5664,7 +5744,7 @@
 
 `Strategy`  `Action RPG`  `RPG`  `Party-Based RPG`  `Strategy RPG`  `Turn-Based Strategy`
 
-🟢 **Positive** (100% of 35 reviews &nbsp;·&nbsp; 👍 35 / 👎 0)
+🟢 **Very Positive** (85% of 411 reviews &nbsp;·&nbsp; 👍 348 / 👎 63)
 
 ---
 
@@ -5678,7 +5758,7 @@
 
 `Comedy`  `Co-op`  `Action`  `Fantasy`  `Magic`  `Online Co-Op`
 
-🟢 **Very Positive** (86% of 31,362 reviews &nbsp;·&nbsp; 👍 26,997 / 👎 4,365)
+🟢 **Very Positive** (85% of 32,031 reviews &nbsp;·&nbsp; 👍 27,328 / 👎 4,703)
 
 🟡 **Metacritic:** [74](https://www.metacritic.com/game/pc/magicka?ftag=MCD-06-10aaa1f)
 
@@ -5694,7 +5774,7 @@
 
 `Magic`  `Co-op`  `Adventure`  `Multiplayer`  `Comedy`  `Action`
 
-🟢 **Very Positive** (83% of 13,391 reviews &nbsp;·&nbsp; 👍 11,061 / 👎 2,330)
+🟢 **Very Positive** (82% of 13,826 reviews &nbsp;·&nbsp; 👍 11,404 / 👎 2,422)
 
 ---
 
@@ -5722,7 +5802,7 @@
 
 `Strategy`  `City Builder`  `Simulation`  `Historical`  `Base-Building`  `Medieval`
 
-🟢 **Very Positive** (86% of 72,120 reviews &nbsp;·&nbsp; 👍 62,224 / 👎 9,896)
+🟢 **Very Positive** (84% of 89,664 reviews &nbsp;·&nbsp; 👍 75,482 / 👎 14,182)
 
 ---
 
@@ -5736,7 +5816,7 @@
 
 `Free to Play`  `Multiplayer`  `Hero Shooter`  `Third-Person Shooter`  `Superhero`  `PvP`
 
-🟢 **Very Positive** (80% of 287,569 reviews &nbsp;·&nbsp; 👍 228,817 / 👎 58,752)
+🟡 **Mostly Positive** (76% of 405,517 reviews &nbsp;·&nbsp; 👍 307,766 / 👎 97,751)
 
 ---
 
@@ -5764,7 +5844,7 @@
 
 `Strategy`  `Logic`  `Indie`  `Puzzle`  `Relaxing`  `Casual`
 
-🟢 **Very Positive** (97% of 87 reviews &nbsp;·&nbsp; 👍 84 / 👎 3)
+🟢 **Very Positive** (97% of 91 reviews &nbsp;·&nbsp; 👍 88 / 👎 3)
 
 ---
 
@@ -5778,7 +5858,7 @@
 
 `Strategy`  `Indie`  `Casual`  `Logic`  `Puzzle`  `Relaxing`
 
-🟢 **Very Positive** (89% of 54 reviews &nbsp;·&nbsp; 👍 48 / 👎 6)
+🟢 **Very Positive** (89% of 56 reviews &nbsp;·&nbsp; 👍 50 / 👎 6)
 
 ---
 
@@ -5789,6 +5869,8 @@
 **Dev:** vedinad &nbsp;·&nbsp; **Released:** Sep 18, 2025 &nbsp;·&nbsp; **Price:** $9.99
 
 *Smash your way through endless waves of enemies and grow absurdly powerful! Grab loot, level up, unlock characters and upgrade to create unique and crazy builds as you fend off hordes of creatures!*
+
+🟢 **Very Positive** (94% of 104,650 reviews &nbsp;·&nbsp; 👍 98,815 / 👎 5,835)
 
 ---
 
@@ -5802,7 +5884,7 @@
 
 `Rhythm`  `Indie`  `Cute`  `Hand-drawn`  `Colorful`  `Music`
 
-🟢 **Overwhelmingly Positive** (95% of 7,106 reviews &nbsp;·&nbsp; 👍 6,752 / 👎 354)
+🟢 **Very Positive** (94% of 8,155 reviews &nbsp;·&nbsp; 👍 7,692 / 👎 463)
 
 ---
 
@@ -5816,7 +5898,7 @@
 
 `Great Soundtrack`  `Hack and Slash`  `Action`  `Spectacle fighter`  `Swordplay`  `Character Action Game`
 
-🟢 **Overwhelmingly Positive** (96% of 83,293 reviews &nbsp;·&nbsp; 👍 79,993 / 👎 3,300)
+🟢 **Overwhelmingly Positive** (96% of 88,625 reviews &nbsp;·&nbsp; 👍 85,105 / 👎 3,520)
 
 🟢 **Metacritic:** [83](https://www.metacritic.com/game/pc/metal-gear-rising-revengeance?ftag=MCD-06-10aaa1f)
 
@@ -5832,7 +5914,7 @@
 
 `Stealth`  `Action`  `Tactical`  `Short`  `Singleplayer`  `Third Person`
 
-🟢 **Very Positive** (84% of 16,956 reviews &nbsp;·&nbsp; 👍 14,283 / 👎 2,673)
+🟢 **Very Positive** (85% of 18,099 reviews &nbsp;·&nbsp; 👍 15,340 / 👎 2,759)
 
 🟢 **Metacritic:** [80](https://www.metacritic.com/game/pc/metal-gear-solid-v-ground-zeroes?ftag=MCD-06-10aaa1f)
 
@@ -5848,7 +5930,7 @@
 
 `Stealth`  `Open World`  `Action`  `Story Rich`  `Tactical`  `Cinematic`
 
-🟢 **Very Positive** (92% of 99,922 reviews &nbsp;·&nbsp; 👍 91,675 / 👎 8,247)
+🟢 **Very Positive** (92% of 107,556 reviews &nbsp;·&nbsp; 👍 98,728 / 👎 8,828)
 
 🟢 **Metacritic:** [91](https://www.metacritic.com/game/pc/metal-gear-solid-v-the-phantom-pain?ftag=MCD-06-10aaa1f)
 
@@ -5864,7 +5946,7 @@
 
 `FPS`  `Post-apocalyptic`  `Action`  `Atmospheric`  `Horror`  `Singleplayer`
 
-🟢 **Very Positive** (93% of 16,386 reviews &nbsp;·&nbsp; 👍 15,228 / 👎 1,158)
+🟢 **Very Positive** (93% of 34,123 reviews &nbsp;·&nbsp; 👍 31,603 / 👎 2,520)
 
 🟢 **Metacritic:** [81](https://www.metacritic.com/game/pc/metro-2033?ftag=MCD-06-10aaa1f)
 
@@ -5880,7 +5962,7 @@
 
 `Post-apocalyptic`  `FPS`  `Atmospheric`  `Story Rich`  `Horror`  `Action`
 
-🟢 **Very Positive** (92% of 110,967 reviews &nbsp;·&nbsp; 👍 101,543 / 👎 9,424)
+🟢 **Very Positive** (92% of 139,567 reviews &nbsp;·&nbsp; 👍 128,770 / 👎 10,797)
 
 ---
 
@@ -5894,7 +5976,7 @@
 
 `Post-apocalyptic`  `FPS`  `Singleplayer`  `Open World`  `Story Rich`  `Atmospheric`
 
-🟢 **Very Positive** (90% of 121,315 reviews &nbsp;·&nbsp; 👍 108,945 / 👎 12,370)
+🟢 **Very Positive** (90% of 134,553 reviews &nbsp;·&nbsp; 👍 121,051 / 👎 13,502)
 
 🟢 **Metacritic:** [85](https://www.metacritic.com/game/pc/metro-exodus-complete-edition?ftag=MCD-06-10aaa1f)
 
@@ -5908,6 +5990,8 @@
 
 *Flee the shattered ruins of the Moscow Metro and embark on an epic, continent-spanning journey across the post-apocalyptic Russian wilderness. Explore vast, non-linear levels, lose yourself in an immersive, sandbox survival experience, and follow a thrilling story-line that spans an entire year in the greatest Metro adventure yet.*
 
+🟢 **Very Positive** (91% of 39,053 reviews &nbsp;·&nbsp; 👍 35,680 / 👎 3,373)
+
 🟢 **Metacritic:** [85](https://www.metacritic.com/game/pc/metro-exodus-complete-edition?ftag=MCD-06-10aaa1f)
 
 ---
@@ -5915,6 +5999,8 @@
 ### <a href="https://store.steampowered.com/app/43160"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/43160/a66bfc0a3fcba6b814df2ff64b04cf8d16f477fe.ico" width="32" height="32"></a> [Metro: Last Light Complete Edition](https://store.steampowered.com/app/43160)
 
 <a href="https://store.steampowered.com/app/43160"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/43160/header.jpg" width="460"></a>
+
+🟢 **Very Positive** (94% of 16,428 reviews &nbsp;·&nbsp; 👍 15,402 / 👎 1,026)
 
 ---
 
@@ -5928,7 +6014,7 @@
 
 `Post-apocalyptic`  `FPS`  `Atmospheric`  `Action`  `Story Rich`  `Horror`
 
-🟢 **Very Positive** (91% of 70,096 reviews &nbsp;·&nbsp; 👍 63,534 / 👎 6,562)
+🟢 **Very Positive** (91% of 80,788 reviews &nbsp;·&nbsp; 👍 73,721 / 👎 7,067)
 
 🟢 **Metacritic:** [76](https://www.metacritic.com/game/pc/metro-last-light-redux?ftag=MCD-06-10aaa1f)
 
@@ -5944,7 +6030,7 @@
 
 `Simulation`  `Flight`  `Realistic`  `Multiplayer`  `Open World`  `VR`
 
-🟡 **Mostly Positive** (79% of 65,666 reviews &nbsp;·&nbsp; 👍 51,794 / 👎 13,872)
+🟡 **Mostly Positive** (79% of 72,472 reviews &nbsp;·&nbsp; 👍 56,993 / 👎 15,479)
 
 🟢 **Metacritic:** [91](https://www.metacritic.com/game/pc/microsoft-flight-simulator?ftag=MCD-06-10aaa1f)
 
@@ -5960,7 +6046,7 @@
 
 `Flight`  `Simulation`  `Realistic`  `Open World`  `Multiplayer`  `Singleplayer`
 
-🟢 **Very Positive** (86% of 25,603 reviews &nbsp;·&nbsp; 👍 22,120 / 👎 3,483)
+🟢 **Very Positive** (87% of 26,413 reviews &nbsp;·&nbsp; 👍 22,872 / 👎 3,541)
 
 ---
 
@@ -5974,7 +6060,7 @@
 
 `Open World`  `Action`  `Fantasy`  `Adventure`  `Third Person`  `Stealth`
 
-🟢 **Very Positive** (92% of 90,715 reviews &nbsp;·&nbsp; 👍 83,849 / 👎 6,866)
+🟢 **Very Positive** (93% of 96,681 reviews &nbsp;·&nbsp; 👍 89,442 / 👎 7,239)
 
 🟢 **Metacritic:** [84](https://www.metacritic.com/game/pc/middle-earth-shadow-of-mordor?ftag=MCD-06-10aaa1f)
 
@@ -5990,7 +6076,7 @@
 
 `Open World`  `Action`  `RPG`  `Singleplayer`  `Fantasy`  `Adventure`
 
-🟢 **Very Positive** (89% of 107,218 reviews &nbsp;·&nbsp; 👍 95,053 / 👎 12,165)
+🟢 **Very Positive** (89% of 116,298 reviews &nbsp;·&nbsp; 👍 103,414 / 👎 12,884)
 
 ---
 
@@ -6004,7 +6090,7 @@
 
 `Early Access`  `FPS`  `Third-Person Shooter`  `PvP`  `PvE`  `Shooter`
 
-🟢 **Very Positive** (90% of 1,670 reviews &nbsp;·&nbsp; 👍 1,504 / 👎 166)
+🟢 **Very Positive** (91% of 2,307 reviews &nbsp;·&nbsp; 👍 2,105 / 👎 202)
 
 ---
 
@@ -6018,7 +6104,7 @@
 
 `Dungeon Crawler`  `Hack and Slash`  `Adventure`  `Action`  `RPG`  `Action RPG`
 
-🟢 **Very Positive** (91% of 13,952 reviews &nbsp;·&nbsp; 👍 12,725 / 👎 1,227)
+🟢 **Very Positive** (91% of 18,554 reviews &nbsp;·&nbsp; 👍 16,800 / 👎 1,754)
 
 ---
 
@@ -6032,7 +6118,7 @@
 
 `Strategy`  `Puzzle`  `Minimalist`  `Simulation`  `Trains`  `Indie`
 
-🟢 **Overwhelmingly Positive** (96% of 15,672 reviews &nbsp;·&nbsp; 👍 15,064 / 👎 608)
+🟢 **Overwhelmingly Positive** (96% of 16,684 reviews &nbsp;·&nbsp; 👍 16,019 / 👎 665)
 
 🟢 **Metacritic:** [77](https://www.metacritic.com/game/pc/mini-metro?ftag=MCD-06-10aaa1f)
 
@@ -6048,7 +6134,7 @@
 
 `Strategy`  `Simulation`  `Casual`  `Indie`  `Management`  `Minimalist`
 
-🟢 **Overwhelmingly Positive** (96% of 21,432 reviews &nbsp;·&nbsp; 👍 20,615 / 👎 817)
+🟢 **Overwhelmingly Positive** (96% of 24,280 reviews &nbsp;·&nbsp; 👍 23,373 / 👎 907)
 
 🟢 **Metacritic:** [87](https://www.metacritic.com/game/pc/mini-motorways?ftag=MCD-06-10aaa1f)
 
@@ -6064,7 +6150,7 @@
 
 `PvE`  `Trading Card Game`  `Stylized`  `Turn-Based Tactics`  `Free to Play`  `Multiplayer`
 
-🟢 **Very Positive** (90% of 64,905 reviews &nbsp;·&nbsp; 👍 58,108 / 👎 6,797)
+🟢 **Very Positive** (89% of 65,282 reviews &nbsp;·&nbsp; 👍 58,366 / 👎 6,916)
 
 ---
 
@@ -6078,7 +6164,7 @@
 
 `Board Game`  `Multiplayer`  `Family Friendly`  `Casual`  `Turn-Based Strategy`  `Local Multiplayer`
 
-🟡 **Mixed** (42% of 16,351 reviews &nbsp;·&nbsp; 👍 6,919 / 👎 9,432)
+🟡 **Mixed** (42% of 16,497 reviews &nbsp;·&nbsp; 👍 6,972 / 👎 9,525)
 
 ---
 
@@ -6092,7 +6178,7 @@
 
 `Action`  `Hunting`  `Online Co-Op`  `Character Customization`  `RPG`  `Multiplayer`
 
-🟢 **Very Positive** (82% of 112,672 reviews &nbsp;·&nbsp; 👍 92,564 / 👎 20,108)
+🟢 **Very Positive** (83% of 125,235 reviews &nbsp;·&nbsp; 👍 104,408 / 👎 20,827)
 
 🟢 **Metacritic:** [86](https://www.metacritic.com/game/pc/monster-hunter-rise?ftag=MCD-06-10aaa1f)
 
@@ -6108,7 +6194,7 @@
 
 `Hunting`  `Action`  `Multiplayer`  `Online Co-Op`  `Co-op`  `Dating Sim`
 
-🟡 **Mixed** (58% of 218,415 reviews &nbsp;·&nbsp; 👍 127,273 / 👎 91,142)
+🟡 **Mixed** (49% of 326,577 reviews &nbsp;·&nbsp; 👍 160,035 / 👎 166,542)
 
 ---
 
@@ -6122,7 +6208,7 @@
 
 `Co-op`  `Multiplayer`  `Action`  `Open World`  `RPG`  `Character Customization`
 
-🟢 **Very Positive** (88% of 493,390 reviews &nbsp;·&nbsp; 👍 434,239 / 👎 59,151)
+🟢 **Very Positive** (89% of 514,660 reviews &nbsp;·&nbsp; 👍 456,915 / 👎 57,745)
 
 🟢 **Metacritic:** [88](https://www.metacritic.com/game/pc/monster-hunter-world?ftag=MCD-06-10aaa1f)
 
@@ -6138,7 +6224,7 @@
 
 `Adventure`  `Indie`  `Puzzle`  `Pixel Graphics`  `Exploration`  `2D`
 
-🟢 **Positive** (91% of 34 reviews &nbsp;·&nbsp; 👍 31 / 👎 3)
+🟢 **Very Positive** (83% of 685 reviews &nbsp;·&nbsp; 👍 570 / 👎 115)
 
 ---
 
@@ -6152,7 +6238,7 @@
 
 `Medieval`  `Strategy`  `Open World`  `RPG`  `War`  `Sandbox`
 
-🟢 **Very Positive** (88% of 264,391 reviews &nbsp;·&nbsp; 👍 232,360 / 👎 32,031)
+🟢 **Very Positive** (88% of 294,938 reviews &nbsp;·&nbsp; 👍 258,487 / 👎 36,451)
 
 🟢 **Metacritic:** [77](https://www.metacritic.com/game/pc/mount-blade-ii-bannerlord?ftag=MCD-06-10aaa1f)
 
@@ -6166,6 +6252,8 @@
 
 *Muck is a survival-roguelike. Collect resources, find items &amp; build a base to survive for as long as you can.*
 
+🟢 **Very Positive** (93% of 184,155 reviews &nbsp;·&nbsp; 👍 171,889 / 👎 12,266)
+
 ---
 
 ### <a href="https://store.steampowered.com/app/1530"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1530/67f43a21d5714742a470e746733126abc2dbe8ad.ico" width="32" height="32"></a> [Multiwinia](https://store.steampowered.com/app/1530)
@@ -6178,7 +6266,7 @@
 
 `RTS`  `Strategy`  `Multiplayer`  `Singleplayer`  `Retro`  `Action`
 
-🟢 **Very Positive** (82% of 585 reviews &nbsp;·&nbsp; 👍 478 / 👎 107)
+🟢 **Very Positive** (82% of 601 reviews &nbsp;·&nbsp; 👍 493 / 👎 108)
 
 🟢 **Metacritic:** [76](https://www.metacritic.com/game/pc/multiwinia-survival-of-the-flattest?ftag=MCD-06-10aaa1f)
 
@@ -6194,7 +6282,7 @@
 
 `Music`  `Rhythm`  `Anime`  `Cute`  `Sexual Content`  `Female Protagonist`
 
-🟢 **Very Positive** (90% of 119,429 reviews &nbsp;·&nbsp; 👍 107,491 / 👎 11,938)
+🟢 **Very Positive** (92% of 121,807 reviews &nbsp;·&nbsp; 👍 111,459 / 👎 10,348)
 
 ---
 
@@ -6208,7 +6296,7 @@
 
 `Automobile Sim`  `Simulation`  `Driving`  `Open World`  `Survival`  `Realistic`
 
-🟢 **Overwhelmingly Positive** (95% of 91,394 reviews &nbsp;·&nbsp; 👍 86,445 / 👎 4,949)
+🟢 **Very Positive** (95% of 116,169 reviews &nbsp;·&nbsp; 👍 110,277 / 👎 5,892)
 
 ---
 
@@ -6222,7 +6310,7 @@
 
 `Action Roguelike`  `Exploration`  `Bullet Hell`  `Top-Down Shooter`  `Hack and Slash`  `Rogue-lite`
 
-🟢 **Very Positive** (87% of 220 reviews &nbsp;·&nbsp; 👍 191 / 👎 29)
+🟢 **Very Positive** (86% of 282 reviews &nbsp;·&nbsp; 👍 242 / 👎 40)
 
 ---
 
@@ -6238,7 +6326,7 @@
 
 `Action`  `Indie`  `Adventure`  `Metroidvania`  `Side Scroller`  `Difficult`
 
-🟡 **Mostly Positive** (73% of 26 reviews &nbsp;·&nbsp; 👍 19 / 👎 7)
+🟡 **Mixed** (43% of 387 reviews &nbsp;·&nbsp; 👍 168 / 👎 219)
 
 ---
 
@@ -6252,7 +6340,7 @@
 
 `Racing`  `Automobile Sim`  `Simulation`  `Driving`  `Multiplayer`  `Open World`
 
-🟡 **Mostly Positive** (78% of 2,827 reviews &nbsp;·&nbsp; 👍 2,205 / 👎 622)
+🟡 **Mostly Positive** (78% of 2,853 reviews &nbsp;·&nbsp; 👍 2,230 / 👎 623)
 
 🟢 **Metacritic:** [83](https://www.metacritic.com/game/pc/need-for-speed-shift?ftag=MCD-06-10aaa1f)
 
@@ -6266,6 +6354,8 @@
 
 *Dive into the cybermyth roguelike chaos of Neon Abyss 2! Now featuring up to 4-player online co-op, more combat styles, and unlimited item synergies, every run delivers a dramatic, action-packed experience you won't forget.*
 
+🟡 **Mixed** (70% of 2,251 reviews &nbsp;·&nbsp; 👍 1,565 / 👎 686)
+
 ---
 
 ### <a href="https://store.steampowered.com/app/794810"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/794810/bddba960f1b03811df1d93ba819b45d1e113f8b5.ico" width="32" height="32"></a> [Neoncers](https://store.steampowered.com/app/794810)
@@ -6274,7 +6364,7 @@
 
 `Racing`  `Adventure`  `Indie`  `Casual`
 
-🔴 **Mostly Negative** (38% of 32 reviews &nbsp;·&nbsp; 👍 12 / 👎 20)
+🔴 **Mostly Negative** (35% of 26 reviews &nbsp;·&nbsp; 👍 9 / 👎 17)
 
 ---
 
@@ -6288,7 +6378,7 @@
 
 `Great Soundtrack`  `Story Rich`  `Female Protagonist`  `Hack and Slash`  `Action`  `Open World`
 
-🟢 **Very Positive** (87% of 140,169 reviews &nbsp;·&nbsp; 👍 122,027 / 👎 18,142)
+🟢 **Very Positive** (87% of 152,488 reviews &nbsp;·&nbsp; 👍 133,296 / 👎 19,192)
 
 🟢 **Metacritic:** [84](https://www.metacritic.com/game/pc/nier-automata?ftag=MCD-06-10aaa1f)
 
@@ -6304,7 +6394,7 @@
 
 `Open World`  `Open World Survival Craft`  `Space`  `Exploration`  `Sci-fi`  `Survival`
 
-🟢 **Very Positive** (83% of 352,858 reviews &nbsp;·&nbsp; 👍 293,332 / 👎 59,526)
+🟢 **Very Positive** (85% of 413,014 reviews &nbsp;·&nbsp; 👍 350,983 / 👎 62,031)
 
 🟡 **Metacritic:** [61](https://www.metacritic.com/game/pc/no-mans-sky?ftag=MCD-06-10aaa1f)
 
@@ -6320,7 +6410,7 @@
 
 `Side Scroller`  `Action-Adventure`  `Linear`  `Exploration`  `Narration`  `Action`
 
-🟢 **Very Positive** (91% of 353 reviews &nbsp;·&nbsp; 👍 322 / 👎 31)
+🟢 **Very Positive** (94% of 4,744 reviews &nbsp;·&nbsp; 👍 4,464 / 👎 280)
 
 🟢 **Metacritic:** [81](https://www.metacritic.com/game/pc/nocturnal?ftag=MCD-06-10aaa1f)
 
@@ -6336,7 +6426,7 @@
 
 `Physics`  `Rogue-like`  `Pixel Graphics`  `Difficult`  `Dungeon Crawler`  `Indie`
 
-🟢 **Overwhelmingly Positive** (95% of 78,477 reviews &nbsp;·&nbsp; 👍 74,759 / 👎 3,718)
+🟢 **Overwhelmingly Positive** (95% of 88,222 reviews &nbsp;·&nbsp; 👍 83,948 / 👎 4,274)
 
 ---
 
@@ -6350,7 +6440,7 @@
 
 `Atmospheric`  `FPS`  `Fantasy`  `Retro`  `Action-Adventure`  `Exploration`
 
-🟢 **Overwhelmingly Positive** (97% of 3,098 reviews &nbsp;·&nbsp; 👍 3,004 / 👎 94)
+🟢 **Overwhelmingly Positive** (97% of 3,674 reviews &nbsp;·&nbsp; 👍 3,554 / 👎 120)
 
 ---
 
@@ -6364,7 +6454,7 @@
 
 `Indie`  `Casual`  `Strategy`  `Abstract`  `Puzzle`  `Logic`
 
-🟢 **Positive** (94% of 47 reviews &nbsp;·&nbsp; 👍 44 / 👎 3)
+🟢 **Positive** (94% of 49 reviews &nbsp;·&nbsp; 👍 46 / 👎 3)
 
 ---
 
@@ -6380,7 +6470,7 @@
 
 `Indie`  `Platformer`
 
-🔴 **Mostly Negative** (30% of 142 reviews &nbsp;·&nbsp; 👍 43 / 👎 99)
+🔴 **Mostly Negative** (31% of 147 reviews &nbsp;·&nbsp; 👍 45 / 👎 102)
 
 ---
 
@@ -6394,7 +6484,7 @@
 
 `Racing`  `Arcade`  `Driving`  `Old School`  `Simulation`  `Retro`
 
-🟢 **Very Positive** (91% of 1,202 reviews &nbsp;·&nbsp; 👍 1,088 / 👎 114)
+🟢 **Very Positive** (89% of 2,219 reviews &nbsp;·&nbsp; 👍 1,983 / 👎 236)
 
 ---
 
@@ -6408,7 +6498,7 @@
 
 `Crime`  `Strategy`  `Management`  `Simulation`  `Turn-Based Strategy`  `Turn-Based`
 
-🟡 **Mixed** (67% of 2,336 reviews &nbsp;·&nbsp; 👍 1,554 / 👎 782)
+🟡 **Mixed** (67% of 2,395 reviews &nbsp;·&nbsp; 👍 1,605 / 👎 790)
 
 ---
 
@@ -6436,7 +6526,7 @@
 
 `Action`  `Indie`  `Pixel Graphics`  `Retro`  `Platformer`  `2D Platformer`
 
-🟡 **Mixed** (67% of 42 reviews &nbsp;·&nbsp; 👍 28 / 👎 14)
+🟡 **Mixed** (69% of 1,044 reviews &nbsp;·&nbsp; 👍 722 / 👎 322)
 
 ---
 
@@ -6450,7 +6540,7 @@
 
 `Anime`  `Action`  `Fighting`  `Multiplayer`  `Pirates`  `Singleplayer`
 
-🟢 **Very Positive** (80% of 4,825 reviews &nbsp;·&nbsp; 👍 3,867 / 👎 958)
+🟡 **Mostly Positive** (80% of 5,019 reviews &nbsp;·&nbsp; 👍 4,003 / 👎 1,016)
 
 ---
 
@@ -6464,7 +6554,7 @@
 
 `Open World`  `Anime`  `JRPG`  `Turn-Based Combat`  `Story Rich`  `Party-Based RPG`
 
-🟢 **Very Positive** (80% of 3,152 reviews &nbsp;·&nbsp; 👍 2,515 / 👎 637)
+🟡 **Mostly Positive** (79% of 3,477 reviews &nbsp;·&nbsp; 👍 2,730 / 👎 747)
 
 🟢 **Metacritic:** [77](https://www.metacritic.com/game/pc/one-piece-odyssey?ftag=MCD-06-10aaa1f)
 
@@ -6480,7 +6570,7 @@
 
 `Anime`  `Action`  `Pirates`  `Adventure`  `Hack and Slash`  `Fighting`
 
-🟡 **Mostly Positive** (79% of 10,352 reviews &nbsp;·&nbsp; 👍 8,187 / 👎 2,165)
+🟡 **Mostly Positive** (78% of 10,903 reviews &nbsp;·&nbsp; 👍 8,502 / 👎 2,401)
 
 ---
 
@@ -6494,7 +6584,7 @@
 
 `Anime`  `Hack and Slash`  `Beat 'em up`  `Pirates`  `Fighting`  `Split Screen`
 
-🟢 **Very Positive** (92% of 19,980 reviews &nbsp;·&nbsp; 👍 18,314 / 👎 1,666)
+🟢 **Very Positive** (92% of 21,848 reviews &nbsp;·&nbsp; 👍 20,039 / 👎 1,809)
 
 🟢 **Metacritic:** [75](https://www.metacritic.com/game/pc/one-piece-pirate-warriors-4?ftag=MCD-06-10aaa1f)
 
@@ -6510,7 +6600,7 @@
 
 `Adventure`  `Action`  `Anime`  `Singleplayer`  `Open World`  `Fighting`
 
-🟡 **Mostly Positive** (73% of 500 reviews &nbsp;·&nbsp; 👍 363 / 👎 137)
+🟡 **Mostly Positive** (73% of 547 reviews &nbsp;·&nbsp; 👍 397 / 👎 150)
 
 ---
 
@@ -6524,7 +6614,7 @@
 
 `Action`  `Adventure`  `Anime`  `Open World`  `Singleplayer`  `Multiplayer`
 
-🟡 **Mostly Positive** (77% of 5,826 reviews &nbsp;·&nbsp; 👍 4,510 / 👎 1,316)
+🟡 **Mostly Positive** (77% of 6,247 reviews &nbsp;·&nbsp; 👍 4,810 / 👎 1,437)
 
 ---
 
@@ -6538,7 +6628,7 @@
 
 `Free to Play`  `Military`  `FPS`  `Realistic`  `Multiplayer`  `Tactical`
 
-🟡 **Mostly Positive** (77% of 18,420 reviews &nbsp;·&nbsp; 👍 14,167 / 👎 4,253)
+🟡 **Mostly Positive** (77% of 20,540 reviews &nbsp;·&nbsp; 👍 15,904 / 👎 4,636)
 
 ---
 
@@ -6552,7 +6642,7 @@
 
 `Great Soundtrack`  `Atmospheric`  `Platformer`  `Adventure`  `Metroidvania`  `Story Rich`
 
-🟢 **Very Positive** (94% of 57,412 reviews &nbsp;·&nbsp; 👍 54,150 / 👎 3,262)
+🟢 **Very Positive** (94% of 60,002 reviews &nbsp;·&nbsp; 👍 56,304 / 👎 3,698)
 
 🟢 **Metacritic:** [88](https://www.metacritic.com/game/pc/ori-and-the-blind-forest?ftag=MCD-06-10aaa1f)
 
@@ -6568,7 +6658,7 @@
 
 `Atmospheric`  `Great Soundtrack`  `Metroidvania`  `Platformer`  `Adventure`  `Story Rich`
 
-🟢 **Overwhelmingly Positive** (95% of 66,979 reviews &nbsp;·&nbsp; 👍 63,788 / 👎 3,191)
+🟢 **Overwhelmingly Positive** (95% of 71,262 reviews &nbsp;·&nbsp; 👍 67,747 / 👎 3,515)
 
 🟢 **Metacritic:** [88](https://www.metacritic.com/game/pc/ori-and-the-blind-forest-definitive-edition?ftag=MCD-06-10aaa1f)
 
@@ -6584,7 +6674,7 @@
 
 `Beautiful`  `Metroidvania`  `Platformer`  `Great Soundtrack`  `Singleplayer`  `Action`
 
-🟢 **Overwhelmingly Positive** (97% of 136,690 reviews &nbsp;·&nbsp; 👍 131,989 / 👎 4,701)
+🟢 **Overwhelmingly Positive** (97% of 145,742 reviews &nbsp;·&nbsp; 👍 140,649 / 👎 5,093)
 
 🟢 **Metacritic:** [88](https://www.metacritic.com/game/pc/ori-and-the-will-of-the-wisps?ftag=MCD-06-10aaa1f)
 
@@ -6600,7 +6690,7 @@
 
 `Dinosaurs`  `Action`  `FPS`  `Multiplayer`  `Online Co-Op`  `Co-op`
 
-🟡 **Mostly Positive** (75% of 28,485 reviews &nbsp;·&nbsp; 👍 21,458 / 👎 7,027)
+🟡 **Mostly Positive** (75% of 28,324 reviews &nbsp;·&nbsp; 👍 21,369 / 👎 6,955)
 
 ---
 
@@ -6614,7 +6704,7 @@
 
 `Exploration`  `Space`  `Mystery`  `Story Rich`  `Adventure`  `Great Soundtrack`
 
-🟢 **Overwhelmingly Positive** (96% of 84,488 reviews &nbsp;·&nbsp; 👍 80,833 / 👎 3,655)
+🟢 **Overwhelmingly Positive** (96% of 106,093 reviews &nbsp;·&nbsp; 👍 101,430 / 👎 4,663)
 
 🟢 **Metacritic:** [85](https://www.metacritic.com/game/pc/outer-wilds?ftag=MCD-06-10aaa1f)
 
@@ -6630,7 +6720,7 @@
 
 `Platformer`  `Action`  `Metroidvania`  `2D`  `Co-op`  `Adventure`
 
-🟢 **Very Positive** (80% of 3,935 reviews &nbsp;·&nbsp; 👍 3,165 / 👎 770)
+🟢 **Very Positive** (80% of 3,947 reviews &nbsp;·&nbsp; 👍 3,175 / 👎 772)
 
 🟢 **Metacritic:** [79](https://www.metacritic.com/game/pc/outland?ftag=MCD-06-10aaa1f)
 
@@ -6646,7 +6736,7 @@
 
 `Horror`  `First-Person`  `Survival Horror`  `Atmospheric`  `Psychological Horror`  `Gore`
 
-🟢 **Overwhelmingly Positive** (96% of 125,678 reviews &nbsp;·&nbsp; 👍 121,220 / 👎 4,458)
+🟢 **Overwhelmingly Positive** (96% of 137,947 reviews &nbsp;·&nbsp; 👍 133,036 / 👎 4,911)
 
 🟢 **Metacritic:** [80](https://www.metacritic.com/game/pc/outlast?ftag=MCD-06-10aaa1f)
 
@@ -6662,7 +6752,7 @@
 
 `RPG`  `Open World`  `Survival`  `Co-op`  `Online Co-Op`  `Local Co-Op`
 
-🟡 **Mostly Positive** (73% of 28,455 reviews &nbsp;·&nbsp; 👍 20,738 / 👎 7,717)
+🟡 **Mostly Positive** (73% of 31,249 reviews &nbsp;·&nbsp; 👍 22,715 / 👎 8,534)
 
 ---
 
@@ -6674,6 +6764,8 @@
 
 *Steve Jackson, a 19-year-old guy, is looking after a friends house and encounters eerie events in a small town. Dive into the dark mystery of the events you unwittingly became a part of. Will you be able to uncover the truth?*
 
+🟡 **Mixed** (69% of 2,192 reviews &nbsp;·&nbsp; 👍 1,517 / 👎 675)
+
 ---
 
 ### <a href="https://store.steampowered.com/app/2357570"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/2357570/c05905cbf26020ffefcae9b39038d9ad523e2d68.ico" width="32" height="32"></a> [Overwatch®](https://store.steampowered.com/app/2357570)
@@ -6683,6 +6775,8 @@
 **Dev:** Blizzard Entertainment, Inc. &nbsp;·&nbsp; **Released:** Aug 10, 2023 &nbsp;·&nbsp; **Price:** Free
 
 *Overwatch®, A FUTURE WORTH FIGHTING FOR! Overwatch® is an always-on and ever-evolving free-to-play, team-based action game set in an optimistic future, where every match is the ultimate 5v5 or 6v6 battlefield brawl.*
+
+🔴 **Mostly Negative** (31% of 415,557 reviews &nbsp;·&nbsp; 👍 129,476 / 👎 286,081)
 
 ---
 
@@ -6698,7 +6792,7 @@
 
 `Gore`  `Action`  `FPS`  `Classic`  `Shooter`  `Great Soundtrack`
 
-🟢 **Very Positive** (89% of 2,040 reviews &nbsp;·&nbsp; 👍 1,823 / 👎 217)
+🟢 **Very Positive** (89% of 2,335 reviews &nbsp;·&nbsp; 👍 2,080 / 👎 255)
 
 ---
 
@@ -6712,7 +6806,7 @@
 
 `Action`  `FPS`  `Gore`  `Co-op`  `Horror`  `Shooter`
 
-🟡 **Mostly Positive** (78% of 4,177 reviews &nbsp;·&nbsp; 👍 3,258 / 👎 919)
+🟡 **Mostly Positive** (78% of 4,344 reviews &nbsp;·&nbsp; 👍 3,388 / 👎 956)
 
 🟡 **Metacritic:** [64](https://www.metacritic.com/game/pc/painkiller-hell-damnation?ftag=MCD-06-10aaa1f)
 
@@ -6728,7 +6822,7 @@
 
 `Action`  `FPS`  `Gore`  `Violent`  `Shooter`  `Horror`
 
-🟡 **Mostly Positive** (72% of 1,115 reviews &nbsp;·&nbsp; 👍 802 / 👎 313)
+🟡 **Mostly Positive** (71% of 1,195 reviews &nbsp;·&nbsp; 👍 850 / 👎 345)
 
 🟡 **Metacritic:** [65](https://www.metacritic.com/game/pc/painkiller-overdose?ftag=MCD-06-10aaa1f)
 
@@ -6744,7 +6838,7 @@
 
 `Action`  `Supernatural`  `Gore`  `3D`  `Violent`  `FPS`
 
-🟡 **Mixed** (43% of 432 reviews &nbsp;·&nbsp; 👍 186 / 👎 246)
+🟡 **Mixed** (42% of 473 reviews &nbsp;·&nbsp; 👍 200 / 👎 273)
 
 🔴 **Metacritic:** [38](https://www.metacritic.com/game/pc/painkiller-recurring-evil?ftag=MCD-06-10aaa1f)
 
@@ -6760,7 +6854,7 @@
 
 `Action`  `Shooter`  `Gore`  `Violent`  `FPS`  `First-Person`
 
-🟡 **Mixed** (47% of 710 reviews &nbsp;·&nbsp; 👍 331 / 👎 379)
+🟡 **Mixed** (46% of 748 reviews &nbsp;·&nbsp; 👍 343 / 👎 405)
 
 🔴 **Metacritic:** [43](https://www.metacritic.com/game/pc/painkiller-redemption?ftag=MCD-06-10aaa1f)
 
@@ -6776,7 +6870,7 @@
 
 `Action`  `Gore`  `Violent`  `FPS`  `Horror`  `Shooter`
 
-🔴 **Mostly Negative** (26% of 597 reviews &nbsp;·&nbsp; 👍 156 / 👎 441)
+🔴 **Mostly Negative** (25% of 643 reviews &nbsp;·&nbsp; 👍 160 / 👎 483)
 
 🔴 **Metacritic:** [38](https://www.metacritic.com/game/pc/painkiller-resurrection?ftag=MCD-06-10aaa1f)
 
@@ -6790,6 +6884,8 @@
 
 *Discover a welcoming world in Palia, a free-to-play fantasy life sim adventure where you can craft, explore, and create the life and home of your dreams. With nearly endless ways to make Palia your home, you’ll find relaxation and joy in every corner of this vibrant, heartwarming world.*
 
+🟢 **Very Positive** (86% of 43,548 reviews &nbsp;·&nbsp; 👍 37,642 / 👎 5,906)
+
 ---
 
 ### <a href="https://store.steampowered.com/app/1623730"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1623730/22a20bdaa6d782f60caa45eb7b02fc2411dcd988.ico" width="32" height="32"></a> [Palworld](https://store.steampowered.com/app/1623730)
@@ -6802,7 +6898,7 @@
 
 `Open World`  `Survival`  `Creature Collector`  `Multiplayer`  `Open World Survival Craft`  `Online Co-Op`
 
-🟢 **Very Positive** (94% of 380,709 reviews &nbsp;·&nbsp; 👍 358,266 / 👎 22,443)
+🟢 **Very Positive** (94% of 467,883 reviews &nbsp;·&nbsp; 👍 442,012 / 👎 25,871)
 
 ---
 
@@ -6816,7 +6912,7 @@
 
 `Horror`  `Online Co-Op`  `Multiplayer`  `Psychological Horror`  `First-Person`  `PvE`
 
-🟢 **Very Positive** (81% of 10,547 reviews &nbsp;·&nbsp; 👍 8,491 / 👎 2,056)
+🟡 **Mostly Positive** (79% of 12,841 reviews &nbsp;·&nbsp; 👍 10,126 / 👎 2,715)
 
 ---
 
@@ -6830,7 +6926,7 @@
 
 `Strategy`  `Real Time Tactics`  `World War II`  `Stealth`  `Tactical`  `Singleplayer`
 
-🟢 **Very Positive** (82% of 8,186 reviews &nbsp;·&nbsp; 👍 6,728 / 👎 1,458)
+🟢 **Very Positive** (82% of 8,719 reviews &nbsp;·&nbsp; 👍 7,132 / 👎 1,587)
 
 ---
 
@@ -6844,7 +6940,7 @@
 
 `Action RPG`  `Hack and Slash`  `RPG`  `Souls-like`  `MMORPG`  `Dark Fantasy`
 
-🟡 **Mostly Positive** (70% of 169,021 reviews &nbsp;·&nbsp; 👍 118,511 / 👎 50,510)
+🟡 **Mostly Positive** (75% of 223,976 reviews &nbsp;·&nbsp; 👍 167,142 / 👎 56,834)
 
 ---
 
@@ -6858,7 +6954,7 @@
 
 `RPG`  `Party-Based RPG`  `Fantasy`  `CRPG`  `Isometric`  `Character Customization`
 
-🟡 **Mostly Positive** (78% of 33,421 reviews &nbsp;·&nbsp; 👍 26,001 / 👎 7,420)
+🟡 **Mostly Positive** (78% of 34,997 reviews &nbsp;·&nbsp; 👍 27,166 / 👎 7,831)
 
 🟡 **Metacritic:** [73](https://www.metacritic.com/game/pc/pathfinder-kingmaker?ftag=MCD-06-10aaa1f)
 
@@ -6874,7 +6970,7 @@
 
 `Strategy`  `Trading`  `Simulation`  `Economy`  `Singleplayer`
 
-🟡 **Mixed** (67% of 156 reviews &nbsp;·&nbsp; 👍 104 / 👎 52)
+🟡 **Mixed** (70% of 604 reviews &nbsp;·&nbsp; 👍 420 / 👎 184)
 
 🟡 **Metacritic:** [67](https://www.metacritic.com/game/pc/patrician-iv-rise-of-a-dynasty?ftag=MCD-06-10aaa1f)
 
@@ -6890,7 +6986,7 @@
 
 `Strategy`  `Trading`  `Resource Management`  `Economy`  `Simulation`  `Singleplayer`
 
-🟡 **Mixed** (55% of 700 reviews &nbsp;·&nbsp; 👍 387 / 👎 313)
+🟡 **Mixed** (56% of 765 reviews &nbsp;·&nbsp; 👍 431 / 👎 334)
 
 🟡 **Metacritic:** [66](https://www.metacritic.com/game/pc/patrician-iv?ftag=MCD-06-10aaa1f)
 
@@ -6906,7 +7002,7 @@
 
 `VR`  `Shooter`  `Action`  `Multiplayer`  `FPS`  `Military`
 
-🟢 **Very Positive** (90% of 39,672 reviews &nbsp;·&nbsp; 👍 35,512 / 👎 4,160)
+🟢 **Very Positive** (89% of 40,506 reviews &nbsp;·&nbsp; 👍 35,932 / 👎 4,574)
 
 ---
 
@@ -6920,7 +7016,7 @@
 
 `Co-op`  `Action`  `FPS`  `Heist`  `Multiplayer`  `Looter Shooter`
 
-🟢 **Very Positive** (90% of 663,082 reviews &nbsp;·&nbsp; 👍 594,327 / 👎 68,755)
+🟢 **Very Positive** (89% of 673,812 reviews &nbsp;·&nbsp; 👍 602,027 / 👎 71,785)
 
 🟢 **Metacritic:** [79](https://www.metacritic.com/game/pc/payday-2?ftag=MCD-06-10aaa1f)
 
@@ -6936,7 +7032,7 @@
 
 `Heist`  `Co-op`  `Crime`  `Action`  `Multiplayer`  `FPS`
 
-🟡 **Mixed** (43% of 58,692 reviews &nbsp;·&nbsp; 👍 25,497 / 👎 33,195)
+🟡 **Mixed** (45% of 65,052 reviews &nbsp;·&nbsp; 👍 29,524 / 👎 35,528)
 
 🟡 **Metacritic:** [66](https://www.metacritic.com/game/pc/payday-3?ftag=MCD-06-10aaa1f)
 
@@ -6952,7 +7048,7 @@
 
 `FPS`  `Action`  `Co-op`  `Heist`  `Multiplayer`  `Crime`
 
-🟢 **Very Positive** (93% of 40,223 reviews &nbsp;·&nbsp; 👍 37,570 / 👎 2,653)
+🟢 **Very Positive** (93% of 40,946 reviews &nbsp;·&nbsp; 👍 38,215 / 👎 2,731)
 
 🟢 **Metacritic:** [76](https://www.metacritic.com/game/pc/payday-the-heist?ftag=MCD-06-10aaa1f)
 
@@ -6966,6 +7062,8 @@
 
 *PEAK is a co-op climbing game where the slightest mistake can spell your doom. Either solo or as a group of lost nature scouts, your only hope of rescue from a mysterious island is to scale the mountain at its center. Do you have what it takes to reach the PEAK?*
 
+🟢 **Very Positive** (95% of 341,728 reviews &nbsp;·&nbsp; 👍 323,452 / 👎 18,276)
+
 ---
 
 ### <a href="https://store.steampowered.com/app/1296610"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1296610/44e9bfa816f89009627931a80acbed15bc8398fb.ico" width="32" height="32"></a> [Peglin](https://store.steampowered.com/app/1296610)
@@ -6978,7 +7076,7 @@
 
 `Deckbuilding`  `Rogue-lite`  `Rogue-like`  `Pinball`  `Turn-Based`  `Strategy`
 
-🟢 **Very Positive** (84% of 15,993 reviews &nbsp;·&nbsp; 👍 13,369 / 👎 2,624)
+🟢 **Very Positive** (84% of 17,572 reviews &nbsp;·&nbsp; 👍 14,711 / 👎 2,861)
 
 ---
 
@@ -6992,7 +7090,7 @@
 
 `Sandbox`  `Gore`  `Physics`  `Blood`  `Moddable`  `Violent`
 
-🟢 **Overwhelmingly Positive** (99% of 281,763 reviews &nbsp;·&nbsp; 👍 277,746 / 👎 4,017)
+🟢 **Overwhelmingly Positive** (98% of 316,120 reviews &nbsp;·&nbsp; 👍 311,261 / 👎 4,859)
 
 ---
 
@@ -7006,7 +7104,7 @@
 
 `Adventure`  `Action`  `Puzzle`  `Difficult`  `Casual`  `Retro`
 
-🟢 **Positive** (82% of 74 reviews &nbsp;·&nbsp; 👍 61 / 👎 13)
+🟢 **Very Positive** (82% of 79 reviews &nbsp;·&nbsp; 👍 65 / 👎 14)
 
 ---
 
@@ -7034,7 +7132,7 @@
 
 `Clicker`  `Creature Collector`  `Adventure`  `Idler`  `Exploration`  `Simulation`
 
-🟢 **Positive** (81% of 36 reviews &nbsp;·&nbsp; 👍 29 / 👎 7)
+🔴 **Mostly Negative** (39% of 726 reviews &nbsp;·&nbsp; 👍 285 / 👎 441)
 
 ---
 
@@ -7048,7 +7146,7 @@
 
 `Horror`  `Online Co-Op`  `Multiplayer`  `Psychological Horror`  `Co-op`  `Supernatural`
 
-🟢 **Overwhelmingly Positive** (96% of 768,779 reviews &nbsp;·&nbsp; 👍 736,611 / 👎 32,168)
+🟢 **Very Positive** (94% of 836,220 reviews &nbsp;·&nbsp; 👍 789,389 / 👎 46,831)
 
 ---
 
@@ -7062,7 +7160,7 @@
 
 `Multiplayer`  `Online Co-Op`  `Puzzle-Platformer`  `Co-op`  `Local Co-Op`  `Casual`
 
-🟢 **Very Positive** (91% of 28,499 reviews &nbsp;·&nbsp; 👍 25,879 / 👎 2,620)
+🟢 **Very Positive** (91% of 29,882 reviews &nbsp;·&nbsp; 👍 27,125 / 👎 2,757)
 
 ---
 
@@ -7076,7 +7174,7 @@
 
 `Pinball`  `Free to Play`  `Simulation`  `Arcade`  `Casual`  `Retro`
 
-🟢 **Very Positive** (88% of 5,178 reviews &nbsp;·&nbsp; 👍 4,553 / 👎 625)
+🟢 **Very Positive** (88% of 5,417 reviews &nbsp;·&nbsp; 👍 4,748 / 👎 669)
 
 🟢 **Metacritic:** [89](https://www.metacritic.com/game/pc/pinball-fx3?ftag=MCD-06-10aaa1f)
 
@@ -7092,7 +7190,7 @@
 
 `Casual`  `Simulation`  `Anime`  `Strategy`  `Puzzle`  `Tabletop`
 
-🟡 **Mostly Positive** (76% of 246 reviews &nbsp;·&nbsp; 👍 186 / 👎 60)
+🟡 **Mostly Positive** (75% of 294 reviews &nbsp;·&nbsp; 👍 220 / 👎 74)
 
 ---
 
@@ -7106,7 +7204,7 @@
 
 `Free to Play`  `Casual`  `Indie`  `Puzzle`  `Simulation`  `Strategy`
 
-🟡 **Mostly Positive** (76% of 494 reviews &nbsp;·&nbsp; 👍 373 / 👎 121)
+🟡 **Mostly Positive** (76% of 567 reviews &nbsp;·&nbsp; 👍 430 / 👎 137)
 
 ---
 
@@ -7120,7 +7218,7 @@
 
 `Casual`  `Puzzle`  `Indie`  `Simulation`  `Strategy`  `Action`
 
-🟡 **Mostly Positive** (73% of 928 reviews &nbsp;·&nbsp; 👍 679 / 👎 249)
+🟡 **Mostly Positive** (73% of 925 reviews &nbsp;·&nbsp; 👍 675 / 👎 250)
 
 ---
 
@@ -7134,7 +7232,7 @@
 
 `Strategy`  `Simulation`  `Outbreak Sim`  `Indie`  `Singleplayer`  `Multiplayer`
 
-🟢 **Very Positive** (94% of 55,664 reviews &nbsp;·&nbsp; 👍 52,571 / 👎 3,093)
+🟢 **Very Positive** (94% of 65,180 reviews &nbsp;·&nbsp; 👍 61,409 / 👎 3,771)
 
 ---
 
@@ -7148,7 +7246,7 @@
 
 `Simulation`  `Building`  `Management`  `Sandbox`  `Family Friendly`  `Relaxing`
 
-🟢 **Very Positive** (91% of 70,278 reviews &nbsp;·&nbsp; 👍 64,131 / 👎 6,147)
+🟢 **Very Positive** (91% of 72,058 reviews &nbsp;·&nbsp; 👍 65,818 / 👎 6,240)
 
 🟢 **Metacritic:** [84](https://www.metacritic.com/game/pc/planet-coaster?ftag=MCD-06-10aaa1f)
 
@@ -7164,7 +7262,7 @@
 
 `Management`  `Simulation`  `Building`  `Sandbox`  `Nature`  `City Builder`
 
-🟢 **Very Positive** (91% of 87,849 reviews &nbsp;·&nbsp; 👍 80,029 / 👎 7,820)
+🟢 **Very Positive** (91% of 97,081 reviews &nbsp;·&nbsp; 👍 88,340 / 👎 8,741)
 
 🟢 **Metacritic:** [81](https://www.metacritic.com/game/pc/planet-zoo?ftag=MCD-06-10aaa1f)
 
@@ -7180,7 +7278,7 @@
 
 `Tower Defense`  `Zombies`  `Strategy`  `Singleplayer`  `Casual`  `Classic`
 
-🟢 **Overwhelmingly Positive** (98% of 139,925 reviews &nbsp;·&nbsp; 👍 136,574 / 👎 3,351)
+🟢 **Overwhelmingly Positive** (98% of 154,656 reviews &nbsp;·&nbsp; 👍 151,088 / 👎 3,568)
 
 🟢 **Metacritic:** [87](https://www.metacritic.com/game/pc/plants-vs-zombies?ftag=MCD-06-10aaa1f)
 
@@ -7196,7 +7294,7 @@
 
 `Indie`  `Singleplayer`  `Story Rich`  `Emotional`
 
-🟢 **Very Positive** (94% of 251 reviews &nbsp;·&nbsp; 👍 235 / 👎 16)
+🟢 **Very Positive** (94% of 255 reviews &nbsp;·&nbsp; 👍 239 / 👎 16)
 
 ---
 
@@ -7210,7 +7308,7 @@
 
 `Building`  `Simulation`  `Physics`  `Puzzle`  `Singleplayer`  `Sandbox`
 
-🟢 **Very Positive** (91% of 17,584 reviews &nbsp;·&nbsp; 👍 16,075 / 👎 1,509)
+🟢 **Very Positive** (91% of 18,774 reviews &nbsp;·&nbsp; 👍 17,075 / 👎 1,699)
 
 🟡 **Metacritic:** [73](https://www.metacritic.com/game/pc/poly-bridge?ftag=MCD-06-10aaa1f)
 
@@ -7226,7 +7324,7 @@
 
 `Building`  `Simulation`  `Puzzle`  `Physics`  `Crafting`  `Difficult`
 
-🟢 **Overwhelmingly Positive** (95% of 7,754 reviews &nbsp;·&nbsp; 👍 7,387 / 👎 367)
+🟢 **Overwhelmingly Positive** (95% of 8,225 reviews &nbsp;·&nbsp; 👍 7,816 / 👎 409)
 
 ---
 
@@ -7240,7 +7338,7 @@
 
 `Simulation`  `Puzzle`  `Building`  `3D`  `Physics`  `Cartoon`
 
-🟢 **Overwhelmingly Positive** (96% of 1,628 reviews &nbsp;·&nbsp; 👍 1,566 / 👎 62)
+🟢 **Overwhelmingly Positive** (96% of 2,107 reviews &nbsp;·&nbsp; 👍 2,026 / 👎 81)
 
 ---
 
@@ -7254,7 +7352,7 @@
 
 `Puzzle`  `Puzzle-Platformer`  `First-Person`  `3D Platformer`  `Singleplayer`  `Sci-fi`
 
-🟢 **Overwhelmingly Positive** (98% of 177,741 reviews &nbsp;·&nbsp; 👍 175,024 / 👎 2,717)
+🟢 **Overwhelmingly Positive** (99% of 197,826 reviews &nbsp;·&nbsp; 👍 194,904 / 👎 2,922)
 
 🟢 **Metacritic:** [90](https://www.metacritic.com/game/pc/portal?ftag=MCD-06-10aaa1f)
 
@@ -7270,7 +7368,7 @@
 
 `Platformer`  `Puzzle`  `First-Person`  `Dark Humor`  `Story Rich`  `Puzzle-Platformer`
 
-🟢 **Overwhelmingly Positive** (99% of 433,510 reviews &nbsp;·&nbsp; 👍 427,835 / 👎 5,675)
+🟢 **Overwhelmingly Positive** (99% of 464,786 reviews &nbsp;·&nbsp; 👍 458,767 / 👎 6,019)
 
 🟢 **Metacritic:** [95](https://www.metacritic.com/game/pc/portal-2?ftag=MCD-06-10aaa1f)
 
@@ -7284,6 +7382,8 @@
 
 *Portal 2: Community Edition (P2:CE) is a community-maintained version of Portal 2 that significantly enhances the way you make and play content, offering new capabilities such as a brand-new scripting system, an improved Hammer map editor and significantly increased limits over the original game.*
 
+🟢 **Very Positive** (91% of 752 reviews &nbsp;·&nbsp; 👍 686 / 👎 66)
+
 ---
 
 ### <a href="https://store.steampowered.com/app/1255980"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1255980/f61503a560b5edd2d1522fe8b7021ad4e30079a9.ico" width="32" height="32"></a> [Portal Reloaded](https://store.steampowered.com/app/1255980)
@@ -7294,6 +7394,8 @@
 
 *Portal Reloaded is a free, community made modification for Portal 2. The mod builds on the concepts of the main game by allowing you to place a third portal, which enables traveling between two different timelines. Thinking in four dimensions is vital to solving 25 brand new mind-bending puzzles.*
 
+🟢 **Overwhelmingly Positive** (96% of 22,010 reviews &nbsp;·&nbsp; 👍 21,122 / 👎 888)
+
 ---
 
 ### <a href="https://store.steampowered.com/app/601360"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/601360/c888d9a5c272a79622b1382272635c7c0e49c4ac.ico" width="32" height="32"></a> [Portal: Revolution](https://store.steampowered.com/app/601360)
@@ -7303,6 +7405,8 @@
 **Dev:** Second Face Software &nbsp;·&nbsp; **Released:** Jan 6, 2024 &nbsp;·&nbsp; **Price:** Free
 
 *The Portal Mod you've been waiting for. Delve into a new story with original characters, spanning over 8 hours of gameplay and featuring over 40 new challenging test chambers which make use of new mechanics.*
+
+🟢 **Overwhelmingly Positive** (96% of 30,188 reviews &nbsp;·&nbsp; 👍 29,042 / 👎 1,146)
 
 ---
 
@@ -7316,7 +7420,7 @@
 
 `Free to Play`  `Puzzle`  `Mod`  `Singleplayer`  `First-Person`  `Adventure`
 
-🟢 **Overwhelmingly Positive** (96% of 10,802 reviews &nbsp;·&nbsp; 👍 10,334 / 👎 468)
+🟢 **Overwhelmingly Positive** (96% of 23,697 reviews &nbsp;·&nbsp; 👍 22,745 / 👎 952)
 
 ---
 
@@ -7327,6 +7431,8 @@
 **Dev:** Lightspeed Studios™ &nbsp;·&nbsp; **Released:** Dec 8, 2022 &nbsp;·&nbsp; **Price:** Free
 
 *Experience the critically acclaimed and award-winning Portal™ reimagined with full ray tracing and DLSS 4 in this free DLC for Portal owners. Start thinking with portals, with RTX on.*
+
+🟡 **Mixed** (61% of 19,104 reviews &nbsp;·&nbsp; 👍 11,588 / 👎 7,516)
 
 ---
 
@@ -7340,7 +7446,7 @@
 
 `Violent`  `Dark Humor`  `Open World`  `Mature`  `First-Person`  `Funny`
 
-🟢 **Overwhelmingly Positive** (97% of 116,058 reviews &nbsp;·&nbsp; 👍 112,414 / 👎 3,644)
+🟢 **Overwhelmingly Positive** (97% of 136,481 reviews &nbsp;·&nbsp; 👍 132,330 / 👎 4,151)
 
 🟡 **Metacritic:** [59](https://www.metacritic.com/game/pc/postal-2-share-the-pain?ftag=MCD-06-10aaa1f)
 
@@ -7356,7 +7462,7 @@
 
 `Crafting`  `Singleplayer`  `Relaxing`  `Simulation`  `Medieval`  `Management`
 
-🟢 **Very Positive** (92% of 37,608 reviews &nbsp;·&nbsp; 👍 34,716 / 👎 2,892)
+🟢 **Very Positive** (93% of 44,266 reviews &nbsp;·&nbsp; 👍 41,132 / 👎 3,134)
 
 ---
 
@@ -7367,6 +7473,8 @@
 **Dev:** The Powder Toy Team &nbsp;·&nbsp; **Released:** Jun 14, 2024 &nbsp;·&nbsp; **Price:** Free
 
 *The Powder Toy is a classic physics sandbox game, which simulates air pressure and velocity, heat, gravity and a countless number of interactions between different substances*
+
+🟢 **Overwhelmingly Positive** (98% of 2,861 reviews &nbsp;·&nbsp; 👍 2,806 / 👎 55)
 
 ---
 
@@ -7380,7 +7488,7 @@
 
 `Indie`  `Female Protagonist`  `Action`  `Retro`  `RPG`  `Cute`
 
-🟢 **Very Positive** (91% of 638 reviews &nbsp;·&nbsp; 👍 582 / 👎 56)
+🟢 **Very Positive** (91% of 651 reviews &nbsp;·&nbsp; 👍 592 / 👎 59)
 
 ---
 
@@ -7394,7 +7502,7 @@
 
 `Simulation`  `Building`  `Sandbox`  `Base-Building`  `Colony Sim`  `Strategy`
 
-🟢 **Very Positive** (89% of 72,330 reviews &nbsp;·&nbsp; 👍 64,439 / 👎 7,891)
+🟢 **Very Positive** (89% of 73,646 reviews &nbsp;·&nbsp; 👍 65,731 / 👎 7,915)
 
 🟢 **Metacritic:** [83](https://www.metacritic.com/game/pc/prison-architect?ftag=MCD-06-10aaa1f)
 
@@ -7408,6 +7516,8 @@
 
 *Project Borealis: Prologue is a fan-made game which expands on the classic episodic series by Valve Software. Return to a snow covered Ravenholm and experience the iconic town reimagined in an arctic atmosphere and modern graphics.*
 
+🟡 **Mostly Positive** (72% of 5,278 reviews &nbsp;·&nbsp; 👍 3,808 / 👎 1,470)
+
 ---
 
 ### <a href="https://store.steampowered.com/app/2024230"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/2024230/18970f4f31f393a1579fdedd0a7bec0acc1c4223.ico" width="32" height="32"></a> [Project Lazarus](https://store.steampowered.com/app/2024230)
@@ -7420,7 +7530,7 @@
 
 `Action Roguelike`  `Action`  `Bullet Hell`  `Casual`  `Arcade`  `3D`
 
-🟢 **Very Positive** (81% of 1,357 reviews &nbsp;·&nbsp; 👍 1,094 / 👎 263)
+🟢 **Very Positive** (80% of 1,377 reviews &nbsp;·&nbsp; 👍 1,102 / 👎 275)
 
 ---
 
@@ -7434,7 +7544,7 @@
 
 `Team-Based`  `Snow`  `PvP`  `Exploration`  `Adventure`  `Crafting`
 
-🟢 **Very Positive** (83% of 18,899 reviews &nbsp;·&nbsp; 👍 15,638 / 👎 3,261)
+🟢 **Very Positive** (82% of 19,077 reviews &nbsp;·&nbsp; 👍 15,723 / 👎 3,354)
 
 ---
 
@@ -7448,7 +7558,7 @@
 
 `Survival`  `Zombies`  `Open World`  `Multiplayer`  `Open World Survival Craft`  `Sandbox`
 
-🟢 **Very Positive** (94% of 377,063 reviews &nbsp;·&nbsp; 👍 355,171 / 👎 21,892)
+🟢 **Very Positive** (94% of 466,773 reviews &nbsp;·&nbsp; 👍 438,653 / 👎 28,120)
 
 ---
 
@@ -7462,7 +7572,7 @@
 
 `VR`  `Action`  `Horror`  `Zombies`  `Free to Play`  `Multiplayer`
 
-🟢 **Very Positive** (94% of 5,622 reviews &nbsp;·&nbsp; 👍 5,298 / 👎 324)
+🟢 **Very Positive** (94% of 5,872 reviews &nbsp;·&nbsp; 👍 5,520 / 👎 352)
 
 ---
 
@@ -7476,7 +7586,7 @@
 
 `Platformer`  `Comedy`  `Adventure`  `Cult Classic`  `Singleplayer`  `Action`
 
-🟢 **Overwhelmingly Positive** (95% of 17,925 reviews &nbsp;·&nbsp; 👍 17,040 / 👎 885)
+🟢 **Very Positive** (95% of 19,151 reviews &nbsp;·&nbsp; 👍 18,186 / 👎 965)
 
 🟢 **Metacritic:** [87](https://www.metacritic.com/game/pc/psychonauts?ftag=MCD-06-10aaa1f)
 
@@ -7492,7 +7602,7 @@
 
 `Survival`  `Shooter`  `Battle Royale`  `Multiplayer`  `FPS`  `PvP`
 
-🟡 **Mixed** (59% of 2,557,944 reviews &nbsp;·&nbsp; 👍 1,520,457 / 👎 1,037,487)
+🟡 **Mixed** (60% of 2,739,247 reviews &nbsp;·&nbsp; 👍 1,656,614 / 👎 1,082,633)
 
 ---
 
@@ -7506,7 +7616,7 @@
 
 `Multiplayer`  `Funny`  `Online Co-Op`  `4 Player Local`  `Board Game`  `Party Game`
 
-🟢 **Very Positive** (89% of 53,814 reviews &nbsp;·&nbsp; 👍 47,800 / 👎 6,014)
+🟢 **Very Positive** (89% of 57,601 reviews &nbsp;·&nbsp; 👍 51,018 / 👎 6,583)
 
 ---
 
@@ -7520,7 +7630,7 @@
 
 `Casual`  `Action`  `Indie`  `Strategy`  `Puzzle`  `Logic`
 
-🟢 **Positive** (97% of 32 reviews &nbsp;·&nbsp; 👍 31 / 👎 1)
+🟢 **Positive** (97% of 35 reviews &nbsp;·&nbsp; 👍 34 / 👎 1)
 
 ---
 
@@ -7534,6 +7644,8 @@
 
 *A coin-pushing dopamine machine. RACCOIN is a roguelike deckbuilder where you combine special coins with powerful items to trigger wildly satisfying combos. Stack shiny towers, spin the lucky wheel, and shake the machine until all the coins drop.*
 
+🟢 **Very Positive** (83% of 4,433 reviews &nbsp;·&nbsp; 👍 3,667 / 👎 766)
+
 ---
 
 ### <a href="https://store.steampowered.com/app/648800"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/648800/5d02897be07521435a513bdde6505b5e1177e3fa.ico" width="32" height="32"></a> [Raft](https://store.steampowered.com/app/648800)
@@ -7546,7 +7658,7 @@
 
 `Survival`  `Multiplayer`  `Open World Survival Craft`  `Co-op`  `Crafting`  `Open World`
 
-🟢 **Very Positive** (93% of 346,359 reviews &nbsp;·&nbsp; 👍 323,198 / 👎 23,161)
+🟢 **Very Positive** (93% of 376,504 reviews &nbsp;·&nbsp; 👍 350,183 / 👎 26,321)
 
 ---
 
@@ -7560,7 +7672,7 @@
 
 `Simulation`  `Strategy`  `Trains`  `Management`  `Western`
 
-🟡 **Mixed** (60% of 253 reviews &nbsp;·&nbsp; 👍 152 / 👎 101)
+🟡 **Mixed** (61% of 261 reviews &nbsp;·&nbsp; 👍 159 / 👎 102)
 
 🟡 **Metacritic:** [50](https://www.metacritic.com/game/pc/railroad-pioneer?ftag=MCD-06-10aaa1f)
 
@@ -7576,7 +7688,7 @@
 
 `Action`  `Platformer`  `2D Platformer`  `2D`  `Linear`  `Singleplayer`
 
-🟢 **Positive** (100% of 14 reviews &nbsp;·&nbsp; 👍 14 / 👎 0)
+🟢 **Very Positive** (87% of 1,968 reviews &nbsp;·&nbsp; 👍 1,710 / 👎 258)
 
 ---
 
@@ -7590,7 +7702,7 @@
 
 `FPS`  `War`  `Singleplayer`  `Shooter`  `Military`  `Action`
 
-🟢 **Overwhelmingly Positive** (97% of 73,605 reviews &nbsp;·&nbsp; 👍 71,341 / 👎 2,264)
+🟢 **Overwhelmingly Positive** (97% of 79,725 reviews &nbsp;·&nbsp; 👍 77,108 / 👎 2,617)
 
 ---
 
@@ -7604,7 +7716,7 @@
 
 `Rogue-like`  `Co-op`  `Action Roguelike`  `Action`  `Multiplayer`  `Online Co-Op`
 
-🟢 **Very Positive** (80% of 16,153 reviews &nbsp;·&nbsp; 👍 12,942 / 👎 3,211)
+🟡 **Mostly Positive** (80% of 22,342 reviews &nbsp;·&nbsp; 👍 17,839 / 👎 4,503)
 
 🟢 **Metacritic:** [84](https://www.metacritic.com/game/pc/ravenswatch?ftag=MCD-06-10aaa1f)
 
@@ -7620,7 +7732,7 @@
 
 `Tactical`  `Realistic`  `FPS`  `Shooter`  `Multiplayer`  `Co-op`
 
-🟢 **Very Positive** (89% of 236,196 reviews &nbsp;·&nbsp; 👍 210,654 / 👎 25,542)
+🟡 **Mostly Positive** (79% of 340,588 reviews &nbsp;·&nbsp; 👍 267,401 / 👎 73,187)
 
 ---
 
@@ -7634,7 +7746,7 @@
 
 `Pixel Graphics`  `MMORPG`  `Free to Play`  `Rogue-like`  `Perma Death`  `Action Roguelike`
 
-🟢 **Very Positive** (83% of 46,620 reviews &nbsp;·&nbsp; 👍 38,723 / 👎 7,897)
+🟢 **Very Positive** (83% of 47,654 reviews &nbsp;·&nbsp; 👍 39,442 / 👎 8,212)
 
 🟢 **Metacritic:** [82](https://www.metacritic.com/game/pc/realm-of-the-mad-god?ftag=MCD-06-10aaa1f)
 
@@ -7650,7 +7762,7 @@
 
 `Action`  `Destruction`  `Sci-fi`  `Third Person`  `Third-Person Shooter`  `Singleplayer`
 
-🟡 **Mostly Positive** (73% of 4,851 reviews &nbsp;·&nbsp; 👍 3,537 / 👎 1,314)
+🟡 **Mostly Positive** (73% of 5,005 reviews &nbsp;·&nbsp; 👍 3,635 / 👎 1,370)
 
 🟡 **Metacritic:** [74](https://www.metacritic.com/game/pc/red-faction-armageddon?ftag=MCD-06-10aaa1f)
 
@@ -7664,6 +7776,8 @@
 
 *Rematch is an online multiplayer football game. Control one player and compete with your team in fast-paced 5v5 matches from an immersive third-person perspective. Team up with your friends and join the action.*
 
+🟡 **Mixed** (69% of 52,168 reviews &nbsp;·&nbsp; 👍 35,987 / 👎 16,181)
+
 ---
 
 ### <a href="https://store.steampowered.com/app/1282100"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1282100/e8ea92bb3c60e1073c4fa5dc6e6e51b0595b1648.ico" width="32" height="32"></a> [Remnant II](https://store.steampowered.com/app/1282100)
@@ -7676,7 +7790,7 @@
 
 `Souls-like`  `Co-op`  `Action`  `Adventure`  `Third-Person Shooter`  `RPG`
 
-🟢 **Very Positive** (83% of 60,363 reviews &nbsp;·&nbsp; 👍 50,249 / 👎 10,114)
+🟢 **Very Positive** (82% of 67,928 reviews &nbsp;·&nbsp; 👍 55,945 / 👎 11,983)
 
 ---
 
@@ -7690,7 +7804,7 @@
 
 `Horror`  `Online Co-Op`  `Multiplayer`  `Comedy`  `Co-op`  `Physics`
 
-🟢 **Overwhelmingly Positive** (97% of 185,642 reviews &nbsp;·&nbsp; 👍 179,154 / 👎 6,488)
+🟢 **Overwhelmingly Positive** (96% of 414,843 reviews &nbsp;·&nbsp; 👍 398,440 / 👎 16,403)
 
 ---
 
@@ -7704,7 +7818,7 @@
 
 `Free to Play`  `Indie`  `Action`  `Mod`  `Puzzle`  `First-Person`
 
-🟢 **Very Positive** (92% of 418 reviews &nbsp;·&nbsp; 👍 385 / 👎 33)
+🟢 **Very Positive** (91% of 1,347 reviews &nbsp;·&nbsp; 👍 1,224 / 👎 123)
 
 ---
 
@@ -7718,7 +7832,7 @@
 
 `Action`  `FPS`  `Multiplayer`  `Classic`  `First-Person`  `Sci-fi`
 
-🟢 **Very Positive** (83% of 6,028 reviews &nbsp;·&nbsp; 👍 4,989 / 👎 1,039)
+🟢 **Very Positive** (83% of 6,254 reviews &nbsp;·&nbsp; 👍 5,200 / 👎 1,054)
 
 ---
 
@@ -7732,7 +7846,7 @@
 
 `Strategy`  `RTS`  `Classic`  `Historical`  `Multiplayer`  `Nostalgia`
 
-🟢 **Overwhelmingly Positive** (95% of 14,744 reviews &nbsp;·&nbsp; 👍 13,962 / 👎 782)
+🟢 **Very Positive** (95% of 15,813 reviews &nbsp;·&nbsp; 👍 14,970 / 👎 843)
 
 🟢 **Metacritic:** [89](https://www.metacritic.com/game/pc/rise-of-nations?ftag=MCD-06-10aaa1f)
 
@@ -7748,7 +7862,7 @@
 
 `RPG`  `Open World`  `Gothic`  `Fantasy`  `Adventure`  `Singleplayer`
 
-🟢 **Very Positive** (89% of 9,840 reviews &nbsp;·&nbsp; 👍 8,736 / 👎 1,104)
+🟢 **Very Positive** (89% of 10,764 reviews &nbsp;·&nbsp; 👍 9,559 / 👎 1,205)
 
 🟢 **Metacritic:** [77](https://www.metacritic.com/game/pc/risen?ftag=MCD-06-10aaa1f)
 
@@ -7764,7 +7878,7 @@
 
 `RPG`  `Pirates`  `Open World`  `Adventure`  `Third Person`  `Singleplayer`
 
-🟢 **Very Positive** (80% of 6,357 reviews &nbsp;·&nbsp; 👍 5,082 / 👎 1,275)
+🟡 **Mostly Positive** (80% of 6,763 reviews &nbsp;·&nbsp; 👍 5,384 / 👎 1,379)
 
 🟡 **Metacritic:** [69](https://www.metacritic.com/game/pc/risen-2-dark-waters?ftag=MCD-06-10aaa1f)
 
@@ -7780,7 +7894,7 @@
 
 `RPG`  `Open World`  `Gothic`  `Adventure`  `Atmospheric`  `Singleplayer`
 
-🟡 **Mostly Positive** (74% of 6,113 reviews &nbsp;·&nbsp; 👍 4,553 / 👎 1,560)
+🟡 **Mostly Positive** (74% of 6,453 reviews &nbsp;·&nbsp; 👍 4,798 / 👎 1,655)
 
 🟡 **Metacritic:** [65](https://www.metacritic.com/game/pc/risen-3-titan-lords?ftag=MCD-06-10aaa1f)
 
@@ -7796,7 +7910,7 @@
 
 `FPS`  `Wargame`  `Military`  `Massively Multiplayer`  `Cold War`  `Immersive Sim`
 
-🟢 **Very Positive** (87% of 57,563 reviews &nbsp;·&nbsp; 👍 49,952 / 👎 7,611)
+🟢 **Very Positive** (87% of 59,052 reviews &nbsp;·&nbsp; 👍 51,388 / 👎 7,664)
 
 🟢 **Metacritic:** [81](https://www.metacritic.com/game/pc/rising-storm-2-vietnam?ftag=MCD-06-10aaa1f)
 
@@ -7812,7 +7926,7 @@
 
 `World War II`  `Realistic`  `Multiplayer`  `FPS`  `Wargame`  `Team-Based`
 
-🟢 **Very Positive** (92% of 37,628 reviews &nbsp;·&nbsp; 👍 34,765 / 👎 2,863)
+🟢 **Very Positive** (93% of 38,090 reviews &nbsp;·&nbsp; 👍 35,268 / 👎 2,822)
 
 🟢 **Metacritic:** [76](https://www.metacritic.com/game/pc/red-orchestra-2-heroes-of-stalingrad?ftag=MCD-06-10aaa1f)
 
@@ -7828,7 +7942,7 @@
 
 `Open World Survival Craft`  `Mining`  `Relaxing`  `Building`  `Voxel`  `Base-Building`
 
-🟢 **Very Positive** (85% of 5,335 reviews &nbsp;·&nbsp; 👍 4,522 / 👎 813)
+🟢 **Very Positive** (86% of 5,958 reviews &nbsp;·&nbsp; 👍 5,108 / 👎 850)
 
 ---
 
@@ -7842,7 +7956,7 @@
 
 `Third-Person Shooter`  `Action Roguelike`  `Multiplayer`  `Co-op`  `Action`  `Rogue-lite`
 
-🟢 **Very Positive** (93% of 313,577 reviews &nbsp;·&nbsp; 👍 293,127 / 👎 20,450)
+🟢 **Very Positive** (94% of 351,073 reviews &nbsp;·&nbsp; 👍 329,334 / 👎 21,739)
 
 🟢 **Metacritic:** [85](https://www.metacritic.com/game/pc/risk-of-rain-2?ftag=MCD-06-10aaa1f)
 
@@ -7856,6 +7970,8 @@
 
 *Road to Vostok is a hardcore single-player survival game set in a post-apocalyptic border zone between Finland and Russia. Survive, loot, plan and prepare to cross the border into Vostok, a permadeath zone where one mistake can end it all.*
 
+🟢 **Very Positive** (84% of 8,565 reviews &nbsp;·&nbsp; 👍 7,227 / 👎 1,338)
+
 ---
 
 ### <a href="https://store.steampowered.com/app/252950"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/252950/3ea06e4358d60a692914fd961298de33ad4073b2.ico" width="32" height="32"></a> [Rocket League](https://store.steampowered.com/app/252950)
@@ -7868,7 +7984,7 @@
 
 `Multiplayer`  `Football (Soccer)`  `Competitive`  `Sports`  `Racing`  `Team-Based`
 
-🟢 **Very Positive** (87% of 583,220 reviews &nbsp;·&nbsp; 👍 509,445 / 👎 73,775)
+🟢 **Very Positive** (88% of 579,816 reviews &nbsp;·&nbsp; 👍 508,224 / 👎 71,592)
 
 🟢 **Metacritic:** [86](https://www.metacritic.com/game/pc/rocket-league?ftag=MCD-06-10aaa1f)
 
@@ -7884,7 +8000,7 @@
 
 `Simulation`  `Management`  `Classic`  `Sandbox`  `Strategy`  `Singleplayer`
 
-🟢 **Very Positive** (89% of 5,445 reviews &nbsp;·&nbsp; 👍 4,864 / 👎 581)
+🟢 **Very Positive** (90% of 5,832 reviews &nbsp;·&nbsp; 👍 5,228 / 👎 604)
 
 🟡 **Metacritic:** [74](https://www.metacritic.com/game/pc/rollercoaster-tycoon-2?ftag=MCD-06-10aaa1f)
 
@@ -7914,7 +8030,7 @@
 
 `Multiplayer`  `Fighting`  `Local Multiplayer`  `2D Fighter`  `Deckbuilding`  `Rogue-lite`
 
-🟢 **Overwhelmingly Positive** (95% of 36,658 reviews &nbsp;·&nbsp; 👍 34,893 / 👎 1,765)
+🟢 **Overwhelmingly Positive** (95% of 44,036 reviews &nbsp;·&nbsp; 👍 41,942 / 👎 2,094)
 
 ---
 
@@ -7928,7 +8044,7 @@
 
 `Survival`  `Crafting`  `Multiplayer`  `Open World`  `Open World Survival Craft`  `Building`
 
-🟢 **Very Positive** (87% of 1,227,784 reviews &nbsp;·&nbsp; 👍 1,071,135 / 👎 156,649)
+🟢 **Very Positive** (87% of 1,387,045 reviews &nbsp;·&nbsp; 👍 1,204,039 / 👎 183,006)
 
 🟡 **Metacritic:** [69](https://www.metacritic.com/game/pc/rust?ftag=MCD-06-10aaa1f)
 
@@ -7944,7 +8060,7 @@
 
 `Action`  `Hack and Slash`  `Anime`  `Female Protagonist`  `Co-op`  `Multiplayer`
 
-🟢 **Very Positive** (81% of 11,553 reviews &nbsp;·&nbsp; 👍 9,344 / 👎 2,209)
+🟢 **Very Positive** (81% of 11,623 reviews &nbsp;·&nbsp; 👍 9,391 / 👎 2,232)
 
 ---
 
@@ -7960,7 +8076,7 @@
 
 `RPG`  `Open World`  `Hack and Slash`  `Action RPG`  `Multiplayer`  `Co-op`
 
-🟡 **Mostly Positive** (76% of 3,474 reviews &nbsp;·&nbsp; 👍 2,637 / 👎 837)
+🟡 **Mostly Positive** (76% of 3,706 reviews &nbsp;·&nbsp; 👍 2,823 / 👎 883)
 
 ---
 
@@ -7974,7 +8090,7 @@
 
 `RPG`  `Open World`  `Hack and Slash`  `Action`  `Classic`  `Fantasy`
 
-🟢 **Very Positive** (85% of 4,210 reviews &nbsp;·&nbsp; 👍 3,597 / 👎 613)
+🟢 **Very Positive** (85% of 4,594 reviews &nbsp;·&nbsp; 👍 3,920 / 👎 674)
 
 🟡 **Metacritic:** [74](https://www.metacritic.com/game/pc/sacred?ftag=MCD-06-10aaa1f)
 
@@ -7990,7 +8106,7 @@
 
 `Open World`  `Action`  `Character Customization`  `Sandbox`  `Third-Person Shooter`  `Comedy`
 
-🟡 **Mostly Positive** (75% of 20,466 reviews &nbsp;·&nbsp; 👍 15,420 / 👎 5,046)
+🟡 **Mostly Positive** (76% of 21,661 reviews &nbsp;·&nbsp; 👍 16,416 / 👎 5,245)
 
 🟡 **Metacritic:** [72](https://www.metacritic.com/game/pc/saints-row-2?ftag=MCD-06-10aaa1f)
 
@@ -8006,7 +8122,7 @@
 
 `Open World`  `Action`  `Comedy`  `Co-op`  `Third-Person Shooter`  `Character Customization`
 
-🟢 **Very Positive** (88% of 77,144 reviews &nbsp;·&nbsp; 👍 67,768 / 👎 9,376)
+🟢 **Very Positive** (88% of 77,558 reviews &nbsp;·&nbsp; 👍 67,984 / 👎 9,574)
 
 🟢 **Metacritic:** [86](https://www.metacritic.com/game/pc/saints-row-iv?ftag=MCD-06-10aaa1f)
 
@@ -8022,7 +8138,7 @@
 
 `Sandbox`  `Pixel Graphics`  `Simulation`  `Relaxing`  `Physics`  `Electronic`
 
-🟢 **Very Positive** (94% of 857 reviews &nbsp;·&nbsp; 👍 808 / 👎 49)
+🟢 **Very Positive** (94% of 1,697 reviews &nbsp;·&nbsp; 👍 1,591 / 👎 106)
 
 ---
 
@@ -8036,7 +8152,7 @@
 
 `Cyberpunk`  `Strategy`  `Action`  `Sci-fi`  `Indie`  `Tactical`
 
-🟡 **Mostly Positive** (71% of 5,229 reviews &nbsp;·&nbsp; 👍 3,737 / 👎 1,492)
+🟡 **Mostly Positive** (71% of 5,347 reviews &nbsp;·&nbsp; 👍 3,819 / 👎 1,528)
 
 🟢 **Metacritic:** [75](https://www.metacritic.com/game/pc/satellite-reign?ftag=MCD-06-10aaa1f)
 
@@ -8052,7 +8168,7 @@
 
 `Simulation`  `Co-op`  `Crime`  `Multiplayer`  `Open World`  `Management`
 
-🟢 **Overwhelmingly Positive** (98% of 204,041 reviews &nbsp;·&nbsp; 👍 200,803 / 👎 3,238)
+🟢 **Overwhelmingly Positive** (98% of 310,867 reviews &nbsp;·&nbsp; 👍 304,062 / 👎 6,805)
 
 ---
 
@@ -8066,7 +8182,7 @@
 
 `Early Access`  `Strategy`  `Co-op`  `Horror`  `Shooter`  `Tactical`
 
-🟢 **Very Positive** (80% of 12,678 reviews &nbsp;·&nbsp; 👍 10,178 / 👎 2,500)
+🟡 **Mostly Positive** (79% of 15,111 reviews &nbsp;·&nbsp; 👍 12,013 / 👎 3,098)
 
 ---
 
@@ -8080,7 +8196,7 @@
 
 `Free to Play`  `Multiplayer`  `Horror`  `First-Person`  `Co-op`  `Survival Horror`
 
-🟢 **Very Positive** (91% of 214,309 reviews &nbsp;·&nbsp; 👍 195,923 / 👎 18,386)
+🟢 **Very Positive** (91% of 232,811 reviews &nbsp;·&nbsp; 👍 212,019 / 👎 20,792)
 
 ---
 
@@ -8094,7 +8210,7 @@
 
 `Adventure`  `Indie`  `Action`  `Robots`  `3D Platformer`  `Exploration`
 
-🟡 **Mostly Positive** (76% of 1,222 reviews &nbsp;·&nbsp; 👍 923 / 👎 299)
+🟡 **Mostly Positive** (75% of 1,253 reviews &nbsp;·&nbsp; 👍 943 / 👎 310)
 
 🟡 **Metacritic:** [58](https://www.metacritic.com/game/pc/scrap-garden?ftag=MCD-06-10aaa1f)
 
@@ -8110,7 +8226,7 @@
 
 `Building`  `Sandbox`  `Multiplayer`  `Survival`  `Open World`  `Physics`
 
-🟢 **Very Positive** (92% of 113,283 reviews &nbsp;·&nbsp; 👍 104,512 / 👎 8,771)
+🟢 **Very Positive** (92% of 120,872 reviews &nbsp;·&nbsp; 👍 111,153 / 👎 9,719)
 
 ---
 
@@ -8121,6 +8237,8 @@
 **Dev:** Lunch Money Games &nbsp;·&nbsp; **Released:** Mar 18, 2026 &nbsp;·&nbsp; **Price:** $6.99
 
 *Scritchy Scratchy is a super-satisfying scratch card incremental game. Buy stacks of scratch-offs, unlock auto-scratching, and chase massive jackpots. Will you play it safe or go all-in?*
+
+🟢 **Very Positive** (95% of 14,202 reviews &nbsp;·&nbsp; 👍 13,427 / 👎 775)
 
 ---
 
@@ -8134,7 +8252,7 @@
 
 `Multiplayer`  `Open World`  `Adventure`  `Pirates`  `Co-op`  `Online Co-Op`
 
-🟢 **Very Positive** (89% of 355,238 reviews &nbsp;·&nbsp; 👍 317,074 / 👎 38,164)
+🟢 **Very Positive** (89% of 371,843 reviews &nbsp;·&nbsp; 👍 329,641 / 👎 42,202)
 
 ---
 
@@ -8148,7 +8266,7 @@
 
 `Exploration`  `Puzzle`  `Hidden Object`  `Point & Click`  `Female Protagonist`  `First-Person`
 
-🟡 **Mostly Positive** (74% of 1,320 reviews &nbsp;·&nbsp; 👍 972 / 👎 348)
+🟡 **Mostly Positive** (73% of 1,381 reviews &nbsp;·&nbsp; 👍 1,013 / 👎 368)
 
 ---
 
@@ -8162,7 +8280,7 @@
 
 `Action`  `FPS`  `Co-op`  `Comedy`  `Multiplayer`  `Shooter`
 
-🟢 **Very Positive** (90% of 12,668 reviews &nbsp;·&nbsp; 👍 11,356 / 👎 1,312)
+🟢 **Very Positive** (90% of 14,135 reviews &nbsp;·&nbsp; 👍 12,707 / 👎 1,428)
 
 🟡 **Metacritic:** [74](https://www.metacritic.com/game/pc/serious-sam-ii?ftag=MCD-06-10aaa1f)
 
@@ -8178,7 +8296,7 @@
 
 `Action`  `Gore`  `FPS`  `Violent`  `Indie`  `VR`
 
-🟢 **Very Positive** (93% of 5,025 reviews &nbsp;·&nbsp; 👍 4,674 / 👎 351)
+🟢 **Very Positive** (93% of 5,540 reviews &nbsp;·&nbsp; 👍 5,139 / 👎 401)
 
 ---
 
@@ -8192,7 +8310,7 @@
 
 `FPS`  `Action`  `Shooter`  `Co-op`  `Gore`  `Multiplayer`
 
-🟢 **Very Positive** (93% of 8,191 reviews &nbsp;·&nbsp; 👍 7,652 / 👎 539)
+🟢 **Very Positive** (93% of 8,918 reviews &nbsp;·&nbsp; 👍 8,300 / 👎 618)
 
 🟡 **Metacritic:** [68](https://www.metacritic.com/game/pc/serious-sam-hd-the-first-encounter?ftag=MCD-06-10aaa1f)
 
@@ -8206,6 +8324,8 @@
 
 *Sex With Hitler is a unique blend of visual novel and top-down shooter.You will fight in the fields of World War II and meet five unique heroines, among whom you will find both friends and enemies.*
 
+🟢 **Very Positive** (81% of 6,339 reviews &nbsp;·&nbsp; 👍 5,115 / 👎 1,224)
+
 ---
 
 ### <a href="https://store.steampowered.com/app/233130"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/233130/db3e121e3f5e168b58931784e2fcc50f719e16be.ico" width="32" height="32"></a> [Shadow Warrior](https://store.steampowered.com/app/233130)
@@ -8218,7 +8338,7 @@
 
 `Action`  `FPS`  `Swordplay`  `Gore`  `Comedy`  `First-Person`
 
-🟢 **Very Positive** (92% of 26,151 reviews &nbsp;·&nbsp; 👍 24,071 / 👎 2,080)
+🟢 **Very Positive** (92% of 26,698 reviews &nbsp;·&nbsp; 👍 24,540 / 👎 2,158)
 
 🟡 **Metacritic:** [74](https://www.metacritic.com/game/pc/shadow-warrior?ftag=MCD-06-10aaa1f)
 
@@ -8234,7 +8354,7 @@
 
 `Tanks`  `Multiplayer`  `Strategy`  `2D`  `Action`  `Turn-Based`
 
-🟢 **Very Positive** (93% of 34,893 reviews &nbsp;·&nbsp; 👍 32,540 / 👎 2,353)
+🟢 **Very Positive** (93% of 35,562 reviews &nbsp;·&nbsp; 👍 33,063 / 👎 2,499)
 
 ---
 
@@ -8248,7 +8368,7 @@
 
 `Programming`  `Automation`  `Puzzle`  `Logic`  `Simulation`  `Difficult`
 
-🟢 **Overwhelmingly Positive** (95% of 4,163 reviews &nbsp;·&nbsp; 👍 3,958 / 👎 205)
+🟢 **Very Positive** (95% of 4,494 reviews &nbsp;·&nbsp; 👍 4,263 / 👎 231)
 
 ---
 
@@ -8262,7 +8382,7 @@
 
 `Chess`  `Turn-Based Strategy`  `Strategy`  `Rogue-like`  `Action Roguelike`  `Arcade`
 
-🟢 **Very Positive** (92% of 6,420 reviews &nbsp;·&nbsp; 👍 5,883 / 👎 537)
+🟢 **Very Positive** (91% of 7,379 reviews &nbsp;·&nbsp; 👍 6,715 / 👎 664)
 
 ---
 
@@ -8276,7 +8396,7 @@
 
 `Platformer`  `Pixel Graphics`  `Retro`  `Great Soundtrack`  `Indie`  `2D`
 
-🟢 **Overwhelmingly Positive** (96% of 16,112 reviews &nbsp;·&nbsp; 👍 15,438 / 👎 674)
+🟢 **Overwhelmingly Positive** (95% of 16,865 reviews &nbsp;·&nbsp; 👍 16,106 / 👎 759)
 
 🟢 **Metacritic:** [85](https://www.metacritic.com/game/pc/shovel-knight?ftag=MCD-06-10aaa1f)
 
@@ -8292,7 +8412,7 @@
 
 `Strategy`  `Turn-Based Strategy`  `Turn-Based`  `Classic`  `4X`  `Historical`
 
-🟢 **Very Positive** (90% of 7,231 reviews &nbsp;·&nbsp; 👍 6,485 / 👎 746)
+🟢 **Very Positive** (89% of 7,749 reviews &nbsp;·&nbsp; 👍 6,931 / 👎 818)
 
 🟢 **Metacritic:** [90](https://www.metacritic.com/game/pc/sid-meiers-civilization-iii?ftag=MCD-06-10aaa1f)
 
@@ -8308,7 +8428,7 @@
 
 `Turn-Based Strategy`  `Strategy`  `Turn-Based`  `Multiplayer`  `Historical`  `4X`
 
-🟢 **Overwhelmingly Positive** (96% of 204,265 reviews &nbsp;·&nbsp; 👍 195,724 / 👎 8,541)
+🟢 **Overwhelmingly Positive** (96% of 210,368 reviews &nbsp;·&nbsp; 👍 201,117 / 👎 9,251)
 
 🟢 **Metacritic:** [90](https://www.metacritic.com/game/pc/sid-meiers-civilization-v?ftag=MCD-06-10aaa1f)
 
@@ -8324,7 +8444,7 @@
 
 `Strategy`  `Turn-Based Strategy`  `Multiplayer`  `Historical`  `Grand Strategy`  `Singleplayer`
 
-🟢 **Very Positive** (87% of 349,920 reviews &nbsp;·&nbsp; 👍 304,053 / 👎 45,867)
+🟢 **Very Positive** (86% of 377,259 reviews &nbsp;·&nbsp; 👍 324,824 / 👎 52,435)
 
 🟢 **Metacritic:** [88](https://www.metacritic.com/game/pc/sid-meiers-civilization-vi?ftag=MCD-06-10aaa1f)
 
@@ -8340,7 +8460,7 @@
 
 `Singleplayer`  `City Builder`  `Immersive Sim`  `Resource Management`  `Survival`  `Economy`
 
-🟡 **Mostly Positive** (79% of 1,641 reviews &nbsp;·&nbsp; 👍 1,295 / 👎 346)
+🟡 **Mostly Positive** (79% of 1,763 reviews &nbsp;·&nbsp; 👍 1,397 / 👎 366)
 
 ---
 
@@ -8368,7 +8488,7 @@
 
 `RPG`  `Action RPG`  `Open World`  `Co-op`  `Action`  `Multiplayer`
 
-🟢 **Very Positive** (83% of 1,593 reviews &nbsp;·&nbsp; 👍 1,328 / 👎 265)
+🟢 **Very Positive** (82% of 1,908 reviews &nbsp;·&nbsp; 👍 1,558 / 👎 350)
 
 ---
 
@@ -8382,7 +8502,7 @@
 
 `Cute`  `Exploration`  `Adventure`  `Singleplayer`  `Open World`  `First-Person`
 
-🟢 **Overwhelmingly Positive** (98% of 138,097 reviews &nbsp;·&nbsp; 👍 135,271 / 👎 2,826)
+🟢 **Overwhelmingly Positive** (98% of 155,972 reviews &nbsp;·&nbsp; 👍 152,850 / 👎 3,122)
 
 🟢 **Metacritic:** [81](https://www.metacritic.com/game/pc/slime-rancher?ftag=MCD-06-10aaa1f)
 
@@ -8398,7 +8518,7 @@
 
 `Action`  `Sniper`  `FPS`  `World War II`  `Singleplayer`  `Shooter`
 
-🔴 **Mostly Negative** (30% of 1,832 reviews &nbsp;·&nbsp; 👍 554 / 👎 1,278)
+🔴 **Mostly Negative** (30% of 1,871 reviews &nbsp;·&nbsp; 👍 568 / 👎 1,303)
 
 ---
 
@@ -8412,7 +8532,7 @@
 
 `Action`  `Sniper`  `FPS`  `Singleplayer`  `Multiplayer`  `Stealth`
 
-🟡 **Mixed** (58% of 8,125 reviews &nbsp;·&nbsp; 👍 4,744 / 👎 3,381)
+🟡 **Mixed** (59% of 8,775 reviews &nbsp;·&nbsp; 👍 5,137 / 👎 3,638)
 
 🟡 **Metacritic:** [55](https://www.metacritic.com/game/pc/sniper-ghost-warrior?ftag=MCD-06-10aaa1f)
 
@@ -8428,7 +8548,7 @@
 
 `Sniper`  `Action`  `FPS`  `Multiplayer`  `Shooter`  `Stealth`
 
-🟡 **Mostly Positive** (76% of 17,916 reviews &nbsp;·&nbsp; 👍 13,533 / 👎 4,383)
+🟡 **Mostly Positive** (76% of 18,719 reviews &nbsp;·&nbsp; 👍 14,197 / 👎 4,522)
 
 🟡 **Metacritic:** [52](https://www.metacritic.com/game/pc/sniper-ghost-warrior-2?ftag=MCD-06-10aaa1f)
 
@@ -8442,6 +8562,8 @@
 
 *Snowdrop Escape is a story-driven mod that unfolds a few years before the events of Half-Life 2. You take on the role of a professional mercenary named James, hired by an organization opposing both the alien Invaders and the rebels.*
 
+🟢 **Very Positive** (88% of 3,288 reviews &nbsp;·&nbsp; 👍 2,887 / 👎 401)
+
 ---
 
 ### <a href="https://store.steampowered.com/app/775320"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/775320/5f63042385300a1f4ed2f291c3347d953d74edd7.ico" width="32" height="32"></a> [SnowFall](https://store.steampowered.com/app/775320)
@@ -8450,7 +8572,7 @@
 
 `Action`  `Indie`  `Adventure`  `2D`  `Pixel Graphics`  `Platformer`
 
-🟢 **Very Positive** (86% of 73 reviews &nbsp;·&nbsp; 👍 63 / 👎 10)
+🟢 **Very Positive** (85% of 61 reviews &nbsp;·&nbsp; 👍 52 / 👎 9)
 
 ---
 
@@ -8464,7 +8586,7 @@
 
 `Survival`  `Open World`  `Multiplayer`  `Co-op`  `Survival Horror`  `Base-Building`
 
-🟢 **Very Positive** (88% of 253,546 reviews &nbsp;·&nbsp; 👍 222,495 / 👎 31,051)
+🟢 **Very Positive** (88% of 316,355 reviews &nbsp;·&nbsp; 👍 279,748 / 👎 36,607)
 
 ---
 
@@ -8478,7 +8600,7 @@
 
 `Story Rich`  `Third-Person Shooter`  `Action`  `Psychological`  `Atmospheric`  `Singleplayer`
 
-🟢 **Very Positive** (93% of 54,909 reviews &nbsp;·&nbsp; 👍 51,267 / 👎 3,642)
+🟢 **Very Positive** (93% of 56,242 reviews &nbsp;·&nbsp; 👍 52,515 / 👎 3,727)
 
 🟢 **Metacritic:** [76](https://www.metacritic.com/game/pc/spec-ops-the-line?ftag=MCD-06-10aaa1f)
 
@@ -8494,7 +8616,7 @@
 
 `Local Multiplayer`  `Physics`  `2D Fighter`  `Fighting`  `Funny`  `PvP`
 
-🟢 **Very Positive** (93% of 5,587 reviews &nbsp;·&nbsp; 👍 5,171 / 👎 416)
+🟢 **Very Positive** (93% of 6,345 reviews &nbsp;·&nbsp; 👍 5,879 / 👎 466)
 
 ---
 
@@ -8508,7 +8630,7 @@
 
 `Emotional`  `Story Rich`  `Indie`  `Management`  `Relaxing`  `Building`
 
-🟢 **Overwhelmingly Positive** (95% of 46,417 reviews &nbsp;·&nbsp; 👍 44,192 / 👎 2,225)
+🟢 **Very Positive** (95% of 52,992 reviews &nbsp;·&nbsp; 👍 50,318 / 👎 2,674)
 
 🟢 **Metacritic:** [84](https://www.metacritic.com/game/pc/spiritfarer?ftag=MCD-06-10aaa1f)
 
@@ -8524,7 +8646,7 @@
 
 `Co-op`  `Split Screen`  `Female Protagonist`  `Action-Adventure`  `3D Platformer`  `Fantasy`
 
-🟢 **Overwhelmingly Positive** (98% of 81,558 reviews &nbsp;·&nbsp; 👍 79,546 / 👎 2,012)
+🟢 **Overwhelmingly Positive** (97% of 124,767 reviews &nbsp;·&nbsp; 👍 120,964 / 👎 3,803)
 
 ---
 
@@ -8538,7 +8660,7 @@
 
 `Free to Play`  `FPS`  `Multiplayer`  `Arena Shooter`  `Shooter`  `Action`
 
-🟢 **Very Positive** (92% of 111,740 reviews &nbsp;·&nbsp; 👍 102,336 / 👎 9,404)
+🟢 **Very Positive** (91% of 110,565 reviews &nbsp;·&nbsp; 👍 101,061 / 👎 9,504)
 
 ---
 
@@ -8549,6 +8671,8 @@
 **Dev:** 1047 Games &nbsp;·&nbsp; **Released:** May 22, 2025 &nbsp;·&nbsp; **Price:** Free
 
 *SPLITGATE: Arena Reloaded fuses the best of Splitgate 1 &amp; 2, bringing back that classic arena shooter feel. Jump into fast-paced arena modes or drop into Arena Royale, a battle royale built on arena DNA. Play Season 2 now.*
+
+🟡 **Mixed** (64% of 22,116 reviews &nbsp;·&nbsp; 👍 14,126 / 👎 7,990)
 
 ---
 
@@ -8562,7 +8686,7 @@
 
 `God Game`  `Open World`  `Sandbox`  `Colony Sim`  `Exploration`  `Simulation`
 
-🟢 **Very Positive** (92% of 66,120 reviews &nbsp;·&nbsp; 👍 61,124 / 👎 4,996)
+🟢 **Very Positive** (93% of 72,340 reviews &nbsp;·&nbsp; 👍 66,988 / 👎 5,352)
 
 🟢 **Metacritic:** [84](https://www.metacritic.com/game/pc/spore?ftag=MCD-06-10aaa1f)
 
@@ -8578,7 +8702,7 @@
 
 `Simulation`  `God Game`  `Open World`  `Singleplayer`  `Adventure`  `Funny`
 
-🟢 **Very Positive** (89% of 2,026 reviews &nbsp;·&nbsp; 👍 1,809 / 👎 217)
+🟢 **Very Positive** (89% of 2,184 reviews &nbsp;·&nbsp; 👍 1,951 / 👎 233)
 
 🟡 **Metacritic:** [53](https://www.metacritic.com/game/pc/spore-creepy-cute-parts-pack?ftag=MCD-06-10aaa1f)
 
@@ -8594,7 +8718,7 @@
 
 `Simulation`  `Action`  `Space`  `Adventure`  `Exploration`  `Open World`
 
-🟢 **Very Positive** (89% of 7,230 reviews &nbsp;·&nbsp; 👍 6,439 / 👎 791)
+🟢 **Very Positive** (89% of 7,743 reviews &nbsp;·&nbsp; 👍 6,925 / 👎 818)
 
 🟡 **Metacritic:** [70](https://www.metacritic.com/game/pc/spore-galactic-adventures?ftag=MCD-06-10aaa1f)
 
@@ -8610,7 +8734,7 @@
 
 `Early Access`  `Sandbox`  `Building`  `Military`  `War`  `Vehicular Combat`
 
-🟢 **Very Positive** (94% of 10,645 reviews &nbsp;·&nbsp; 👍 9,979 / 👎 666)
+🟢 **Very Positive** (93% of 12,731 reviews &nbsp;·&nbsp; 👍 11,798 / 👎 933)
 
 ---
 
@@ -8624,7 +8748,7 @@
 
 `Military`  `Realistic`  `FPS`  `Multiplayer`  `Tactical`  `Shooter`
 
-🟢 **Very Positive** (83% of 210,551 reviews &nbsp;·&nbsp; 👍 175,088 / 👎 35,463)
+🟢 **Very Positive** (81% of 241,181 reviews &nbsp;·&nbsp; 👍 195,884 / 👎 45,297)
 
 ---
 
@@ -8638,7 +8762,7 @@
 
 `World War II`  `FPS`  `Simulation`  `Military`  `Singleplayer`  `Multiplayer`
 
-🟡 **Mostly Positive** (75% of 24,664 reviews &nbsp;·&nbsp; 👍 18,508 / 👎 6,156)
+🟡 **Mostly Positive** (74% of 25,402 reviews &nbsp;·&nbsp; 👍 18,922 / 👎 6,480)
 
 ---
 
@@ -8652,7 +8776,7 @@
 
 `Open World`  `FPS`  `Post-apocalyptic`  `Survival`  `Atmospheric`  `Singleplayer`
 
-🟢 **Very Positive** (81% of 113,346 reviews &nbsp;·&nbsp; 👍 91,274 / 👎 22,072)
+🟡 **Mostly Positive** (80% of 135,370 reviews &nbsp;·&nbsp; 👍 107,980 / 👎 27,390)
 
 ---
 
@@ -8666,7 +8790,7 @@
 
 `Atmospheric`  `Open World`  `Post-apocalyptic`  `FPS`  `Survival`  `Action`
 
-🟢 **Overwhelmingly Positive** (96% of 30,957 reviews &nbsp;·&nbsp; 👍 29,579 / 👎 1,378)
+🟢 **Overwhelmingly Positive** (96% of 31,386 reviews &nbsp;·&nbsp; 👍 30,031 / 👎 1,355)
 
 🟢 **Metacritic:** [80](https://www.metacritic.com/game/pc/stalker-call-of-pripyat?ftag=MCD-06-10aaa1f)
 
@@ -8682,7 +8806,7 @@
 
 `Action`  `Adventure`  `RPG`  `Shooter`  `Exploration`  `FPS`
 
-🟡 **Mixed** (40% of 1,748 reviews &nbsp;·&nbsp; 👍 701 / 👎 1,047)
+🟡 **Mixed** (62% of 4,011 reviews &nbsp;·&nbsp; 👍 2,497 / 👎 1,514)
 
 ---
 
@@ -8696,7 +8820,7 @@
 
 `Open World`  `Atmospheric`  `Post-apocalyptic`  `FPS`  `Survival`  `Action`
 
-🟢 **Very Positive** (85% of 22,254 reviews &nbsp;·&nbsp; 👍 18,987 / 👎 3,267)
+🟢 **Very Positive** (85% of 22,538 reviews &nbsp;·&nbsp; 👍 19,221 / 👎 3,317)
 
 🟢 **Metacritic:** [75](https://www.metacritic.com/game/pc/stalker-clear-sky?ftag=MCD-06-10aaa1f)
 
@@ -8712,7 +8836,7 @@
 
 `Action`  `Adventure`  `RPG`  `Shooter`  `Exploration`  `FPS`
 
-🟡 **Mixed** (42% of 1,373 reviews &nbsp;·&nbsp; 👍 571 / 👎 802)
+🟡 **Mixed** (56% of 3,381 reviews &nbsp;·&nbsp; 👍 1,896 / 👎 1,485)
 
 ---
 
@@ -8726,7 +8850,7 @@
 
 `Atmospheric`  `Post-apocalyptic`  `Open World`  `FPS`  `Survival`  `Action`
 
-🟢 **Overwhelmingly Positive** (95% of 47,291 reviews &nbsp;·&nbsp; 👍 44,761 / 👎 2,530)
+🟢 **Very Positive** (95% of 48,067 reviews &nbsp;·&nbsp; 👍 45,509 / 👎 2,558)
 
 🟢 **Metacritic:** [82](https://www.metacritic.com/game/pc/stalker-shadow-of-chernobyl?ftag=MCD-06-10aaa1f)
 
@@ -8742,7 +8866,7 @@
 
 `Action`  `Adventure`  `RPG`  `Shooter`  `Exploration`  `FPS`
 
-🟡 **Mixed** (45% of 4,606 reviews &nbsp;·&nbsp; 👍 2,068 / 👎 2,538)
+🟡 **Mixed** (62% of 8,449 reviews &nbsp;·&nbsp; 👍 5,208 / 👎 3,241)
 
 ---
 
@@ -8756,7 +8880,7 @@
 
 `Comedy`  `Narration`  `Indie`  `Walking Simulator`  `First-Person`  `Funny`
 
-🟢 **Very Positive** (92% of 44,982 reviews &nbsp;·&nbsp; 👍 41,582 / 👎 3,400)
+🟢 **Very Positive** (92% of 45,706 reviews &nbsp;·&nbsp; 👍 42,254 / 👎 3,452)
 
 🟢 **Metacritic:** [88](https://www.metacritic.com/game/pc/the-stanley-parable?ftag=MCD-06-10aaa1f)
 
@@ -8772,7 +8896,7 @@
 
 `Action`  `Multiplayer`  `Shooter`  `Classic`  `Third-Person Shooter`  `Sci-fi`
 
-🟢 **Overwhelmingly Positive** (95% of 53,287 reviews &nbsp;·&nbsp; 👍 50,396 / 👎 2,891)
+🟢 **Very Positive** (95% of 54,212 reviews &nbsp;·&nbsp; 👍 51,282 / 👎 2,930)
 
 🟢 **Metacritic:** [78](https://www.metacritic.com/game/pc/star-wars-battlefront-ii?ftag=MCD-06-10aaa1f)
 
@@ -8788,7 +8912,7 @@
 
 `Multiplayer`  `Shooter`  `Singleplayer`  `Action`  `Third-Person Shooter`  `Space`
 
-🟢 **Very Positive** (88% of 71,208 reviews &nbsp;·&nbsp; 👍 62,342 / 👎 8,866)
+🟢 **Very Positive** (88% of 99,251 reviews &nbsp;·&nbsp; 👍 87,644 / 👎 11,607)
 
 ---
 
@@ -8802,7 +8926,7 @@
 
 `Action-Adventure`  `Souls-like`  `Third Person`  `Open World`  `Story Rich`  `Swordplay`
 
-🟢 **Very Positive** (89% of 158,579 reviews &nbsp;·&nbsp; 👍 140,485 / 👎 18,094)
+🟢 **Very Positive** (88% of 174,527 reviews &nbsp;·&nbsp; 👍 154,353 / 👎 20,174)
 
 🟢 **Metacritic:** [81](https://www.metacritic.com/game/pc/star-wars-jedi-fallen-order?ftag=MCD-06-10aaa1f)
 
@@ -8818,7 +8942,7 @@
 
 `Action`  `Adventure`  `Souls-like`  `Singleplayer`  `Third Person`  `Open World`
 
-🟡 **Mixed** (69% of 67,054 reviews &nbsp;·&nbsp; 👍 46,131 / 👎 20,923)
+🟡 **Mostly Positive** (71% of 85,195 reviews &nbsp;·&nbsp; 👍 60,429 / 👎 24,766)
 
 ---
 
@@ -8832,7 +8956,7 @@
 
 `Open World Survival Craft`  `Sandbox`  `Survival`  `Space`  `Adventure`  `Crafting`
 
-🟢 **Very Positive** (92% of 164,906 reviews &nbsp;·&nbsp; 👍 152,150 / 👎 12,756)
+🟢 **Very Positive** (90% of 123,218 reviews &nbsp;·&nbsp; 👍 110,871 / 👎 12,347)
 
 🟢 **Metacritic:** [81](https://www.metacritic.com/game/pc/starbound?ftag=MCD-06-10aaa1f)
 
@@ -8848,7 +8972,7 @@
 
 `Farming Sim`  `Pixel Graphics`  `Multiplayer`  `Life Sim`  `RPG`  `Relaxing`
 
-🟢 **Overwhelmingly Positive** (98% of 886,195 reviews &nbsp;·&nbsp; 👍 872,384 / 👎 13,811)
+🟢 **Overwhelmingly Positive** (98% of 1,028,996 reviews &nbsp;·&nbsp; 👍 1,013,342 / 👎 15,654)
 
 🟢 **Metacritic:** [89](https://www.metacritic.com/game/pc/stardew-valley?ftag=MCD-06-10aaa1f)
 
@@ -8862,6 +8986,8 @@
 
 *The Steam Engine Simulator shown on AngeTheGreat's YouTube channel.*
 
+🟢 **Overwhelmingly Positive** (99% of 8,975 reviews &nbsp;·&nbsp; 👍 8,858 / 👎 117)
+
 ---
 
 ### <a href="https://store.steampowered.com/app/252410"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/252410/33c9bca85476738c63ab7f43ca985452f90c29ee.ico" width="32" height="32"></a> [SteamWorld Dig](https://store.steampowered.com/app/252410)
@@ -8874,7 +9000,7 @@
 
 `Platformer`  `Mining`  `Steampunk`  `Metroidvania`  `Indie`  `Adventure`
 
-🟢 **Very Positive** (94% of 8,195 reviews &nbsp;·&nbsp; 👍 7,697 / 👎 498)
+🟢 **Very Positive** (94% of 10,958 reviews &nbsp;·&nbsp; 👍 10,253 / 👎 705)
 
 🟢 **Metacritic:** [76](https://www.metacritic.com/game/pc/steamworld-dig?ftag=MCD-06-10aaa1f)
 
@@ -8890,7 +9016,7 @@
 
 `Multiplayer`  `Funny`  `Fighting`  `Local Multiplayer`  `Action`  `2D Fighter`
 
-🟢 **Very Positive** (94% of 122,658 reviews &nbsp;·&nbsp; 👍 114,720 / 👎 7,938)
+🟢 **Very Positive** (93% of 125,229 reviews &nbsp;·&nbsp; 👍 117,070 / 👎 8,159)
 
 ---
 
@@ -8904,7 +9030,7 @@
 
 `Adventure`  `First-Person`  `Parkour`  `Singleplayer`  `Indie`  `Atmospheric`
 
-🟢 **Very Positive** (92% of 28,916 reviews &nbsp;·&nbsp; 👍 26,479 / 👎 2,437)
+🟢 **Very Positive** (92% of 29,213 reviews &nbsp;·&nbsp; 👍 26,734 / 👎 2,479)
 
 🟡 **Metacritic:** [73](https://www.metacritic.com/game/pc/a-story-about-my-uncle?ftag=MCD-06-10aaa1f)
 
@@ -8920,7 +9046,7 @@
 
 `Strategy`  `Medieval`  `City Builder`  `RTS`  `Multiplayer`  `Simulation`
 
-🟡 **Mostly Positive** (72% of 17,082 reviews &nbsp;·&nbsp; 👍 12,328 / 👎 4,754)
+🟡 **Mostly Positive** (72% of 18,035 reviews &nbsp;·&nbsp; 👍 13,060 / 👎 4,975)
 
 ---
 
@@ -8932,6 +9058,8 @@
 
 *Gird your loins and sharpen your steel! Besiege 20 unique enemy lords and battle friends online, in this expanded remaster of the classic 'castle sim'. Relive history with new units, opponents, visuals, audio, campaigns, skirmish trails, co-op and larger maps.*
 
+🟢 **Very Positive** (92% of 11,371 reviews &nbsp;·&nbsp; 👍 10,516 / 👎 855)
+
 ---
 
 ### <a href="https://store.steampowered.com/app/16700"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/16700/34b8566086de2278b69a5b2b9dacf46fb890c6f5.ico" width="32" height="32"></a> [Stronghold Crusader Extreme HD](https://store.steampowered.com/app/16700)
@@ -8941,6 +9069,8 @@
 **Dev:** Firefly Studios &nbsp;·&nbsp; **Released:** Jul 1, 2008
 
 *Stronghold Crusader Extreme takes the addictive Crusader gameplay to a new level. Featuring massive battles, new outposts and tactical powers to master, Extreme carries on from where Crusader left off. The all-new Extreme trail will provide a stiff challenge to any hardened Crusader player.*
+
+🟢 **Very Positive** (94% of 1,464 reviews &nbsp;·&nbsp; 👍 1,383 / 👎 81)
 
 ---
 
@@ -8954,7 +9084,7 @@
 
 `Military`  `City Builder`  `Real Time Tactics`  `Medieval`  `Colony Sim`  `Building`
 
-🟢 **Overwhelmingly Positive** (98% of 19,811 reviews &nbsp;·&nbsp; 👍 19,346 / 👎 465)
+🟢 **Overwhelmingly Positive** (98% of 21,008 reviews &nbsp;·&nbsp; 👍 20,486 / 👎 522)
 
 🟢 **Metacritic:** [78](http://www.metacritic.com/game/pc/stronghold-crusader)
 
@@ -8970,7 +9100,7 @@
 
 `City Builder`  `Strategy`  `Real Time Tactics`  `Medieval`  `Sandbox`  `Building`
 
-🟢 **Very Positive** (86% of 8,681 reviews &nbsp;·&nbsp; 👍 7,470 / 👎 1,211)
+🟢 **Very Positive** (86% of 10,281 reviews &nbsp;·&nbsp; 👍 8,888 / 👎 1,393)
 
 🟢 **Metacritic:** [80](https://www.metacritic.com/game/pc/stronghold-definitive-edition?ftag=MCD-06-10aaa1f)
 
@@ -8986,7 +9116,7 @@
 
 `Real Time Tactics`  `City Builder`  `Colony Sim`  `Building`  `Sandbox`  `Medieval`
 
-🟢 **Overwhelmingly Positive** (96% of 9,897 reviews &nbsp;·&nbsp; 👍 9,459 / 👎 438)
+🟢 **Overwhelmingly Positive** (96% of 10,412 reviews &nbsp;·&nbsp; 👍 9,948 / 👎 464)
 
 🟢 **Metacritic:** [81](https://www.metacritic.com/game/pc/stronghold?ftag=MCD-06-10aaa1f)
 
@@ -9002,7 +9132,7 @@
 
 `Open World Survival Craft`  `Survival`  `Horror`  `Open World`  `Underwater`  `Exploration`
 
-🟢 **Overwhelmingly Positive** (97% of 313,707 reviews &nbsp;·&nbsp; 👍 304,449 / 👎 9,258)
+🟢 **Overwhelmingly Positive** (97% of 377,869 reviews &nbsp;·&nbsp; 👍 366,881 / 👎 10,988)
 
 🟢 **Metacritic:** [87](https://www.metacritic.com/game/pc/subnautica?ftag=MCD-06-10aaa1f)
 
@@ -9018,7 +9148,7 @@
 
 `Open World Survival Craft`  `Survival`  `Underwater`  `Singleplayer`  `Open World`  `Horror`
 
-🟢 **Very Positive** (91% of 96,660 reviews &nbsp;·&nbsp; 👍 87,607 / 👎 9,053)
+🟢 **Very Positive** (90% of 107,970 reviews &nbsp;·&nbsp; 👍 97,263 / 👎 10,707)
 
 ---
 
@@ -9032,7 +9162,7 @@
 
 `Wholesome`  `Colorful`  `Relaxing`  `Puzzle`  `Casual`  `Abstract`
 
-🟢 **Positive** (84% of 31 reviews &nbsp;·&nbsp; 👍 26 / 👎 5)
+🟡 **Mostly Positive** (79% of 33 reviews &nbsp;·&nbsp; 👍 26 / 👎 7)
 
 ---
 
@@ -9046,7 +9176,7 @@
 
 `Farming Sim`  `Pixel Graphics`  `Multiplayer`  `Life Sim`  `RPG`  `Dating Sim`
 
-🟢 **Very Positive** (82% of 22,456 reviews &nbsp;·&nbsp; 👍 18,523 / 👎 3,933)
+🟢 **Very Positive** (81% of 25,301 reviews &nbsp;·&nbsp; 👍 20,390 / 👎 4,911)
 
 ---
 
@@ -9060,7 +9190,7 @@
 
 `Early Access`  `Open World Survival Craft`  `Survival`  `Co-op`  `Underwater`  `Multiplayer`
 
-🟢 **Very Positive** (82% of 21,419 reviews &nbsp;·&nbsp; 👍 17,523 / 👎 3,896)
+🟢 **Very Positive** (80% of 23,687 reviews &nbsp;·&nbsp; 👍 19,058 / 👎 4,629)
 
 ---
 
@@ -9074,7 +9204,7 @@
 
 `Casual`  `Strategy`  `Indie`  `Card Game`  `Multiplayer`  `Free to Play`
 
-🟡 **Mixed** (61% of 367 reviews &nbsp;·&nbsp; 👍 225 / 👎 142)
+🟡 **Mixed** (62% of 365 reviews &nbsp;·&nbsp; 👍 225 / 👎 140)
 
 ---
 
@@ -9088,7 +9218,7 @@
 
 `Action`  `FPS`  `Bullet Time`  `Time Manipulation`  `Indie`  `Singleplayer`
 
-🟢 **Very Positive** (91% of 38,776 reviews &nbsp;·&nbsp; 👍 35,390 / 👎 3,386)
+🟢 **Very Positive** (92% of 40,559 reviews &nbsp;·&nbsp; 👍 37,122 / 👎 3,437)
 
 🟢 **Metacritic:** [82](https://www.metacritic.com/game/pc/superhot?ftag=MCD-06-10aaa1f)
 
@@ -9104,7 +9234,7 @@
 
 `FPS`  `Time Manipulation`  `Action Roguelike`  `Bullet Time`  `Shooter`  `Action`
 
-🟢 **Very Positive** (84% of 12,015 reviews &nbsp;·&nbsp; 👍 10,143 / 👎 1,872)
+🟢 **Very Positive** (84% of 12,709 reviews &nbsp;·&nbsp; 👍 10,663 / 👎 2,046)
 
 🟢 **Metacritic:** [78](https://www.metacritic.com/game/pc/superhot-mind-control-delete?ftag=MCD-06-10aaa1f)
 
@@ -9120,7 +9250,7 @@
 
 `Puzzle`  `First-Person`  `Surreal`  `Psychological`  `Narration`  `Physics`
 
-🟢 **Overwhelmingly Positive** (95% of 30,151 reviews &nbsp;·&nbsp; 👍 28,522 / 👎 1,629)
+🟢 **Very Positive** (95% of 33,812 reviews &nbsp;·&nbsp; 👍 31,988 / 👎 1,824)
 
 ---
 
@@ -9134,7 +9264,7 @@
 
 `Simulation`  `Management`  `Economy`  `Singleplayer`  `Multiplayer`  `Trading`
 
-🟢 **Very Positive** (94% of 68,341 reviews &nbsp;·&nbsp; 👍 64,104 / 👎 4,237)
+🟢 **Very Positive** (92% of 83,508 reviews &nbsp;·&nbsp; 👍 76,881 / 👎 6,627)
 
 ---
 
@@ -9145,6 +9275,8 @@
 **Dev:** Theorycraft Games &nbsp;·&nbsp; **Released:** Jul 23, 2025
 
 *THE ACTION BATTLE ROYALE WITH ENDLESS PLAYSTYLES. Slam into all-out, multi-squad teamfights in this lethal, fast-paced brawl in the sky. Unlock gear, theorycraft builds, and bring your gamebreaking loadout into every match.*
+
+🟢 **Very Positive** (86% of 23,821 reviews &nbsp;·&nbsp; 👍 20,385 / 👎 3,436)
 
 ---
 
@@ -9158,7 +9290,7 @@
 
 `Puzzle-Platformer`  `Exploration`  `Metroidvania`  `First-Person`  `Adventure`  `Singleplayer`
 
-🟢 **Overwhelmingly Positive** (95% of 13,154 reviews &nbsp;·&nbsp; 👍 12,526 / 👎 628)
+🟢 **Overwhelmingly Positive** (95% of 15,197 reviews &nbsp;·&nbsp; 👍 14,472 / 👎 725)
 
 🟢 **Metacritic:** [85](https://www.metacritic.com/game/pc/supraland?ftag=MCD-06-10aaa1f)
 
@@ -9172,6 +9304,8 @@
 
 *SurrounDead Poly Construction is an open-world survival adventure game where players will solve puzzles, collect items, and defeat all enemies to reach the end.*
 
+🔴 **Mostly Negative** (33% of 186 reviews &nbsp;·&nbsp; 👍 61 / 👎 125)
+
 ---
 
 ### <a href="https://store.steampowered.com/app/225840"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/225840/b64062ca5c5610c0754686e5e7c05eba76bd6b4d.ico" width="32" height="32"></a> [Sven Co-op](https://store.steampowered.com/app/225840)
@@ -9184,7 +9318,7 @@
 
 `Co-op`  `FPS`  `Online Co-Op`  `Shooter`  `Shoot 'Em Up`  `Retro`
 
-🟢 **Very Positive** (94% of 31,316 reviews &nbsp;·&nbsp; 👍 29,316 / 👎 2,000)
+🟢 **Very Positive** (94% of 32,395 reviews &nbsp;·&nbsp; 👍 30,314 / 👎 2,081)
 
 ---
 
@@ -9198,7 +9332,7 @@
 
 `Simulation`  `Trains`  `City Builder`  `Transportation`  `Management`  `Strategy`
 
-🟡 **Mostly Positive** (70% of 1,143 reviews &nbsp;·&nbsp; 👍 796 / 👎 347)
+🟡 **Mixed** (68% of 1,262 reviews &nbsp;·&nbsp; 👍 857 / 👎 405)
 
 ---
 
@@ -9209,6 +9343,8 @@
 **Dev:** SnowDropEscape development team &nbsp;·&nbsp; **Released:** Jun 26, 2023 &nbsp;·&nbsp; **Price:** Free
 
 *Swelter is a story-driven mod set several years before the events of Half-Life 2. It explores the internal tensions within the Resistance during their rebellion against the Combine in a post-Soviet Central Asian city, encircled by the scorching steppe.*
+
+🟢 **Very Positive** (93% of 6,290 reviews &nbsp;·&nbsp; 👍 5,838 / 👎 452)
 
 ---
 
@@ -9222,7 +9358,7 @@
 
 `Free to Play`  `Co-op`  `Action`  `Mod`  `Multiplayer`  `FPS`
 
-🟢 **Very Positive** (93% of 5,630 reviews &nbsp;·&nbsp; 👍 5,217 / 👎 413)
+🟢 **Very Positive** (89% of 11,676 reviews &nbsp;·&nbsp; 👍 10,410 / 👎 1,266)
 
 🟢 **Metacritic:** [82](https://www.metacritic.com/game/pc/synergy?ftag=MCD-06-10aaa1f)
 
@@ -9240,7 +9376,7 @@
 
 `Indie`  `Simulation`  `Strategy`  `Casual`  `Tabletop`  `VR`
 
-🟡 **Mostly Positive** (70% of 244 reviews &nbsp;·&nbsp; 👍 172 / 👎 72)
+🟡 **Mixed** (69% of 269 reviews &nbsp;·&nbsp; 👍 186 / 👎 83)
 
 ---
 
@@ -9254,7 +9390,7 @@
 
 `Tabletop`  `Board Game`  `Simulation`  `Multiplayer`  `Sandbox`  `Card Game`
 
-🟢 **Very Positive** (94% of 70,660 reviews &nbsp;·&nbsp; 👍 66,735 / 👎 3,925)
+🟢 **Overwhelmingly Positive** (96% of 73,976 reviews &nbsp;·&nbsp; 👍 70,972 / 👎 3,004)
 
 ---
 
@@ -9268,7 +9404,7 @@
 
 `Free to Play`  `Hero Shooter`  `Multiplayer`  `FPS`  `Shooter`  `Action`
 
-🟢 **Very Positive** (90% of 1,161,472 reviews &nbsp;·&nbsp; 👍 1,044,264 / 👎 117,208)
+🟢 **Very Positive** (91% of 1,244,998 reviews &nbsp;·&nbsp; 👍 1,133,049 / 👎 111,949)
 
 🟢 **Metacritic:** [92](https://www.metacritic.com/game/pc/team-fortress-2?ftag=MCD-06-10aaa1f)
 
@@ -9284,7 +9420,7 @@
 
 `Action`  `FPS`  `Multiplayer`  `Classic`  `Hero Shooter`  `Shooter`
 
-🟢 **Very Positive** (87% of 8,738 reviews &nbsp;·&nbsp; 👍 7,602 / 👎 1,136)
+🟢 **Very Positive** (87% of 9,248 reviews &nbsp;·&nbsp; 👍 8,065 / 👎 1,183)
 
 ---
 
@@ -9298,7 +9434,7 @@
 
 `Destruction`  `Physics`  `Sandbox`  `Voxel`  `First-Person`  `Singleplayer`
 
-🟢 **Overwhelmingly Positive** (96% of 109,462 reviews &nbsp;·&nbsp; 👍 104,653 / 👎 4,809)
+🟢 **Overwhelmingly Positive** (96% of 134,282 reviews &nbsp;·&nbsp; 👍 128,686 / 👎 5,596)
 
 🟢 **Metacritic:** [80](https://www.metacritic.com/game/pc/teardown?ftag=MCD-06-10aaa1f)
 
@@ -9314,7 +9450,7 @@
 
 `Fighting`  `Action`  `Multiplayer`  `Competitive`  `Arcade`  `Local Multiplayer`
 
-🟢 **Very Positive** (83% of 92,807 reviews &nbsp;·&nbsp; 👍 77,227 / 👎 15,580)
+🟢 **Very Positive** (84% of 95,266 reviews &nbsp;·&nbsp; 👍 79,614 / 👎 15,652)
 
 🟢 **Metacritic:** [82](https://www.metacritic.com/game/pc/tekken-7?ftag=MCD-06-10aaa1f)
 
@@ -9330,7 +9466,7 @@
 
 `Choices Matter`  `Story Rich`  `LGBTQ+`  `Episodic`  `Adventure`  `Emotional`
 
-🟢 **Very Positive** (83% of 13,883 reviews &nbsp;·&nbsp; 👍 11,457 / 👎 2,426)
+🟢 **Very Positive** (82% of 15,977 reviews &nbsp;·&nbsp; 👍 13,089 / 👎 2,888)
 
 ---
 
@@ -9344,7 +9480,7 @@
 
 `Open World Survival Craft`  `Sandbox`  `Survival`  `2D`  `Multiplayer`  `Adventure`
 
-🟢 **Overwhelmingly Positive** (97% of 1,409,473 reviews &nbsp;·&nbsp; 👍 1,373,979 / 👎 35,494)
+🟢 **Overwhelmingly Positive** (97% of 1,542,490 reviews &nbsp;·&nbsp; 👍 1,502,105 / 👎 40,385)
 
 🟢 **Metacritic:** [83](https://www.metacritic.com/game/pc/terraria?ftag=MCD-06-10aaa1f)
 
@@ -9360,7 +9496,7 @@
 
 `Puzzle`  `Family Friendly`  `Singleplayer`  `Multiplayer`  `Competitive`  `Indie`
 
-🟢 **Overwhelmingly Positive** (95% of 7,932 reviews &nbsp;·&nbsp; 👍 7,528 / 👎 404)
+🟢 **Very Positive** (95% of 8,946 reviews &nbsp;·&nbsp; 👍 8,455 / 👎 491)
 
 🟢 **Metacritic:** [93](https://www.metacritic.com/game/pc/tetris-effect-connected?ftag=MCD-06-10aaa1f)
 
@@ -9376,7 +9512,7 @@
 
 `Adventure`  `Comedy`  `Funny`  `Hand-drawn`  `Exploration`  `Casual`
 
-🟢 **Overwhelmingly Positive** (97% of 6,196 reviews &nbsp;·&nbsp; 👍 5,987 / 👎 209)
+🟢 **Overwhelmingly Positive** (96% of 8,289 reviews &nbsp;·&nbsp; 👍 7,975 / 👎 314)
 
 🟢 **Metacritic:** [89](https://www.metacritic.com/game/pc/thank-goodness-youre-here!?ftag=MCD-06-10aaa1f)
 
@@ -9392,7 +9528,7 @@
 
 `Hunting`  `Open World`  `Multiplayer`  `Nature`  `Relaxing`  `Stealth`
 
-🟢 **Very Positive** (89% of 177,610 reviews &nbsp;·&nbsp; 👍 157,641 / 👎 19,969)
+🟢 **Very Positive** (89% of 201,251 reviews &nbsp;·&nbsp; 👍 179,267 / 👎 21,984)
 
 ---
 
@@ -9406,7 +9542,7 @@
 
 `Simulation`  `Stealth`  `Singleplayer`  `Crime`  `First-Person`  `Open World`
 
-🟢 **Very Positive** (88% of 35,807 reviews &nbsp;·&nbsp; 👍 31,601 / 👎 4,206)
+🟢 **Very Positive** (88% of 39,516 reviews &nbsp;·&nbsp; 👍 34,822 / 👎 4,694)
 
 ---
 
@@ -9420,7 +9556,7 @@
 
 `Simulation`  `Adventure`  `Strategy`  `Action`  `Management`  `Racing`
 
-🟢 **Very Positive** (93% of 870 reviews &nbsp;·&nbsp; 👍 809 / 👎 61)
+🟢 **Very Positive** (93% of 930 reviews &nbsp;·&nbsp; 👍 865 / 👎 65)
 
 🟡 **Metacritic:** [70](https://www.metacritic.com/game/pc/thrillville-off-the-rails?ftag=MCD-06-10aaa1f)
 
@@ -9436,7 +9572,7 @@
 
 `City Builder`  `Voxel`  `Colony Sim`  `Nature`  `Sandbox`  `Building`
 
-🟢 **Overwhelmingly Positive** (96% of 31,678 reviews &nbsp;·&nbsp; 👍 30,266 / 👎 1,412)
+🟢 **Overwhelmingly Positive** (96% of 40,843 reviews &nbsp;·&nbsp; 👍 39,200 / 👎 1,643)
 
 🟢 **Metacritic:** [85](https://www.metacritic.com/game/pc/timberborn?ftag=MCD-06-10aaa1f)
 
@@ -9452,7 +9588,7 @@
 
 `Loot`  `Adventure`  `Looter Shooter`  `Multiplayer`  `Shooter`  `RPG`
 
-🟡 **Mostly Positive** (72% of 21,986 reviews &nbsp;·&nbsp; 👍 15,933 / 👎 6,053)
+🟡 **Mostly Positive** (71% of 24,600 reviews &nbsp;·&nbsp; 👍 17,357 / 👎 7,243)
 
 ---
 
@@ -9466,7 +9602,7 @@
 
 `FPS`  `Mechs`  `Multiplayer`  `Shooter`  `Singleplayer`  `Action`
 
-🟢 **Overwhelmingly Positive** (95% of 256,188 reviews &nbsp;·&nbsp; 👍 244,524 / 👎 11,664)
+🟢 **Overwhelmingly Positive** (96% of 284,170 reviews &nbsp;·&nbsp; 👍 271,761 / 👎 12,409)
 
 🟢 **Metacritic:** [86](https://www.metacritic.com/game/pc/titanfall-2?ftag=MCD-06-10aaa1f)
 
@@ -9480,6 +9616,8 @@
 
 *Dig, Fight, and Build your way through the world of player-created mods on Terraria with tModLoader - this DLC makes modding Terraria a reality!*
 
+🟢 **Overwhelmingly Positive** (97% of 376,998 reviews &nbsp;·&nbsp; 👍 366,169 / 👎 10,829)
+
 ---
 
 ### <a href="https://store.steampowered.com/app/21800"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/21800/d0ed4c0c6ea4ace17742964f6803a28fa3208fec.ico" width="32" height="32"></a> [Tom Clancy's EndWar](https://store.steampowered.com/app/21800)
@@ -9492,7 +9630,7 @@
 
 `Strategy`  `RTS`  `Tactical`  `War`  `Voice Control`  `Singleplayer`
 
-🟢 **Very Positive** (81% of 977 reviews &nbsp;·&nbsp; 👍 789 / 👎 188)
+🟢 **Very Positive** (81% of 1,069 reviews &nbsp;·&nbsp; 👍 866 / 👎 203)
 
 🟡 **Metacritic:** [68](https://www.metacritic.com/game/pc/tom-clancys-endwar?ftag=MCD-06-10aaa1f)
 
@@ -9508,7 +9646,7 @@
 
 `FPS`  `PvP`  `Multiplayer`  `Tactical`  `e-sports`  `Shooter`
 
-🟢 **Very Positive** (84% of 1,398,584 reviews &nbsp;·&nbsp; 👍 1,172,854 / 👎 225,730)
+🟢 **Very Positive** (82% of 1,536,976 reviews &nbsp;·&nbsp; 👍 1,264,061 / 👎 272,915)
 
 ---
 
@@ -9522,7 +9660,7 @@
 
 `Action`  `FPS`  `Tactical`  `Co-op`  `Singleplayer`  `Multiplayer`
 
-🟢 **Very Positive** (80% of 1,491 reviews &nbsp;·&nbsp; 👍 1,187 / 👎 304)
+🟡 **Mostly Positive** (80% of 1,736 reviews &nbsp;·&nbsp; 👍 1,386 / 👎 350)
 
 🟢 **Metacritic:** [85](http://www.metacritic.com/game/pc/tom-clancys-rainbow-six-vegas)
 
@@ -9538,7 +9676,7 @@
 
 `Tactical`  `Action`  `FPS`  `Co-op`  `Singleplayer`  `Multiplayer`
 
-🟢 **Very Positive** (85% of 5,732 reviews &nbsp;·&nbsp; 👍 4,861 / 👎 871)
+🟢 **Very Positive** (85% of 6,090 reviews &nbsp;·&nbsp; 👍 5,171 / 👎 919)
 
 🟢 **Metacritic:** [78](http://www.metacritic.com/game/pc/tom-clancys-rainbow-six-vegas-2)
 
@@ -9554,7 +9692,7 @@
 
 `Stealth`  `Action`  `Third Person`  `Singleplayer`  `Classic`  `Shooter`
 
-🟢 **Very Positive** (88% of 3,364 reviews &nbsp;·&nbsp; 👍 2,951 / 👎 413)
+🟢 **Very Positive** (88% of 3,993 reviews &nbsp;·&nbsp; 👍 3,505 / 👎 488)
 
 🟢 **Metacritic:** [91](https://www.metacritic.com/game/pc/tom-clancys-splinter-cell?ftag=MCD-06-10aaa1f)
 
@@ -9570,7 +9708,7 @@
 
 `Stealth`  `Action`  `Third Person`  `Classic`  `Co-op`  `Great Soundtrack`
 
-🟢 **Very Positive** (93% of 5,133 reviews &nbsp;·&nbsp; 👍 4,785 / 👎 348)
+🟢 **Very Positive** (93% of 5,764 reviews &nbsp;·&nbsp; 👍 5,358 / 👎 406)
 
 🟢 **Metacritic:** [92](http://www.metacritic.com/game/pc/tom-clancys-splinter-cell-chaos-theory)
 
@@ -9586,7 +9724,7 @@
 
 `Action`  `Stealth`  `Co-op`  `Singleplayer`  `Third Person`  `Multiplayer`
 
-🟡 **Mostly Positive** (72% of 4,440 reviews &nbsp;·&nbsp; 👍 3,189 / 👎 1,251)
+🟡 **Mostly Positive** (72% of 5,142 reviews &nbsp;·&nbsp; 👍 3,712 / 👎 1,430)
 
 🟢 **Metacritic:** [83](https://www.metacritic.com/game/pc/tom-clancys-splinter-cell-conviction?ftag=MCD-06-10aaa1f)
 
@@ -9602,7 +9740,7 @@
 
 `Stealth`  `Action`  `Third Person`  `Singleplayer`  `Multiplayer`  `Adventure`
 
-🔴 **Mostly Negative** (37% of 1,684 reviews &nbsp;·&nbsp; 👍 620 / 👎 1,064)
+🔴 **Mostly Negative** (35% of 1,925 reviews &nbsp;·&nbsp; 👍 681 / 👎 1,244)
 
 🟢 **Metacritic:** [80](http://www.metacritic.com/game/pc/tom-clancys-splinter-cell-double-agent)
 
@@ -9618,7 +9756,7 @@
 
 `Adventure`  `Action`  `Female Protagonist`  `Third Person`  `Singleplayer`  `Story Rich`
 
-🟢 **Overwhelmingly Positive** (96% of 247,930 reviews &nbsp;·&nbsp; 👍 238,239 / 👎 9,691)
+🟢 **Overwhelmingly Positive** (96% of 268,542 reviews &nbsp;·&nbsp; 👍 257,876 / 👎 10,666)
 
 🟢 **Metacritic:** [86](https://www.metacritic.com/game/pc/tomb-raider?ftag=MCD-06-10aaa1f)
 
@@ -9634,7 +9772,7 @@
 
 `Strategy`  `Fantasy`  `Turn-Based Strategy`  `RTS`  `Grand Strategy`  `War`
 
-🟢 **Very Positive** (92% of 124,252 reviews &nbsp;·&nbsp; 👍 114,776 / 👎 9,476)
+🟢 **Very Positive** (93% of 121,409 reviews &nbsp;·&nbsp; 👍 112,906 / 👎 8,503)
 
 🟢 **Metacritic:** [87](https://www.metacritic.com/game/pc/total-war-warhammer-ii?ftag=MCD-06-10aaa1f)
 
@@ -9650,7 +9788,7 @@
 
 `Strategy`  `Turn-Based Strategy`  `Grand Strategy`  `RTS`  `Fantasy`  `Real Time Tactics`
 
-🟡 **Mostly Positive** (73% of 119,858 reviews &nbsp;·&nbsp; 👍 87,141 / 👎 32,717)
+🟡 **Mostly Positive** (71% of 146,467 reviews &nbsp;·&nbsp; 👍 103,967 / 👎 42,500)
 
 🟢 **Metacritic:** [86](https://www.metacritic.com/game/pc/total-war-warhammer-iii?ftag=MCD-06-10aaa1f)
 
@@ -9666,7 +9804,7 @@
 
 `Sandbox`  `Simulation`  `Funny`  `War`  `Physics`  `Strategy`
 
-🟢 **Overwhelmingly Positive** (98% of 135,943 reviews &nbsp;·&nbsp; 👍 132,974 / 👎 2,969)
+🟢 **Overwhelmingly Positive** (98% of 152,702 reviews &nbsp;·&nbsp; 👍 149,377 / 👎 3,325)
 
 ---
 
@@ -9680,7 +9818,7 @@
 
 `Multiplayer`  `Physics`  `Character Customization`  `Indie`  `Massively Multiplayer`  `Family Friendly`
 
-🟢 **Very Positive** (88% of 87,012 reviews &nbsp;·&nbsp; 👍 76,919 / 👎 10,093)
+🟢 **Very Positive** (88% of 87,766 reviews &nbsp;·&nbsp; 👍 77,637 / 👎 10,129)
 
 ---
 
@@ -9694,7 +9832,7 @@
 
 `Sexual Content`  `Nudity`  `Match 3`  `Puzzle`  `Anime`  `Visual Novel`
 
-🟡 **Mostly Positive** (74% of 306 reviews &nbsp;·&nbsp; 👍 225 / 👎 81)
+🟡 **Mostly Positive** (74% of 316 reviews &nbsp;·&nbsp; 👍 233 / 👎 83)
 
 ---
 
@@ -9708,7 +9846,7 @@
 
 `Simulation`  `Building`  `Realistic`  `First-Person`  `Trading`  `Sandbox`
 
-🟡 **Mixed** (59% of 350 reviews &nbsp;·&nbsp; 👍 207 / 👎 143)
+🟡 **Mixed** (45% of 1,143 reviews &nbsp;·&nbsp; 👍 512 / 👎 631)
 
 ---
 
@@ -9719,6 +9857,8 @@
 **Dev:** Nadeo &nbsp;·&nbsp; **Released:** Feb 2, 2023 &nbsp;·&nbsp; **Price:** Free
 
 *Trackmania – the unique racing game that combines precision and creativity. Play for free across five stunning environments, race on the best player-made tracks every week, and climb your regional rankings.*
+
+🟡 **Mostly Positive** (78% of 21,239 reviews &nbsp;·&nbsp; 👍 16,541 / 👎 4,698)
 
 ---
 
@@ -9732,7 +9872,7 @@
 
 `Racing`  `Free to Play`  `Multiplayer`  `Automobile Sim`  `Singleplayer`  `Level Editor`
 
-🟢 **Very Positive** (90% of 23,603 reviews &nbsp;·&nbsp; 👍 21,244 / 👎 2,359)
+🟢 **Very Positive** (90% of 24,319 reviews &nbsp;·&nbsp; 👍 21,935 / 👎 2,384)
 
 ---
 
@@ -9746,7 +9886,7 @@
 
 `Simulation`  `Trains`  `Singleplayer`  `Driving`  `Realistic`  `Casual`
 
-🟡 **Mostly Positive** (71% of 28,187 reviews &nbsp;·&nbsp; 👍 20,015 / 👎 8,172)
+🟡 **Mostly Positive** (72% of 29,351 reviews &nbsp;·&nbsp; 👍 21,030 / 👎 8,321)
 
 ---
 
@@ -9760,7 +9900,7 @@
 
 `Simulation`  `Strategy`  `Management`  `Transportation`  `Trains`  `City Builder`
 
-🟢 **Very Positive** (90% of 27,627 reviews &nbsp;·&nbsp; 👍 24,960 / 👎 2,667)
+🟢 **Very Positive** (90% of 32,305 reviews &nbsp;·&nbsp; 👍 29,176 / 👎 3,129)
 
 🟢 **Metacritic:** [76](https://www.metacritic.com/game/pc/transport-fever-2?ftag=MCD-06-10aaa1f)
 
@@ -9776,7 +9916,7 @@
 
 `Life Sim`  `Pixel Graphics`  `Management`  `Farming Sim`  `RPG`  `Medieval`
 
-🟢 **Very Positive** (88% of 13,900 reviews &nbsp;·&nbsp; 👍 12,297 / 👎 1,603)
+🟢 **Very Positive** (88% of 17,840 reviews &nbsp;·&nbsp; 👍 15,699 / 👎 2,141)
 
 ---
 
@@ -9790,7 +9930,7 @@
 
 `Shooter`  `Singleplayer`  `FPS`  `Gore`  `Horror`  `Violent`
 
-🟢 **Very Positive** (93% of 13,976 reviews &nbsp;·&nbsp; 👍 13,059 / 👎 917)
+🟢 **Very Positive** (93% of 19,037 reviews &nbsp;·&nbsp; 👍 17,676 / 👎 1,361)
 
 🟢 **Metacritic:** [79](https://www.metacritic.com/game/pc/trepang2?ftag=MCD-06-10aaa1f)
 
@@ -9806,7 +9946,7 @@
 
 `City Builder`  `Simulation`  `Strategy`  `Management`  `Comedy`  `Sandbox`
 
-🟢 **Very Positive** (92% of 12,427 reviews &nbsp;·&nbsp; 👍 11,400 / 👎 1,027)
+🟢 **Very Positive** (92% of 12,720 reviews &nbsp;·&nbsp; 👍 11,668 / 👎 1,052)
 
 🟢 **Metacritic:** [78](https://www.metacritic.com/game/pc/tropico-4?ftag=MCD-06-10aaa1f)
 
@@ -9822,7 +9962,7 @@
 
 `Strategy`  `City Builder`  `Simulation`  `Sandbox`  `Multiplayer`  `Economy`
 
-🟡 **Mostly Positive** (79% of 14,123 reviews &nbsp;·&nbsp; 👍 11,092 / 👎 3,031)
+🟡 **Mostly Positive** (79% of 14,397 reviews &nbsp;·&nbsp; 👍 11,322 / 👎 3,075)
 
 🟢 **Metacritic:** [75](https://www.metacritic.com/game/pc/tropico-5?ftag=MCD-06-10aaa1f)
 
@@ -9838,7 +9978,7 @@
 
 `City Builder`  `Strategy`  `Simulation`  `Economy`  `Management`  `Political Sim`
 
-🟢 **Very Positive** (87% of 27,191 reviews &nbsp;·&nbsp; 👍 23,776 / 👎 3,415)
+🟢 **Very Positive** (88% of 29,318 reviews &nbsp;·&nbsp; 👍 25,710 / 👎 3,608)
 
 🟢 **Metacritic:** [78](https://www.metacritic.com/game/pc/tropico-6?ftag=MCD-06-10aaa1f)
 
@@ -9854,7 +9994,7 @@
 
 `Relaxing`  `Minimalist`  `Electronic`  `Puzzle`  `Short`  `Education`
 
-🟢 **Very Positive** (93% of 90 reviews &nbsp;·&nbsp; 👍 84 / 👎 6)
+🟢 **Very Positive** (93% of 94 reviews &nbsp;·&nbsp; 👍 87 / 👎 7)
 
 ---
 
@@ -9868,7 +10008,7 @@
 
 `Simulation`  `Management`  `Medical Sim`  `Building`  `Funny`  `Singleplayer`
 
-🟢 **Very Positive** (92% of 33,274 reviews &nbsp;·&nbsp; 👍 30,563 / 👎 2,711)
+🟢 **Very Positive** (92% of 34,835 reviews &nbsp;·&nbsp; 👍 32,034 / 👎 2,801)
 
 🟢 **Metacritic:** [83](https://www.metacritic.com/game/pc/two-point-hospital?ftag=MCD-06-10aaa1f)
 
@@ -9886,7 +10026,7 @@
 
 `Psychological Horror`  `Sexual Content`  `Cold War`  `Hentai`  `Nudity`  `Gore`
 
-🟢 **Very Positive** (94% of 838 reviews &nbsp;·&nbsp; 👍 786 / 👎 52)
+🟢 **Very Positive** (94% of 913 reviews &nbsp;·&nbsp; 👍 857 / 👎 56)
 
 ---
 
@@ -9900,7 +10040,7 @@
 
 `Simulation`  `Sandbox`  `War`  `Strategy`  `Action`  `Funny`
 
-🟡 **Mostly Positive** (77% of 12,155 reviews &nbsp;·&nbsp; 👍 9,304 / 👎 2,851)
+🟡 **Mostly Positive** (77% of 12,245 reviews &nbsp;·&nbsp; 👍 9,382 / 👎 2,863)
 
 ---
 
@@ -9914,7 +10054,7 @@
 
 `Boomer Shooter`  `Fast-Paced`  `FPS`  `Blood`  `Character Action Game`  `Arena Shooter`
 
-🟢 **Overwhelmingly Positive** (98% of 169,751 reviews &nbsp;·&nbsp; 👍 165,867 / 👎 3,884)
+🟢 **Overwhelmingly Positive** (97% of 239,283 reviews &nbsp;·&nbsp; 👍 233,004 / 👎 6,279)
 
 ---
 
@@ -9928,7 +10068,7 @@
 
 `Horror`  `Psychological Horror`  `Psychological`  `Atmospheric`  `Violent`  `Dark`
 
-🟢 **Positive** (80% of 64 reviews &nbsp;·&nbsp; 👍 51 / 👎 13)
+🟡 **Mostly Positive** (75% of 1,336 reviews &nbsp;·&nbsp; 👍 1,003 / 👎 333)
 
 ---
 
@@ -9942,7 +10082,7 @@
 
 `Great Soundtrack`  `Story Rich`  `Choices Matter`  `Multiple Endings`  `Pixel Graphics`  `Funny`
 
-🟢 **Overwhelmingly Positive** (97% of 272,932 reviews &nbsp;·&nbsp; 👍 264,082 / 👎 8,850)
+🟢 **Overwhelmingly Positive** (96% of 334,902 reviews &nbsp;·&nbsp; 👍 323,172 / 👎 11,730)
 
 🟢 **Metacritic:** [92](https://www.metacritic.com/game/pc/undertale?ftag=MCD-06-10aaa1f)
 
@@ -9958,7 +10098,7 @@
 
 `Sandbox`  `Space`  `Simulation`  `Physics`  `Science`  `Destruction`
 
-🟢 **Overwhelmingly Positive** (96% of 27,448 reviews &nbsp;·&nbsp; 👍 26,456 / 👎 992)
+🟢 **Overwhelmingly Positive** (96% of 31,869 reviews &nbsp;·&nbsp; 👍 30,750 / 👎 1,119)
 
 ---
 
@@ -9972,7 +10112,7 @@
 
 `Multiplayer`  `Co-op`  `Online Co-Op`  `Local Co-Op`  `Casual`  `Trains`
 
-🟢 **Very Positive** (93% of 18,669 reviews &nbsp;·&nbsp; 👍 17,426 / 👎 1,243)
+🟢 **Very Positive** (93% of 19,687 reviews &nbsp;·&nbsp; 👍 18,344 / 👎 1,343)
 
 🟢 **Metacritic:** [77](https://www.metacritic.com/game/pc/unrailed!?ftag=MCD-06-10aaa1f)
 
@@ -9988,7 +10128,7 @@
 
 `Free to Play`  `Survival`  `Zombies`  `Multiplayer`  `Open World`  `Co-op`
 
-🟢 **Very Positive** (91% of 555,368 reviews &nbsp;·&nbsp; 👍 506,516 / 👎 48,852)
+🟢 **Very Positive** (91% of 564,243 reviews &nbsp;·&nbsp; 👍 513,581 / 👎 50,662)
 
 ---
 
@@ -10002,7 +10142,7 @@
 
 `Hacking`  `Indie`  `Strategy`  `Singleplayer`  `Cyberpunk`  `Simulation`
 
-🟢 **Very Positive** (91% of 2,359 reviews &nbsp;·&nbsp; 👍 2,143 / 👎 216)
+🟢 **Very Positive** (91% of 2,428 reviews &nbsp;·&nbsp; 👍 2,204 / 👎 224)
 
 🟢 **Metacritic:** [75](https://www.metacritic.com/game/pc/uplink-hacker-elite?ftag=MCD-06-10aaa1f)
 
@@ -10020,7 +10160,7 @@
 
 `Open World Survival Craft`  `Survival`  `Online Co-Op`  `Open World`  `Multiplayer`  `Building`
 
-🟢 **Very Positive** (94% of 499,828 reviews &nbsp;·&nbsp; 👍 471,451 / 👎 28,377)
+🟢 **Very Positive** (94% of 539,384 reviews &nbsp;·&nbsp; 👍 506,976 / 👎 32,408)
 
 ---
 
@@ -10034,7 +10174,7 @@
 
 `RPG`  `Female Protagonist`  `Action`  `Adventure`  `Singleplayer`  `Indie`
 
-🟡 **Mostly Positive** (79% of 708 reviews &nbsp;·&nbsp; 👍 562 / 👎 146)
+🟡 **Mostly Positive** (80% of 785 reviews &nbsp;·&nbsp; 👍 627 / 👎 158)
 
 🟡 **Metacritic:** [61](https://www.metacritic.com/game/pc/venetica?ftag=MCD-06-10aaa1f)
 
@@ -10050,7 +10190,7 @@
 
 `Simulation`  `Gore`  `First-Person`  `Indie`  `Blood`  `Action`
 
-🟢 **Very Positive** (81% of 4,434 reviews &nbsp;·&nbsp; 👍 3,572 / 👎 862)
+🟢 **Very Positive** (80% of 4,635 reviews &nbsp;·&nbsp; 👍 3,731 / 👎 904)
 
 ---
 
@@ -10064,7 +10204,7 @@
 
 `VR`  `Free to Play`  `Multiplayer`  `Anime`  `Memes`  `Funny`
 
-🟡 **Mostly Positive** (76% of 240,355 reviews &nbsp;·&nbsp; 👍 181,623 / 👎 58,732)
+🟡 **Mostly Positive** (75% of 266,596 reviews &nbsp;·&nbsp; 👍 200,466 / 👎 66,130)
 
 ---
 
@@ -10080,7 +10220,7 @@
 
 `Zombies`  `Story Rich`  `Adventure`  `Point & Click`  `Episodic`  `Singleplayer`
 
-🟢 **Overwhelmingly Positive** (97% of 73,628 reviews &nbsp;·&nbsp; 👍 71,633 / 👎 1,995)
+🟢 **Overwhelmingly Positive** (97% of 80,125 reviews &nbsp;·&nbsp; 👍 77,978 / 👎 2,147)
 
 🟢 **Metacritic:** [82](https://www.metacritic.com/game/pc/the-walking-dead-episode-1---a-new-day?ftag=MCD-06-10aaa1f)
 
@@ -10096,7 +10236,7 @@
 
 `Choices Matter`  `Story Rich`  `Interactive Fiction`  `Horror`  `Multiple Endings`  `Comic Book`
 
-🟢 **Overwhelmingly Positive** (97% of 31,041 reviews &nbsp;·&nbsp; 👍 29,969 / 👎 1,072)
+🟢 **Overwhelmingly Positive** (97% of 46,223 reviews &nbsp;·&nbsp; 👍 44,615 / 👎 1,608)
 
 ---
 
@@ -10110,7 +10250,7 @@
 
 `Free to Play`  `Simulation`  `Vehicular Combat`  `Combat`  `World War II`  `Flight`
 
-🟡 **Mixed** (64% of 757,086 reviews &nbsp;·&nbsp; 👍 484,469 / 👎 272,617)
+🟡 **Mostly Positive** (71% of 772,591 reviews &nbsp;·&nbsp; 👍 550,411 / 👎 222,180)
 
 🟢 **Metacritic:** [81](https://www.metacritic.com/game/pc/war-thunder?ftag=MCD-06-10aaa1f)
 
@@ -10126,7 +10266,7 @@
 
 `Free to Play`  `Action RPG`  `Looter Shooter`  `Third-Person Shooter`  `Action`  `RPG`
 
-🟢 **Very Positive** (87% of 626,503 reviews &nbsp;·&nbsp; 👍 545,393 / 👎 81,110)
+🟢 **Very Positive** (88% of 672,796 reviews &nbsp;·&nbsp; 👍 590,623 / 👎 82,173)
 
 🟡 **Metacritic:** [69](https://www.metacritic.com/game/pc/warframe?ftag=MCD-06-10aaa1f)
 
@@ -10142,7 +10282,7 @@
 
 `Strategy`  `RTS`  `Warhammer 40K`  `Base-Building`  `Sci-fi`  `Multiplayer`
 
-🟢 **Overwhelmingly Positive** (95% of 11,206 reviews &nbsp;·&nbsp; 👍 10,634 / 👎 572)
+🟢 **Very Positive** (95% of 11,902 reviews &nbsp;·&nbsp; 👍 11,261 / 👎 641)
 
 🟢 **Metacritic:** [86](https://www.metacritic.com/game/pc/warhammer-40000-dawn-of-war?ftag=MCD-06-10aaa1f)
 
@@ -10158,7 +10298,7 @@
 
 `Strategy`  `Warhammer 40K`  `RTS`  `Base-Building`  `Sci-fi`  `Multiplayer`
 
-🟢 **Overwhelmingly Positive** (96% of 8,976 reviews &nbsp;·&nbsp; 👍 8,658 / 👎 318)
+🟢 **Overwhelmingly Positive** (96% of 9,500 reviews &nbsp;·&nbsp; 👍 9,148 / 👎 352)
 
 🟢 **Metacritic:** [87](https://www.metacritic.com/game/pc/warhammer-40000-dawn-of-war---dark-crusade?ftag=MCD-06-10aaa1f)
 
@@ -10174,7 +10314,7 @@
 
 `Warhammer 40K`  `Strategy`  `RTS`  `Base-Building`  `Sci-fi`  `Multiplayer`
 
-🟢 **Overwhelmingly Positive** (95% of 17,611 reviews &nbsp;·&nbsp; 👍 16,764 / 👎 847)
+🟢 **Very Positive** (95% of 18,471 reviews &nbsp;·&nbsp; 👍 17,536 / 👎 935)
 
 ---
 
@@ -10188,7 +10328,7 @@
 
 `Strategy`  `Warhammer 40K`  `RTS`  `Games Workshop`  `Base-Building`  `Sci-fi`
 
-🟢 **Very Positive** (88% of 2,350 reviews &nbsp;·&nbsp; 👍 2,072 / 👎 278)
+🟢 **Very Positive** (88% of 2,525 reviews &nbsp;·&nbsp; 👍 2,221 / 👎 304)
 
 ---
 
@@ -10202,7 +10342,7 @@
 
 `Strategy`  `Warhammer 40K`  `4X`  `Turn-Based Strategy`  `Turn-Based`  `Multiplayer`
 
-🟢 **Very Positive** (81% of 14,975 reviews &nbsp;·&nbsp; 👍 12,195 / 👎 2,780)
+🟢 **Very Positive** (82% of 18,487 reviews &nbsp;·&nbsp; 👍 15,099 / 👎 3,388)
 
 🟡 **Metacritic:** [71](https://www.metacritic.com/game/pc/warhammer-40000-gladius---relics-of-war?ftag=MCD-06-10aaa1f)
 
@@ -10218,7 +10358,7 @@
 
 `Warhammer 40K`  `Action`  `Third-Person Shooter`  `Multiplayer`  `Co-op`  `PvE`
 
-🟢 **Very Positive** (83% of 162,585 reviews &nbsp;·&nbsp; 👍 134,739 / 👎 27,846)
+🟢 **Very Positive** (84% of 220,800 reviews &nbsp;·&nbsp; 👍 185,380 / 👎 35,420)
 
 🟢 **Metacritic:** [82](https://www.metacritic.com/game/pc/warhammer-40000-space-marine-ii?ftag=MCD-06-10aaa1f)
 
@@ -10234,7 +10374,7 @@
 
 `Co-op`  `Dark Fantasy`  `Games Workshop`  `Online Co-Op`  `Hack and Slash`  `Multiplayer`
 
-🟢 **Very Positive** (85% of 133,723 reviews &nbsp;·&nbsp; 👍 113,489 / 👎 20,234)
+🟢 **Very Positive** (85% of 147,181 reviews &nbsp;·&nbsp; 👍 125,144 / 👎 22,037)
 
 🟢 **Metacritic:** [82](https://www.metacritic.com/game/pc/warhammer-vermintide-2?ftag=MCD-06-10aaa1f)
 
@@ -10250,7 +10390,7 @@
 
 `Fishing`  `Multiplayer`  `Casual`  `Cute`  `Character Customization`  `Psychological Horror`
 
-🟢 **Overwhelmingly Positive** (98% of 65,810 reviews &nbsp;·&nbsp; 👍 64,473 / 👎 1,337)
+🟢 **Overwhelmingly Positive** (97% of 70,302 reviews &nbsp;·&nbsp; 👍 68,453 / 👎 1,849)
 
 ---
 
@@ -10264,7 +10404,7 @@
 
 `Funny`  `Multiplayer`  `First-Person`  `Comedy`  `Simulation`  `Online Co-Op`
 
-🟢 **Very Positive** (80% of 30,409 reviews &nbsp;·&nbsp; 👍 24,318 / 👎 6,091)
+🟡 **Mostly Positive** (80% of 31,888 reviews &nbsp;·&nbsp; 👍 25,495 / 👎 6,393)
 
 ---
 
@@ -10278,7 +10418,7 @@
 
 `Open World Survival Craft`  `Sandbox`  `Massively Multiplayer`  `RPG`  `Crafting`  `Building`
 
-🟡 **Mixed** (60% of 1,678 reviews &nbsp;·&nbsp; 👍 1,001 / 👎 677)
+🟡 **Mixed** (52% of 4,100 reviews &nbsp;·&nbsp; 👍 2,126 / 👎 1,974)
 
 ---
 
@@ -10292,7 +10432,7 @@
 
 `Early Access`  `Action Roguelike`  `Hack and Slash`  `Action`  `Indie`  `Rogue-like`
 
-🟢 **Very Positive** (90% of 8,453 reviews &nbsp;·&nbsp; 👍 7,610 / 👎 843)
+🟢 **Very Positive** (89% of 10,277 reviews &nbsp;·&nbsp; 👍 9,140 / 👎 1,137)
 
 ---
 
@@ -10306,7 +10446,7 @@
 
 `RPG`  `Fantasy`  `Mature`  `Story Rich`  `Choices Matter`  `Singleplayer`
 
-🟢 **Very Positive** (90% of 87,064 reviews &nbsp;·&nbsp; 👍 77,950 / 👎 9,114)
+🟢 **Very Positive** (90% of 90,067 reviews &nbsp;·&nbsp; 👍 80,986 / 👎 9,081)
 
 🟢 **Metacritic:** [88](https://www.metacritic.com/game/pc/the-witcher-2-assassins-of-kings?ftag=MCD-06-10aaa1f)
 
@@ -10322,7 +10462,7 @@
 
 `Open World`  `RPG`  `Story Rich`  `Atmospheric`  `Mature`  `Fantasy`
 
-🟢 **Overwhelmingly Positive** (96% of 835,349 reviews &nbsp;·&nbsp; 👍 802,993 / 👎 32,356)
+🟢 **Overwhelmingly Positive** (97% of 880,182 reviews &nbsp;·&nbsp; 👍 851,679 / 👎 28,503)
 
 🟢 **Metacritic:** [93](https://www.metacritic.com/game/pc/the-witcher-3-wild-hunt?ftag=MCD-06-10aaa1f)
 
@@ -10338,7 +10478,7 @@
 
 `Strategy`  `Classic`  `Turn-Based Strategy`  `2D`  `Multiplayer`  `Retro`
 
-🟢 **Very Positive** (83% of 648 reviews &nbsp;·&nbsp; 👍 538 / 👎 110)
+🟢 **Very Positive** (83% of 703 reviews &nbsp;·&nbsp; 👍 584 / 👎 119)
 
 ---
 
@@ -10352,7 +10492,7 @@
 
 `Strategy`  `Multiplayer`  `Classic`  `Turn-Based`  `Turn-Based Strategy`  `Funny`
 
-🟢 **Very Positive** (94% of 10,107 reviews &nbsp;·&nbsp; 👍 9,524 / 👎 583)
+🟢 **Very Positive** (94% of 10,862 reviews &nbsp;·&nbsp; 👍 10,247 / 👎 615)
 
 ---
 
@@ -10366,7 +10506,7 @@
 
 `Strategy`  `2D`  `Turn-Based`  `Multiplayer`  `Local Multiplayer`  `Turn-Based Strategy`
 
-🟢 **Very Positive** (87% of 4,867 reviews &nbsp;·&nbsp; 👍 4,236 / 👎 631)
+🟢 **Very Positive** (87% of 5,089 reviews &nbsp;·&nbsp; 👍 4,441 / 👎 648)
 
 🟢 **Metacritic:** [79](https://www.metacritic.com/game/pc/worms-reloaded?ftag=MCD-06-10aaa1f)
 
@@ -10382,7 +10522,7 @@
 
 `Strategy`  `Multiplayer`  `Funny`  `Turn-Based`  `Turn-Based Strategy`  `Comedy`
 
-🟢 **Very Positive** (89% of 5,838 reviews &nbsp;·&nbsp; 👍 5,169 / 👎 669)
+🟢 **Very Positive** (89% of 6,233 reviews &nbsp;·&nbsp; 👍 5,523 / 👎 710)
 
 🟡 **Metacritic:** [66](https://www.metacritic.com/game/pc/worms-ultimate-mayhem?ftag=MCD-06-10aaa1f)
 
@@ -10398,7 +10538,7 @@
 
 `Strategy`  `Multiplayer`  `Action`  `Turn-Based Strategy`  `Funny`  `Local Multiplayer`
 
-🟢 **Very Positive** (86% of 12,661 reviews &nbsp;·&nbsp; 👍 10,843 / 👎 1,818)
+🟢 **Very Positive** (85% of 14,827 reviews &nbsp;·&nbsp; 👍 12,623 / 👎 2,204)
 
 🟢 **Metacritic:** [79](http://www.metacritic.com/game/pc/worms-wmd?ftag=MCD-06-10aaa1f)
 
@@ -10416,7 +10556,7 @@
 
 `Isometric`  `Turn-Based Combat`  `Post-apocalyptic`  `Turn-Based Tactics`  `Military`  `PvE`
 
-🟢 **Very Positive** (85% of 101,701 reviews &nbsp;·&nbsp; 👍 86,187 / 👎 15,514)
+🟢 **Very Positive** (85% of 108,780 reviews &nbsp;·&nbsp; 👍 92,068 / 👎 16,712)
 
 🟢 **Metacritic:** [88](https://www.metacritic.com/game/pc/xcom-2?ftag=MCD-06-10aaa1f)
 
@@ -10434,7 +10574,7 @@
 
 `Management`  `Singleplayer`  `Life Sim`  `Character Customization`  `Casual`  `Simulation`
 
-🟡 **Mostly Positive** (77% of 15,415 reviews &nbsp;·&nbsp; 👍 11,924 / 👎 3,491)
+🟡 **Mostly Positive** (77% of 15,413 reviews &nbsp;·&nbsp; 👍 11,932 / 👎 3,481)
 
 ---
 
@@ -10448,7 +10588,7 @@
 
 `Card Game`  `Card Battler`  `Deckbuilding`  `Anime`  `Simulation`  `Trading Card Game`
 
-🟢 **Very Positive** (84% of 4,795 reviews &nbsp;·&nbsp; 👍 4,041 / 👎 754)
+🟢 **Very Positive** (83% of 5,028 reviews &nbsp;·&nbsp; 👍 4,193 / 👎 835)
 
 ---
 
@@ -10462,7 +10602,7 @@
 
 `Simulation`  `Trading Card Game`  `Anime`  `Multiplayer`  `Card Game`  `Deckbuilding`
 
-🟢 **Very Positive** (82% of 4,361 reviews &nbsp;·&nbsp; 👍 3,584 / 👎 777)
+🟢 **Very Positive** (83% of 4,862 reviews &nbsp;·&nbsp; 👍 4,021 / 👎 841)
 
 ---
 
@@ -10478,7 +10618,7 @@
 
 `Survival`  `Massively Multiplayer`  `Multiplayer`  `Open World`  `Battle Royale`  `PvP`
 
-🟡 **Mixed** (56% of 204,013 reviews &nbsp;·&nbsp; 👍 113,729 / 👎 90,284)
+🟡 **Mixed** (56% of 202,442 reviews &nbsp;·&nbsp; 👍 113,063 / 👎 89,379)
 
 🟡 **Metacritic:** [70](https://www.metacritic.com/game/pc/h1z1?ftag=MCD-06-10aaa1f)
 
@@ -10494,7 +10634,7 @@
 
 `Military`  `Singleplayer`  `Co-op`  `VR`  `Action`  `FPS`
 
-🟡 **Mostly Positive** (77% of 4,823 reviews &nbsp;·&nbsp; 👍 3,696 / 👎 1,127)
+🟡 **Mostly Positive** (76% of 4,936 reviews &nbsp;·&nbsp; 👍 3,757 / 👎 1,179)
 
 ---
 
@@ -10508,7 +10648,7 @@
 
 `Tactical`  `Shooter`  `FPS`  `Realistic`  `Multiplayer`  `Action`
 
-🟡 **Mostly Positive** (79% of 31,630 reviews &nbsp;·&nbsp; 👍 24,924 / 👎 6,706)
+🟡 **Mostly Positive** (77% of 33,288 reviews &nbsp;·&nbsp; 👍 25,791 / 👎 7,497)
 
 ---
 
@@ -10522,6 +10662,6 @@
 
 `Puzzle`  `Indie`  `Casual`  `Fast-Paced`  `2D`  `Physics`
 
-🟢 **Overwhelmingly Positive** (97% of 3,656 reviews &nbsp;·&nbsp; 👍 3,557 / 👎 99)
+🟢 **Overwhelmingly Positive** (97% of 4,331 reviews &nbsp;·&nbsp; 👍 4,202 / 👎 129)
 
 ---
