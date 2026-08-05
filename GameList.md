@@ -1,6 +1,6 @@
-# Froggy's Steam Library
+# Froggys Steam Library
 
-**734 games**
+**722 games**
 
 [#](#0-9) &nbsp; [A](#a) &nbsp; [B](#b) &nbsp; [C](#c) &nbsp; [D](#d) &nbsp; [E](#e) &nbsp; [F](#f) &nbsp; [G](#g) &nbsp; [H](#h) &nbsp; [I](#i) &nbsp; [J](#j) &nbsp; [K](#k) &nbsp; [L](#l) &nbsp; [M](#m) &nbsp; [N](#n) &nbsp; [O](#o) &nbsp; [P](#p) &nbsp; [R](#r) &nbsp; [S](#s) &nbsp; [T](#t) &nbsp; [U](#u) &nbsp; [V](#v) &nbsp; [W](#w) &nbsp; [X](#x) &nbsp; [Y](#y) &nbsp; [Z](#z)
 
@@ -581,12 +581,6 @@
 `Military`  `Simulation`  `Action`  `Shooter`  `Realistic`  `FPS`
 
 🟡 **Mostly Positive** (76% of 30,623 reviews &nbsp;·&nbsp; 👍 23,326 / 👎 7,297)
-
----
-
-### <a href="https://store.steampowered.com/app/1890860"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1890860/f2e50077e3e4f27253efb584f29bb1455c280d8d.ico" width="32" height="32"></a> [Arma Reforger Experimental](https://store.steampowered.com/app/1890860)
-
-<a href="https://store.steampowered.com/app/1890860"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1890860/header.jpg" width="460"></a>
 
 ---
 
@@ -3942,20 +3936,6 @@
 
 ## H
 
-### <a href="https://store.steampowered.com/app/439700"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/439700/9dcb3ded108f01c44ae2911d9aa846fdb98a953b.ico" width="32" height="32"></a> [H1Z1: Test Server](https://store.steampowered.com/app/439700)
-
-<a href="https://store.steampowered.com/app/439700"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/439700/header.jpg" width="460"></a>
-
-**Dev:** Daybreak Game Company &nbsp;·&nbsp; **Released:** Feb 24, 2016
-
-*Z1 Battle Royale is a Free to Play, fast-paced, action arcade, competitive Battle Royale. Staying true to its &quot;King of the Kill&quot; roots, the game has been revamped and restored to the classic feel, look, and gameplay everyone fell in love with. Play solo, duos, or fives and be the last ones standing.*
-
-`Massively Multiplayer`  `Survival`  `Free to Play`  `Multiplayer`  `Shooter`  `Zombies`
-
-🟡 **Mixed** (52% of 2,565 reviews &nbsp;·&nbsp; 👍 1,341 / 👎 1,224)
-
----
-
 ### <a href="https://store.steampowered.com/app/1145360"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1145360/c2af83dde08c0636a1cd511abd0f9290913e6249.ico" width="32" height="32"></a> [Hades](https://store.steampowered.com/app/1145360)
 
 <a href="https://store.steampowered.com/app/1145360"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/header.jpg" width="460"></a>
@@ -4297,12 +4277,6 @@
 🟢 **Very Positive** (82% of 137,677 reviews &nbsp;·&nbsp; 👍 113,447 / 👎 24,230)
 
 🟢 **Metacritic:** [79](https://www.metacritic.com/game/pc/hell-let-loose?ftag=MCD-06-10aaa1f)
-
----
-
-### <a href="https://store.steampowered.com/app/1504860"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1504860/0fdcc5ceb1fa504077b0f8189afc31498e75183c.ico" width="32" height="32"></a> [Hell Let Loose (Public Testing)](https://store.steampowered.com/app/1504860)
-
-<a href="https://store.steampowered.com/app/1504860"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1504860/header.jpg" width="460"></a>
 
 ---
 
@@ -4829,20 +4803,6 @@
 `Zombies`  `Survival`  `Open World`  `Multiplayer`  `Massively Multiplayer`  `Crafting`
 
 🟡 **Mixed** (59% of 77,356 reviews &nbsp;·&nbsp; 👍 45,716 / 👎 31,640)
-
----
-
-### <a href="https://store.steampowered.com/app/362300"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/362300/3dff25e841d6abd0fcd0884d5f490854efbed0cf.ico" width="32" height="32"></a> [Just Survive Test Server](https://store.steampowered.com/app/362300)
-
-<a href="https://store.steampowered.com/app/362300"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362300/header.jpg" width="460"></a>
-
-**Dev:** Daybreak Game Company &nbsp;·&nbsp; **Released:** Apr 16, 2015
-
-*In Just Survive, you’ll have to be cutthroat, resourceful, and alert to protect yourself from zombies, beasts, and the deadliest threat of all – your fellow humans.*
-
-`Massively Multiplayer`  `Zombies`  `Survival`  `Open World`
-
-🟡 **Mixed** (69% of 387 reviews &nbsp;·&nbsp; 👍 268 / 👎 119)
 
 ---
 
@@ -5735,12 +5695,6 @@
 `Magic`  `Co-op`  `Adventure`  `Multiplayer`  `Comedy`  `Action`
 
 🟢 **Very Positive** (83% of 13,391 reviews &nbsp;·&nbsp; 👍 11,061 / 👎 2,330)
-
----
-
-### <a href="https://store.steampowered.com/app/397080"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/397080/capsule_sm_120.jpg" width="32" height="32"></a> [Magicka 2: Spell Balance Beta](https://store.steampowered.com/app/397080)
-
-<a href="https://store.steampowered.com/app/397080"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/397080/header.jpg" width="460"></a>
 
 ---
 
@@ -7542,18 +7496,6 @@
 
 ---
 
-### <a href="https://store.steampowered.com/app/813000"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/813000/403f0380e233a9ecb7b3716391e73a0e2de69bdd.ico" width="32" height="32"></a> [PUBG: Experimental Server](https://store.steampowered.com/app/813000)
-
-<a href="https://store.steampowered.com/app/813000"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/813000/header.jpg" width="460"></a>
-
----
-
-### <a href="https://store.steampowered.com/app/622590"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/622590/950f5a597a83368f0eebe83dcf7730847f846c26.ico" width="32" height="32"></a> [PUBG: Test Server](https://store.steampowered.com/app/622590)
-
-<a href="https://store.steampowered.com/app/622590"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/622590/header.jpg" width="460"></a>
-
----
-
 ### <a href="https://store.steampowered.com/app/880940"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/880940/84e99e4ebffe6db802d09741cd3f3fdb60d3c675.ico" width="32" height="32"></a> [Pummel Party](https://store.steampowered.com/app/880940)
 
 <a href="https://store.steampowered.com/app/880940"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/880940/header.jpg" width="460"></a>
@@ -8526,12 +8468,6 @@
 
 ---
 
-### <a href="https://store.steampowered.com/app/480"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/480/capsule_sm_120.jpg" width="32" height="32"></a> [Spacewar](https://store.steampowered.com/app/480)
-
-<a href="https://store.steampowered.com/app/480"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/480/header.jpg" width="460"></a>
-
----
-
 ### <a href="https://store.steampowered.com/app/50300"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/50300/1542cb085bdc567e0a896d8f2e2bdc3d2ccf73a7.ico" width="32" height="32"></a> [Spec Ops: The Line](https://store.steampowered.com/app/50300)
 
 <a href="https://store.steampowered.com/app/50300"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/50300/header.jpg" width="460"></a>
@@ -8692,12 +8628,6 @@
 
 ---
 
-### <a href="https://store.steampowered.com/app/774941"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/774941/8540ba04ef7cd6f408d604f5b3fe49d528bd7570.ico" width="32" height="32"></a> [Squad - Public Testing](https://store.steampowered.com/app/774941)
-
-<a href="https://store.steampowered.com/app/774941"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/774941/header.jpg" width="460"></a>
-
----
-
 ### <a href="https://store.steampowered.com/app/736220"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/736220/68c27e86d42c9e4dcd1939fbd550d16ab209faf6.ico" width="32" height="32"></a> [Squad 44](https://store.steampowered.com/app/736220)
 
 <a href="https://store.steampowered.com/app/736220"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/736220/header.jpg" width="460"></a>
@@ -8709,12 +8639,6 @@
 `World War II`  `FPS`  `Simulation`  `Military`  `Singleplayer`  `Multiplayer`
 
 🟡 **Mostly Positive** (75% of 24,664 reviews &nbsp;·&nbsp; 👍 18,508 / 👎 6,156)
-
----
-
-### <a href="https://store.steampowered.com/app/844630"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/844630/ffb742b636c79346aa498b66a553c91315fc44de.ico" width="32" height="32"></a> [Squad 44 - Public Testing](https://store.steampowered.com/app/844630)
-
-<a href="https://store.steampowered.com/app/844630"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/844630/header.jpg" width="460"></a>
 
 ---
 
@@ -8911,12 +8835,6 @@
 🟢 **Very Positive** (92% of 164,906 reviews &nbsp;·&nbsp; 👍 152,150 / 👎 12,756)
 
 🟢 **Metacritic:** [81](https://www.metacritic.com/game/pc/starbound?ftag=MCD-06-10aaa1f)
-
----
-
-### <a href="https://store.steampowered.com/app/367540"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/367540/6e639cd93b85ff89ca3aa26a6647cf1e77d95b36.ico" width="32" height="32"></a> [Starbound - Unstable](https://store.steampowered.com/app/367540)
-
-<a href="https://store.steampowered.com/app/367540"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/367540/header.jpg" width="460"></a>
 
 ---
 
@@ -9591,12 +9509,6 @@
 `FPS`  `PvP`  `Multiplayer`  `Tactical`  `e-sports`  `Shooter`
 
 🟢 **Very Positive** (84% of 1,398,584 reviews &nbsp;·&nbsp; 👍 1,172,854 / 👎 225,730)
-
----
-
-### <a href="https://store.steampowered.com/app/623990"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/623990/7fa2839e2795c96f64a7db38200febc8d59c78b6.ico" width="32" height="32"></a> [Tom Clancy's Rainbow Six Siege - Test Server](https://store.steampowered.com/app/623990)
-
-<a href="https://store.steampowered.com/app/623990"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/623990/header.jpg" width="460"></a>
 
 ---
 
