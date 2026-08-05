@@ -3,28 +3,35 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="color-scheme" content="dark light">
 <title>Froggy&#x27;s Library</title>
-<meta name="description" content="722 games.">
+<meta name="description" content="A browsable index of 722 Steam games — reviews, tags, developers and prices.">
+<meta name="theme-color" content="#0f1518">
+<meta name="color-scheme" content="dark light">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Froggy&#x27;s Library">
+<meta property="og:description" content="A browsable index of 722 Steam games — reviews, tags, developers and prices.">
+<meta property="og:site_name" content="Froggy&#x27;s Library">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Froggy&#x27;s Library">
+<meta name="twitter:description" content="A browsable index of 722 Steam games — reviews, tags, developers and prices.">
+<meta property="og:url" content="https://froggeyy.github.io/FroggySteamLib/">
+<link rel="canonical" href="https://froggeyy.github.io/FroggySteamLib/">
+<meta property="og:image" content="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/162664aa5da85f418105350c5d67ca565f6c3713/header.jpg">
+<meta property="og:image:width" content="460">
+<meta property="og:image:height" content="215">
+<meta name="twitter:image" content="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/162664aa5da85f418105350c5d67ca565f6c3713/header.jpg">
+<meta name="author" content="Froggy">
+<link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2064%2064%22%3E%3Crect%20width%3D%2264%22%20height%3D%2264%22%20rx%3D%2214%22%20fill%3D%22%237fb069%22%2F%3E%3Ctext%20x%3D%2232%22%20y%3D%2246%22%20font-family%3D%22Verdana%2CDejaVu%20Sans%2Csans-serif%22%20font-size%3D%2238%22%20font-weight%3D%22bold%22%20text-anchor%3D%22middle%22%20fill%3D%22%230f1518%22%3EF%3C%2Ftext%3E%3C%2Fsvg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preconnect" href="https://shared.fastly.steamstatic.com">
 <link rel="preconnect" href="https://shared.akamai.steamstatic.com">
-<link rel="preconnect" href="https://cdn.cloudflare.steamstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600..800&display=swap" rel="stylesheet">
-<style>
-:root{
-  --ink:#0f1518; --slab:#161e22; --slab-2:#1b2529; --edge:#253238;
-  --text:#dde5e2; --dim:#8b9a99; --moss:#7fb069; --moss-dim:#5d8a4d;
-  --pos:#7fb069; --mid:#d4a24c; --neg:#c4614f;
+<style>:root{--ink:#0f1518;--slab:#161e22;--slab-2:#1b2529;--edge:#253238;--text:#dde5e2;--dim:#8b9a99;--acc:#7fb069;--acc-dim:#5d8a4d;--pos:#7fb069;--mid:#d4a24c;--neg:#c4614f;
   --rail:64px; --maxw:1180px;
   --fd:"Bricolage Grotesque","Segoe UI",system-ui,sans-serif;
-  --fb:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
-}
-[data-theme="light"]{
-  --ink:#f4f6f5; --slab:#fff; --slab-2:#eef1f0; --edge:#d6dedb;
-  --text:#16201f; --dim:#5e6d6b; --moss:#4a7a38; --moss-dim:#6b9a5b;
-  --pos:#3f7a2e; --mid:#9a6f18; --neg:#a8412f;
-}
+  --fb:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;}
+[data-theme="light"]{--ink:#f4f6f5;--slab:#ffffff;--slab-2:#eef1f0;--edge:#d6dedb;--text:#16201f;--dim:#5e6d6b;--acc:#4a7a38;--acc-dim:#6b9a5b;--pos:#3f7a2e;--mid:#9a6f18;--neg:#a8412f;}
 *{box-sizing:border-box}
 html{scroll-behavior:smooth;scroll-padding-top:92px}
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}
@@ -32,29 +39,28 @@ html{scroll-behavior:smooth;scroll-padding-top:92px}
 body{margin:0;background:var(--ink);color:var(--text);font-family:var(--fb);
   font-size:15px;line-height:1.55;-webkit-font-smoothing:antialiased}
 
-/* ── Header ── */
 .top{position:sticky;top:0;z-index:20;background:color-mix(in srgb,var(--ink) 92%,transparent);
   backdrop-filter:blur(12px);border-bottom:1px solid var(--edge)}
 .top-in{max-width:var(--maxw);margin:0 auto;padding:14px 20px 14px calc(var(--rail) + 20px);
   display:flex;gap:16px;align-items:center;flex-wrap:wrap}
 h1{font-family:var(--fd);font-size:20px;font-weight:800;letter-spacing:-.02em;margin:0;
   white-space:nowrap}
-h1 .dot{color:var(--moss)}
+h1 .dot{color:var(--acc)}
 .count{font-family:var(--fd);font-size:12px;color:var(--dim);font-variant-numeric:tabular-nums;
   letter-spacing:.04em;text-transform:uppercase;white-space:nowrap}
 .search{flex:1;min-width:180px;position:relative}
 .search input{width:100%;padding:9px 34px 9px 12px;background:var(--slab);color:var(--text);
   border:1px solid var(--edge);border-radius:7px;font:inherit;font-size:14px}
-.search input:focus{outline:2px solid var(--moss);outline-offset:1px;border-color:transparent}
+.search input:focus{outline:2px solid var(--acc);outline-offset:1px;border-color:transparent}
 .search input::placeholder{color:var(--dim)}
 .clear{position:absolute;right:6px;top:50%;transform:translateY(-50%);background:none;border:0;
   color:var(--dim);cursor:pointer;font-size:17px;line-height:1;padding:4px;display:none}
 .search.has-val .clear{display:block}
 .tgl{background:var(--slab);border:1px solid var(--edge);color:var(--dim);border-radius:7px;
   padding:8px 11px;cursor:pointer;font:inherit;font-size:13px}
-.tgl:hover{color:var(--text);border-color:var(--moss-dim)}
+.tgl:hover{color:var(--text);border-color:var(--acc-dim)}
+.tgl:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
 
-/* ── A–Z spine: the one place spending any boldness ── */
 .rail{position:fixed;left:0;top:0;bottom:0;width:var(--rail);z-index:15;
   display:flex;flex-direction:column;align-items:center;justify-content:center;gap:1px;
   border-right:1px solid var(--edge);background:var(--slab)}
@@ -62,23 +68,20 @@ h1 .dot{color:var(--moss)}
   text-decoration:none;width:26px;height:20px;display:grid;place-items:center;border-radius:5px;
   transition:color .12s,background .12s,transform .12s}
 .rail a:hover{color:var(--text);background:var(--slab-2)}
-.rail a.on{color:var(--ink);background:var(--moss);transform:scale(1.35);font-weight:800}
-[data-theme="light"] .rail a.on{color:#fff}
-.rail a:focus-visible{outline:2px solid var(--moss);outline-offset:2px}
+.rail a.on{color:var(--ink);background:var(--acc);transform:scale(1.35);font-weight:800}
+.rail a:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
 
-/* ── Layout ── */
 main{max-width:var(--maxw);margin:0 auto;padding:26px 20px 80px calc(var(--rail) + 20px)}
 .sect{margin:0 0 34px}
 .sect h2{font-family:var(--fd);font-size:13px;font-weight:800;letter-spacing:.18em;
-  text-transform:uppercase;color:var(--moss);margin:0 0 12px;padding-bottom:7px;
+  text-transform:uppercase;color:var(--acc);margin:0 0 12px;padding-bottom:7px;
   border-bottom:1px solid var(--edge)}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(310px,1fr));gap:14px}
 
-/* ── Card ── */
 .card{background:var(--slab);border:1px solid var(--edge);border-radius:10px;overflow:hidden;
   display:flex;flex-direction:column;contain-intrinsic-size:auto 340px;content-visibility:auto;
   transition:border-color .14s,transform .14s}
-.card:hover{border-color:var(--moss-dim);transform:translateY(-2px)}
+.card:hover{border-color:var(--acc-dim);transform:translateY(-2px)}
 .cap{display:block;aspect-ratio:460/215;background:var(--slab-2);position:relative}
 .cap img{width:100%;height:100%;object-fit:cover;display:block}
 .cap.noart{background:linear-gradient(135deg,var(--slab-2),var(--slab));
@@ -91,7 +94,7 @@ main{max-width:var(--maxw);margin:0 auto;padding:26px 20px 80px calc(var(--rail)
 .title a{font-family:var(--fd);font-weight:700;font-size:15px;color:var(--text);
   text-decoration:none;letter-spacing:-.01em;overflow:hidden;text-overflow:ellipsis;
   white-space:nowrap}
-.title a:hover{color:var(--moss)}
+.title a:hover{color:var(--acc)}
 .meta{font-size:12px;color:var(--dim);display:flex;gap:6px;flex-wrap:wrap;
   font-variant-numeric:tabular-nums}
 .meta b{color:var(--text);font-weight:600}
@@ -119,12 +122,9 @@ main{max-width:var(--maxw);margin:0 auto;padding:26px 20px 80px calc(var(--rail)
   .rail{position:static;width:auto;height:auto;flex-direction:row;flex-wrap:wrap;
     justify-content:flex-start;padding:8px 12px;border-right:0;border-bottom:1px solid var(--edge)}
   .rail a.on{transform:none}
-  .top-in{padding-left:20px}
-  main{padding-left:20px}
-  h1{font-size:17px}
-  .grid{grid-template-columns:1fr}
-}
-</style>
+  .top-in{padding-left:20px} main{padding-left:20px}
+  h1{font-size:17px} .grid{grid-template-columns:1fr}
+}</style>
 </head>
 <body>
 <nav class="rail" aria-label="Jump to letter"><a href="#num" data-l="#">#</a><a href="#a" data-l="A">A</a><a href="#b" data-l="B">B</a><a href="#c" data-l="C">C</a><a href="#d" data-l="D">D</a><a href="#e" data-l="E">E</a><a href="#f" data-l="F">F</a><a href="#g" data-l="G">G</a><a href="#h" data-l="H">H</a><a href="#i" data-l="I">I</a><a href="#j" data-l="J">J</a><a href="#k" data-l="K">K</a><a href="#l" data-l="L">L</a><a href="#m" data-l="M">M</a><a href="#n" data-l="N">N</a><a href="#o" data-l="O">O</a><a href="#p" data-l="P">P</a><a href="#r" data-l="R">R</a><a href="#s" data-l="S">S</a><a href="#t" data-l="T">T</a><a href="#u" data-l="U">U</a><a href="#v" data-l="V">V</a><a href="#w" data-l="W">W</a><a href="#x" data-l="X">X</a><a href="#y" data-l="Y">Y</a><a href="#z" data-l="Z">Z</a></nav>
@@ -143,9 +143,7 @@ main{max-width:var(--maxw);margin:0 auto;padding:26px 20px 80px calc(var(--rail)
 <div class="empty" id="empty"><b>No matches</b>Try a different name, developer, or tag.</div>
 </main>
 <script>
-/* Steam publishes icons inconsistently: some apps have a .ico, some only a
-   .jpg, a few neither. If whatever we picked 404s, swap in the store capsule
-   once rather than showing a broken image. */
+/* Broken art: swap small icons for the store capsule once, drop dead headers. */
 document.addEventListener('error', e=>{
   const el=e.target;
   if(el.tagName!=='IMG' || el.dataset.fb) return;
@@ -153,10 +151,7 @@ document.addEventListener('error', e=>{
   const id=el.closest('[data-app]')?.dataset.app;
   if(id && el.width<=32){
     el.src='https://cdn.cloudflare.steamstatic.com/steam/apps/'+id+'/capsule_sm_120.jpg';
-  } else {
-    el.closest('.cap')?.classList.add('noart');
-    el.remove();
-  }
+  } else { el.closest('.cap')?.classList.add('noart'); el.remove(); }
 }, true);
 
 const q=document.getElementById('q'), cards=[...document.querySelectorAll('.card')],
@@ -164,19 +159,20 @@ const q=document.getElementById('q'), cards=[...document.querySelectorAll('.card
       empty=document.getElementById('empty'), wrap=document.getElementById('sw'),
       total=cards.length;
 
-/* Theme: honour the OS unless the reader has chosen. */
-const root=document.documentElement, KEY='froggylib-theme';
-function setTheme(t){root.dataset.theme=t;
-  document.getElementById('tgl').textContent = t==='light' ? 'Dark' : 'Light';}
-try{ const s=localStorage.getItem(KEY);
-  setTheme(s || (matchMedia('(prefers-color-scheme: light)').matches?'light':'dark'));
-}catch(e){ setTheme('dark'); }
+/* Dark by default. Only an explicit choice is remembered. */
+const root=document.documentElement, KEY='steamlib-theme';
+function setTheme(t){
+  root.dataset.theme=t;
+  document.getElementById('tgl').textContent = t==='light' ? 'Dark' : 'Light';
+  const m=document.querySelector('meta[name=theme-color]');
+  if(m) m.setAttribute('content', getComputedStyle(root).getPropertyValue('--ink').trim());
+}
+try{ setTheme(localStorage.getItem(KEY) || 'dark'); }catch(e){ setTheme('dark'); }
 document.getElementById('tgl').onclick=()=>{
   const t=root.dataset.theme==='light'?'dark':'light';
   setTheme(t); try{localStorage.setItem(KEY,t)}catch(e){}
 };
 
-/* Filter. 722 nodes is small enough to touch directly; no virtualisation. */
 let timer;
 function apply(){
   const s=q.value.trim().toLowerCase();
@@ -200,7 +196,6 @@ document.addEventListener('keydown',e=>{
   if(e.key==='Escape' && document.activeElement===q){q.value='';apply();q.blur()}
 });
 
-/* Spine tracks the section in view. */
 const links=new Map([...document.querySelectorAll('.rail a')].map(a=>[a.dataset.l,a]));
 const io=new IntersectionObserver(es=>{
   if(q.value.trim()) return;
