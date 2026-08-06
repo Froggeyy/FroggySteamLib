@@ -278,6 +278,49 @@ main{max-width:var(--maxw);margin:0 auto;padding:26px 20px 80px calc(var(--rail)
   <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 4.6l7.4 7.4-1.5 1.5-4.9-4.9V19.4h-2V8.6l-4.9 4.9L4.6 12z"/></svg>
 </button>
 <script>
+/* ── Back to top ──────────────────────────────────────────────────────────
+   Deliberately first and self-contained. Everything else in this script runs
+   as one block — if anything later throws (a missing element, a blocked
+   font, a browser quirk), every statement after it is skipped, and a button
+   whose only job is toggling a class in a scroll handler goes permanently
+   invisible with no error the user can see. Wiring it up before any of that
+   means it keeps working even if the rest of the page doesn't. */
+(function(){
+  try{
+    const toTop=document.getElementById('totop');
+    if(!toTop) return;
+    let ticking=false;
+    function onScroll(){
+      if(ticking) return;
+      ticking=true;
+      requestAnimationFrame(()=>{
+        toTop.classList.toggle('show', scrollY>600);
+        ticking=false;
+      });
+    }
+    addEventListener('scroll', onScroll, {passive:true});
+    onScroll();
+    toTop.addEventListener('click', ()=>{
+      let smooth=true;
+      try{ smooth=!matchMedia('(prefers-reduced-motion:reduce)').matches; }catch(e){}
+      try{ scrollTo({top:0, behavior:smooth?'smooth':'auto'}); }
+      catch(e){ scrollTo(0,0); }
+      /* Send focus somewhere sensible rather than leaving it on a button that
+         has just faded out from under the user. */
+      const h=document.querySelector('h1');
+      if(h){ h.setAttribute('tabindex','-1'); h.focus({preventScroll:true}); }
+      /* The rail's "on" letter is otherwise left over from wherever the user
+         scrolled from — the section-visibility observer only updates it on
+         intersection, and jumping straight to the top doesn't necessarily
+         trigger one. Clear it immediately so the rail matches reality. */
+      try{
+        document.querySelectorAll('.rail a.on').forEach(a=>a.classList.remove('on'));
+        history.replaceState(null,'',location.pathname+location.search);
+      }catch(e){}
+    });
+  }catch(e){}
+})();
+
 /* Broken art: swap small icons for the store capsule once, drop dead headers. */
 document.addEventListener('error', e=>{
   const el=e.target;
@@ -439,34 +482,6 @@ function keepLetterVisible(a){
   }catch(e){}
 }
 
-/* ── Back to top ────────────────────────────────────────────────────────── */
-const toTop=document.getElementById('totop');
-let ticking=false;
-function onScroll(){
-  if(ticking) return;
-  ticking=true;
-  requestAnimationFrame(()=>{
-    const y=window.pageYOffset||document.documentElement.scrollTop;
-    toTop.classList.toggle('show', y>600);
-    ticking=false;
-  });
-}
-addEventListener('scroll', onScroll, {passive:true});
-onScroll();
-toTop.addEventListener('click', ()=>{
-  let smooth=true;
-  try{ smooth=!matchMedia('(prefers-reduced-motion:reduce)').matches; }catch(e){}
-  try{ scrollTo({top:0, behavior:smooth?'smooth':'auto'}); }
-  catch(e){ scrollTo(0,0); }
-  links.forEach(a=>a.classList.remove('on'));
-  const first=links.get('#');
-  if(first){ first.classList.add('on'); keepLetterVisible(first);}
-  history.replaceState(null,'','#');
-  /* Send focus somewhere sensible rather than leaving it on a button that has
-     just faded out from under the user. */
-  const h=document.querySelector('h1');
-  if(h){ h.setAttribute('tabindex','-1'); h.focus({preventScroll:true}); }
-});
 </script>
 </body>
 </html>
