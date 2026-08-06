@@ -446,7 +446,8 @@ function onScroll(){
   if(ticking) return;
   ticking=true;
   requestAnimationFrame(()=>{
-    toTop.classList.toggle('show', scrollY>600);
+    const y=window.pageYOffset||document.documentElement.scrollTop;
+    toTop.classList.toggle('show', y>600);
     ticking=false;
   });
 }
@@ -457,6 +458,10 @@ toTop.addEventListener('click', ()=>{
   try{ smooth=!matchMedia('(prefers-reduced-motion:reduce)').matches; }catch(e){}
   try{ scrollTo({top:0, behavior:smooth?'smooth':'auto'}); }
   catch(e){ scrollTo(0,0); }
+  links.forEach(a=>a.classList.remove('on'));
+  const first=links.get('#');
+  if(first){ first.classList.add('on'); keepLetterVisible(first);}
+  history.replaceState(null,'','#');
   /* Send focus somewhere sensible rather than leaving it on a button that has
      just faded out from under the user. */
   const h=document.querySelector('h1');
